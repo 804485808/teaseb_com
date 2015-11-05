@@ -1,0 +1,6 @@
+﻿title:[标签:标题]
+price:[标签:price]
+thumb:[标签:thumb]
+canshu:[标签:参数]
+content:[标签:content]
+fangfa:[标签:使用方法]
