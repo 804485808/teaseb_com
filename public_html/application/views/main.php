@@ -1,316 +1,371 @@
-<header>
-            <div class="mobUp">
-                <div class="mob-logo">
-                    <a href="/" ><img src="<?php echo base_url('/skin/images/motors-logo.png');?>" alt="" class="img-responsive"></a>
-
-                </div>
-                <ul>
-
-                    <?php if(!$username) {?>
-                        <li><a href="<?php echo main_url(site_url("/reg_login/login_in/"))?>">Sign In</a></li>
-                        <li>|</li>
-                        <li><a href="<?php echo main_url(site_url("/reg_login/register/"))?>">Join Free</a></li>
-                    <?php }else {?>
-                        <li><a href="<?php echo main_url(site_url("/user/user_main/"))?>">My Center</a></li>
-                        <li>|</li>
-                        <li><a href="<?php echo main_url(site_url("/reg_login/login_out/"))?>" rel="nofollow">Sign Out</a></li>
-                    <?php }?>
-
-                </ul>
-                <div class="clear"></div>
-            </div>
-    <div class="mob-motors-sousuo">
-        <div class="mob-motors-search">
-            <div class="mob-motors-dropdown" id="dropdown">
-                <div class="mob-btn-color" id="btn-meun">All <span class="carets">▼</span> </div>
-                <ul class="mob-motors-last" id="last">
-                    <li><a href="#">All</a></li>
-                    <li><a href="#">Products</a></li>
-                    <li><a href="#">Suppliers</a></li>
-                    <li><a href="#">Buyers</a></li>
-                </ul>
-            </div>
-
-            <form action="<?php echo site_url("search/".$kw);?>" method="post" id="fast_search" name="fast_search">
-                <div class="mob-motors-text">
-                    <input type="text" id="input_text"  name="search" class="mob-motors-input">
-                </div>
-            </form>
-        </div>
-        <div class="mob-motors-btnsearch"><i onclick="search_sub()" class="fa fa-search fa-lg motors-hidden"></i></div>
-        <div class="clear"></div>
-
-    </div>
-</header>
-<script type="text/javascript">
-    $("#search").click(function(){
-        $("#fast_search").submit();
-    })
-</script>
-<div class="mob-banner">
-    <div class="mob-bannerBox" id="bannerBox">
-        <div class="hd">
-            <ul></ul>
-        </div>
-        <div class="bd">
-            <ul>
-                <li>
-                    <div class="pic"><a href="#"><img src="<?php echo base_url('/skin/images/banner1.jpg')?>" class="img-responsive" alt=""/></a></div>
-                </li>
-                <li>
-                    <div class="pic"><a href="#"><img src="<?php echo base_url('/skin/images/banner2.jpg')?>" class="img-responsive" alt=""/></a></div>
-                </li>
-                <li>
-                    <div class="pic"><a href="#"><img src="<?php echo base_url('/skin/images/banner3.jpg')?>" class="img-responsive" alt=""/></a></div>
-                </li>
-                <li>
-                    <div class="pic"><a href="#"><img src="<?php echo base_url('/skin/images/banner4.jpg')?>" class="img-responsive" alt=""/></a></div>
-                </li>
-            </ul>
-            <div class="clear"></div>
-        </div>
-    </div>
-</div>
-<div class="mob-nav">
-    <div class="mob-ulLi">
-        <a href="<?php echo site_url('products/index')?>" class="mob-backImg"><img src="<?php echo base_url('/skin/images/mob-allproducts.png')?>" class="img-responsive" alt=""></a>
-        <span><a href="<?php echo site_url('products/index')?>">Products</a></span>
-    </div>
-    <div class="mob-ulLi">
-        <a href="<?php echo site_url('news/index')?>" class="mob-backImg"><img src="<?php echo base_url('/skin/images/mob-information.png')?>" class="img-responsive" alt=""></a>
-        <span><a href="<?php echo site_url('news/index')?>">Information</a></span>
-    </div>
-    <div class="mob-ulLi">
-        <a href="<?php echo site_url('company/suppliers')?>" class="mob-backImg"><img src="<?php echo base_url('/skin/images/mob-suppliers.png')?>" class="img-responsive" alt=""></a>
-        <span><a href="<?php echo site_url('company/suppliers')?>">Suppliers</a></span>
-    </div>
-    <div class="mob-ulLi">
-        <a href="<?php echo site_url('news/newsList/28')?>" class="mob-backImg"><img src="<?php echo base_url('/skin/images/mob-exhibition.png')?>" class="img-responsive" alt=""></a>
-        <span><a href="<?php echo site_url('news/newsList/28')?>">Exhibition</a></span>
-    </div>
-    <div class="clear"></div>
-</div>
-<div class="mob-allProduct">
-    <div class="mob-hotProduct" id="ProductBox">
-        <div class="hd">
-            <ul>
-                <li class="on">Hot Products</li>
-                <li>New Products</li>
-            </ul>
-            <div class="clear"></div>
-        </div>
-        <div class="bd">
-            <ul>
-                <?php foreach(array_slice($hot_pros,0,4) as $k=>$v){?>
-                <li>
-                    <div class="mob-ProFeaturedImg">
-                        <a href="<?php echo site_url('sell_detail/index/'.$v['itemid'].'/'.$v['linkurl'])?>">
-                            <img src="<?php echo site_url('mob_img/img'.$v['thumb'])?>" class="img-responsive" alt="<?php echo $v['title']?>">
-                        </a>
-                    </div>
-                    <dl>
-                        <dt><a href="<?php echo site_url('sell_detail/index/'.$v['itemid'].'/'.$v['linkurl'])?>">
-                                <?php echo $v['title']?>
-                        </a></dt>
-                        <?php foreach($v['attr'] as $ak=>$av){?>
-                            <dd><?php echo $av['name']?>：<b  class="motors-public-color" title="<?php echo $av['value']?>"><?php echo strlen($av['value'])>20?substr($av['value'],0,15)."...":$av['value']?></b></dd>
-                        <?php }?>
-
-                    </dl>
-                </li>
-                <?php }?>
-            </ul>
-            <ul>
-
-                <?php foreach(array_slice($selllist,0,4) as $k=>$v){?>
-                <li>
-                    <div class="mob-ProFeaturedImg"><a href="<?php echo site_url('sell_detail/index/'.$v['itemid'].'/'.$v['linkurl'])?>">
-                            <img src="<?php echo site_url('mob_img/img'.$v['thumb'])?>" class="img-responsive" alt="<?php echo $v['subtitle']?>">
-                        </a></div>
-                    <dl>
-                        <dt><a href="<?php echo site_url('sell_detail/index/'.$v['itemid'].'/'.$v['linkurl'])?>"><?php echo substr($v['subtitle'],0,50)?></a></dt>
-                        <dd>Price：<b class="motors-public-color"><?php  echo $v['minprice']>0 ? $v['currency']." ".$v['minprice'] : "Negotiable"?></b> </dd>
-                        <dd>MOQ：<b class="motors-public-color"><?php echo $v['minamount']."/".$v['unit']?></b></dd>
-                        <dd>Region：<b class="motors-public-color"><?php echo $v['areaname']?></b></dd>
-                    </dl>
-                </li>
-                <?php }?>
-            </ul>
-            <div class="clear"></div>
-        </div>
-    </div>
-</div>
-
-<div class="mob-HotBrands">
-    <h1>Hot Brands</h1>
-    <ul>
-        <li><a><img src="<?php echo base_url('/skin/images/Aosmith.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/Baldor.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/Maxon.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/Minn_korn.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/rockwell.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/Siemens.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/Suzuki.png')?>" class="img-responsive" alt=""></a></li>
-        <li><a><img src="<?php echo base_url('/skin/images/Yamaha.png')?>" class="img-responsive" alt=""></a></li>
-    </ul>
-    <div class="clear"></div>
-</div>
-
-<div class="motors-Business">
-    <div class="motors-tabBusiness" id="MBbox">
-        <div class="hd">
-            <ul>
-                <li class="on">Information</li>
-                <li>Exhibition </li>
-                <li>Technology </li>
-            </ul>
-        </div>
-        <div class="bd">
-            <article>
-                <?php foreach(array_slice($newsTop,0,4) as $k=>$v){?>
-                <section>
-                    <div class="motors-Timg"><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>">
-                            <img src="<?php echo site_url('mob_img/img'.$v['thumb'])?>" title="" alt="" class="img-responsive">
-                        </a></div>
-                    <div class="mob-text">
-                        <h1><a title="<?php echo $v['title']?>" href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo $v['title']?></a></h1>
-                        <h3><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo substr(strip_tags($v['content']),0,250)?>...</a></h3>
-                    </div>
-                </section>
-                <?php }?>
-            </article>
-            <article>
-                <?php foreach(array_slice($exhibition,0,4) as $k=>$v){?>
-                <section>
-                    <div class="motors-Timg"><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>">
-                            <img src="<?php echo site_url('mob_img/img'.$v['thumb'])?>" title="" alt="" class="img-responsive">
-                        </a></div>
-                    <div class="mob-text">
-                        <h1><a title="<?php echo $v['title']?>" href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo $v['title']?></a></h1>
-                        <h3><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo substr(strip_tags($v['content']),0,250)?>...</a></h3>
-                    </div>
-                </section>
-               <?php }?>
-            </article>
-            <article>
-
-                <?php foreach(array_slice($mobile_technology,0,4) as $k=>$v){?>
-                    <section>
-                        <div class="motors-Timg"><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>">
-                                <img src="<?php echo site_url('mob_img/img'.$v['thumb'])?>" title="" alt="" class="img-responsive">
-                            </a></div>
-                        <div class="mob-text">
-                            <h1><a title="<?php echo $v['title']?>" href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo $v['title']?></a></h1>
-                            <h3><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo substr(strip_tags($v['content']),0,250)?>...</a></h3>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Lookz Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href="<?php echo base_url('/skin/css/bootstrap.css')?>" rel='stylesheet' type='text/css' />
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- Custom Theme files -->
+    <link href="<?php echo base_url('/skin/css/style.css')?>" rel='stylesheet' type='text/css' />
+    <!-- Custom Theme files -->
+    <!--webfont-->
+    <link href='http://fonts.useso.com/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="<?php echo base_url('/skin/js/jquery-1.11.1.min.js')?>"></script>
+    <!-- start menu -->
+    <link href="<?php echo base_url('/skin/css/megamenu.css')?>" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="<?php echo base_url('/skin/js/megamenu.js')?>"></script>
+    <script>$(document).ready(function(){$(".megamenu").megamenu();});</script>
+</head>
+<body>
+<div class="wrap">
+<div class="container">
+<div class="header_top">
+    <div class="col-sm-9 h_menu4">
+        <ul class="megamenu skyblue">
+            <li class="active grid"><a class="color8" href="index.html">New</a></li>
+            <li><a class="color1" href="#">Men</a><div class="megapanel">
+                    <div class="row">
+                        <div class="col1">
+                            <div class="h_nav">
+                                <ul>
+                                    <li><a href="men.html">Accessories</a></li>
+                                    <li><a href="men.html">Bags</a></li>
+                                    <li><a href="men.html">Caps & Hats</a></li>
+                                    <li><a href="men.html">Hoodies & Sweatshirts</a></li>
+                                    <li><a href="men.html">Jackets & Coats</a></li>
+                                    <li><a href="men.html">Jeans</a></li>
+                                    <li><a href="men.html">Jewellery</a></li>
+                                    <li><a href="men.html">Jumpers & Cardigans</a></li>
+                                    <li><a href="men.html">Leather Jackets</a></li>
+                                    <li><a href="men.html">Long Sleeve T-Shirts</a></li>
+                                    <li><a href="men.html">Loungewear</a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </section>
-                <?php }?>
-
-            </article>
-        </div>
+                        <div class="col1">
+                            <div class="h_nav">
+                                <ul>
+                                    <li><a href="men.html">Shirts</a></li>
+                                    <li><a href="men.html">Shoes, Boots & Trainers</a></li>
+                                    <li><a href="men.html">Shorts</a></li>
+                                    <li><a href="men.html">Suits & Blazers</a></li>
+                                    <li><a href="men.html">Sunglasses</a></li>
+                                    <li><a href="men.html">Sweatpants</a></li>
+                                    <li><a href="men.html">Swimwear</a></li>
+                                    <li><a href="men.html">Trousers & Chinos</a></li>
+                                    <li><a href="men.html">T-Shirts</a></li>
+                                    <li><a href="men.html">Underwear & Socks</a></li>
+                                    <li><a href="men.html">Vests</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col1">
+                            <div class="h_nav">
+                                <h4>Popular Brands</h4>
+                                <ul>
+                                    <li><a href="men.html">Levis</a></li>
+                                    <li><a href="men.html">Persol</a></li>
+                                    <li><a href="men.html">Nike</a></li>
+                                    <li><a href="men.html">Edwin</a></li>
+                                    <li><a href="men.html">New Balance</a></li>
+                                    <li><a href="men.html">Jack & Jones</a></li>
+                                    <li><a href="men.html">Paul Smith</a></li>
+                                    <li><a href="men.html">Ray-Ban</a></li>
+                                    <li><a href="men.html">Wood Wood</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="grid"><a class="color2" href="#">Women</a>
+                <div class="megapanel">
+                    <div class="row">
+                        <div class="col1">
+                            <div class="h_nav">
+                                <ul>
+                                    <li><a href="men.html">Accessories</a></li>
+                                    <li><a href="men.html">Bags</a></li>
+                                    <li><a href="men.html">Caps & Hats</a></li>
+                                    <li><a href="men.html">Hoodies & Sweatshirts</a></li>
+                                    <li><a href="men.html">Jackets & Coats</a></li>
+                                    <li><a href="men.html">Jeans</a></li>
+                                    <li><a href="men.html">Jewellery</a></li>
+                                    <li><a href="men.html">Jumpers & Cardigans</a></li>
+                                    <li><a href="men.html">Leather Jackets</a></li>
+                                    <li><a href="men.html">Long Sleeve T-Shirts</a></li>
+                                    <li><a href="men.html">Loungewear</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col1">
+                            <div class="h_nav">
+                                <ul>
+                                    <li><a href="men.html">Shirts</a></li>
+                                    <li><a href="men.html">Shoes, Boots & Trainers</a></li>
+                                    <li><a href="men.html">Shorts</a></li>
+                                    <li><a href="men.html">Suits & Blazers</a></li>
+                                    <li><a href="men.html">Sunglasses</a></li>
+                                    <li><a href="men.html">Sweatpants</a></li>
+                                    <li><a href="men.html">Swimwear</a></li>
+                                    <li><a href="men.html">Trousers & Chinos</a></li>
+                                    <li><a href="men.html">T-Shirts</a></li>
+                                    <li><a href="men.html">Underwear & Socks</a></li>
+                                    <li><a href="men.html">Vests</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col1">
+                            <div class="h_nav">
+                                <h4>Popular Brands</h4>
+                                <ul>
+                                    <li><a href="men.html">Levis</a></li>
+                                    <li><a href="men.html">Persol</a></li>
+                                    <li><a href="men.html">Nike</a></li>
+                                    <li><a href="men.html">Edwin</a></li>
+                                    <li><a href="men.html">New Balance</a></li>
+                                    <li><a href="men.html">Jack & Jones</a></li>
+                                    <li><a href="men.html">Paul Smith</a></li>
+                                    <li><a href="men.html">Ray-Ban</a></li>
+                                    <li><a href="men.html">Wood Wood</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li><a class="color4" href="404.html">Accessories</a></li>
+            <li><a class="color6" href="contact.html">Conact</a></li>
+        </ul>
     </div>
-    <div class="clear"></div>
-</div>
-
-
-<div class="mob-ProductPrice">
-    <h1>Product Price</h1>
-
-    <div class="Product_Price_Details">
-        <div class="mob-tr">
-            <div class="Product-Name">Product Name</div>
-            <div class="ProductAttribute">Voltage (v)</div>
-            <div class="ProductAttribute"> Power (w)</div>
-            <div class="ProductAttribute">Price (US)</div>
+    <div class="col-sm-3 header-top-right">
+        <div class="drop_buttons">
+            <select class="drop-down ">
+                <option value="1">Dollar</option>
+                <option value="2">Euro</option>
+            </select>
+            <select class="drop-down drop-down-in">
+                <option value="1">English</option>
+                <option value="2">French</option>
+                <option value="3">German</option>
+            </select>
+            <div class="clearfix"></div>
         </div>
-        <?php foreach($productPrice as $k=>$v){?>
-        <div class="mob-tr">
-            <a href="<?php echo site_url('sell_detail/index/'.$v['itemid'].'/'.$v['linkurl'])?>"><div class="mob-Product-Name"><?php echo substr($v['title'],0,25)?></div></a>
-            <div class="ProductAttribute"><?php echo substr($v['attr']['Voltage'],0,10)?></div>
-            <div class="ProductAttribute"> <?php echo substr($v['attr']['Power'],0,10)?></div>
-            <div class="ProductAttribute"><?php echo $v['currency']." ".$v['minprice']?></div>
-        </div>
-        <?php }?>
-        <div class="clear"></div>
-    </div>
-</div>
-
-<div class="motors-Business">
-    <div class="motors-tabBusiness" id="IndustryBox">
-        <div class="hd">
+        <div class="register-info">
             <ul>
-
-
-                <?php foreach($market as $k=>$v){?>
-                    <li class="<?php echo $k?'':'on'?>"><?php echo $k?></li>
-                <?php }?>
+                <li><a href="login.html">Login</a></li>
             </ul>
         </div>
-        <div class="bd">
-            <?php for($i=0;$i<count($market);$i++) {?>
-            <?php $arr = $i==0?reset($market):next($market)?>
-            <article>
-                <?php foreach(array_slice($arr,0,6) as $k=>$v){?>
-                <section>
-                    <div class="motors-Timg"><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><img src="<?php echo site_url('mob_img/img'.$v['thumb'])?>" title="" alt=""
-                                                             class="img-responsive"></a></div>
-                    <div class="mob-text">
-                        <h1><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo $v['title']?></a></h1>
-
-                        <h3><a href="<?php echo site_url('news/newsDetail/'.$v['itemid'])?>"><?php echo substr(strip_tags($v['content']),0,300)?></a></h3>
-                    </div>
-                </section>
-                <?php }?>
-
-
-            </article>
-            <?php }?>
+        <div class="clearfix"> </div>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+<div class="copyrights">Collect from <a href="http://www.mycodes.net/" target="_blank">源码之家</a></div>
+<div class="header_bootm">
+    <div class="col-sm-4 span_1">
+        <div class="logo">
+            <a href="index.html"><img src="<?php echo base_url('/skin/images/logo.png')?>" alt=""/></a>
         </div>
     </div>
-    <div class="clear"></div>
+    <div class="col-sm-8 row_2">
+        <div class="header_bottom_right">
+            <div class="search">
+                <input type="text" value="Your email address" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Your email address';}">
+                <input type="submit" value="">
+            </div>
+            <ul class="bag">
+                <a href="cart.html"><i class="bag_left"> </i></a>
+                <a href="cart.html"><li class="bag_right"><p>205.00 $</p> </li></a>
+                <div class="clearfix"> </div>
+            </ul>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
 </div>
-<div class="mob-region">
-    <h1>Source by Region</h1>
-    <ul>
-        <li><a href=""> <i class="motors-SourceImg-01"></i><span>USA</span></a></li>
-        <li><a href="">
-                <i class="motors-SourceImg-02"></i>
-                <span>China</span></a>
-        </li>
-        <li><a href="">
-                <i class="motors-SourceImg-03"></i>
-                <span>India</span></a>
-        </li>
-        <li><a href="">
-                <i class="motors-SourceImg-04"></i>
-                <span>Japan</span></a>
-        </li>
-        <li><a href="">
-                <i class="motors-SourceImg-05"></i>
-                <span>Malaysia</span></a>
-        </li>
-        <li><a href="">
-                <i class="motors-SourceImg-06"></i>
-                <span>Thailand</span></a>
-        </li>
-        <li><a href="">
-                <i class="motors-SourceImg-07"></i>
-                <span>Turkey</span></a>
-        </li>
-        <li><a href="">
-                <i class="motors-SourceImg-08"></i>
-                <span>Vietnam</span></a>
-        </li>
-    </ul>
-    <div class="clear"></div>
+<div class="grid_1">
+    <div class="col-md-3 banner_left">
+        <img src="images/pic1.png" class="<?php echo base_url('/skin/img-responsive')?>" alt=""/>
+        <div class="banner_desc">
+            <h1>Slim Fit Men </h1>
+            <h2>Roundcheck T-Shirt</h2>
+            <h5>$125
+                <small>Only</small>
+            </h5>
+            <a href="#" class="btn1 btn4 btn-1 btn1-1b">Add To Cart</a>
+        </div>
+    </div>
+    <div class="col-md-9 banner_right">
+        <!-- FlexSlider -->
+        <section class="slider">
+            <div class="flexslider">
+                <ul class="slides">
+                    <li><img src="<?php echo base_url('/skin/images/banner.jpg')?>" alt=""/></li>
+                    <li><img src="<?php echo base_url('/skin/images/banner.jpg')?>" alt=""/></li>
+                </ul>
+            </div>
+        </section>
+        <!-- FlexSlider -->
+    </div>
+    <div class="clearfix"></div>
 </div>
-
+<div class="content">
+    <div class="content_box">
+        <ul class="grid_2">
+            <a href="single.html"><li><img src="<?php echo base_url('/skin/images/pic2.png')?>" class="img-responsive" alt=""/>
+                    <span class="btn5">$120</span>
+                    <p>Bikroy Tshirt - Roundneck</p>
+                </li></a>
+            <a href="single.html"><li><img src="<?php echo base_url('/skin/images/pic3.png')?>" class="img-responsive" alt=""/>
+                    <span class="btn5">$340</span>
+                    <p>Park Tshirt - Partygrandd</p>
+                </li></a>
+            <a href="single.html"><li><img src="<?php echo base_url('/skin/images/pic4.png')?>" class="img-responsive" alt=""/>
+                    <span class="btn5">$250</span>
+                    <p>Gray Tshirt Roundneckdd</p>
+                </li></a>
+            <a href="single.html"><li><img src="<?php echo base_url('/skin/images/pic5.png')?>" class="img-responsive" alt=""/>
+                    <span class="btn5">$378</span>
+                    <p>Marivo Tshirt - Roundneck</p>
+                </li></a>
+            <a href="single.html"><li class="last1"><img src="<?php echo base_url('/skin/images/pic6.png')?>" class="img-responsive" alt=""/>
+                    <span class="btn5">$428</span>
+                    <p>Strict TshirtSoft, Pure Cotton</p>
+                </li></a>
+            <div class="clearfix"> </div>
+        </ul>
+        <div class="grid_3">
+            <div class="col-md-6 box_2">
+                <div class="section_group">
+                    <div class="col_1_of_2 span_1_of_2">
+                        <img src="<?php echo base_url('/skin/images/pic7.jpg')?>" class="img-responsive" alt=""/>
+                    </div>
+                    <div class="col_1_of_2 span_1_of_2">
+                        <img src="<?php echo base_url('/skin/images/pic8.jpg')?>" class="img-responsive" alt=""/>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="box_3">
+                    <div class="col_1_of_2 span_1_of_2 span_3">
+                        <h3>Paul Slim Fit Men
+                            Roundneck
+                            T-Shirt</h3>
+                        <h4>$156</h4>
+                        <p>Offer Available till Sunday 12 Nov 2014.</p>
+                        <a href="#" class="btn1 btn6 btn-1 btn1-1b">Add To Cart</a>
+                    </div>
+                    <div class="col_1_of_2 span_1_of_2 span_4">
+                        <div class="span_5">
+                            <img src="<?php echo base_url('/skin/images/pic9.png')?>" class="img-responsive" alt=""/>
+                        </div>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="footer_top">
+            <div class="span_of_4">
+                <div class="col-md-3 box_4">
+                    <h4>Shop</h4>
+                    <ul class="f_nav">
+                        <li><a href="#">new arrivals</a></li>
+                        <li><a href="#">men</a></li>
+                        <li><a href="#">women</a></li>
+                        <li><a href="#">accessories</a></li>
+                        <li><a href="#">kids</a></li>
+                        <li><a href="#">brands</a></li>
+                        <li><a href="#">trends</a></li>
+                        <li><a href="#">sale</a></li>
+                        <li><a href="#">style videos</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 box_4">
+                    <h4>help</h4>
+                    <ul class="f_nav">
+                        <li><a href="#">frequently asked  questions</a></li>
+                        <li><a href="#">men</a></li>
+                        <li><a href="#">women</a></li>
+                        <li><a href="#">accessories</a></li>
+                        <li><a href="#">kids</a></li>
+                        <li><a href="#">brands</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 box_4">
+                    <h4>account</h4>
+                    <ul class="f_nav">
+                        <li><a href="#">login</a></li>
+                        <li><a href="#">create an account</a></li>
+                        <li><a href="#">create wishlist</a></li>
+                        <li><a href="#">my shopping bag</a></li>
+                        <li><a href="#">brands</a></li>
+                        <li><a href="#">create wishlist</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 box_4">
+                    <h4>popular</h4>
+                    <ul class="f_nav">
+                        <li><a href="#">new arrivals</a></li>
+                        <li><a href="#">men</a></li>
+                        <li><a href="#">women</a></li>
+                        <li><a href="#">accessories</a></li>
+                        <li><a href="#">kids</a></li>
+                        <li><a href="#">brands</a></li>
+                        <li><a href="#">trends</a></li>
+                        <li><a href="#">sale</a></li>
+                        <li><a href="#">style videos</a></li>
+                        <li><a href="#">login</a></li>
+                        <li><a href="#">brands</a></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <!-- start span_of_2 -->
+            <div class="span_of_2">
+                <div class="span1_of_2">
+                    <h5>need help? <a href="#">contact us <span> &gt;</span> </a> </h5>
+                    <p>(or) Call us: +22-34-2458793</p>
+                </div>
+                <div class="span1_of_2">
+                    <h5>follow us </h5>
+                    <div class="social-icons">
+                        <ul>
+                            <li><a href="#" target="_blank"></a></li>
+                            <li><a href="#" target="_blank"></a></li>
+                            <li><a href="#" target="_blank"></a></li>
+                            <li><a href="#" target="_blank"></a></li>
+                            <li class="last2"><a href="#" target="_blank"></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="copy">
+                <p>Copyright &copy; 2015.Company name All rights reserved.More Templates <a href="http://www.mycodes.net/" target="_blank">源码之家</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<link href="<?php echo base_url('/skin/css/flexslider.css')?>" rel='stylesheet' type='text/css' />
+<script defer src="<?php echo base_url('/skin/js/jquery.flexslider.js')?>"></script>
 <script type="text/javascript">
-    function search_sub(){
-        if(document.getElementById('input_text').value!="Tire Brands, Specifications, or Vehicles..." && document.getElementById('input_text').value!=""){
-            document.getElementById('fast_search').submit();
-        }else{
-            return false;
-        }
-    }
+    $(function(){
+        SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+        $('.flexslider').flexslider({
+            animation: "slide",
+            start: function(slider){
+                $('body').removeClass('loading');
+            }
+        });
+    });
 </script>
+</body>
+</html>		

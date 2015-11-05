@@ -26,7 +26,7 @@ class index extends CI_Controller {
         $saveSell['price'] = $price;
 
 //thumb
-        preg_match_all("/thumb:(.*)canshu/Uis",$data,$re);
+      /*  preg_match_all("/thumb:(.*)canshu/Uis",$data,$re);
         $tempUrl =  $re[1][0];
         preg_match_all("/jqimg='(.*)'/Uis",$tempUrl,$turl);
         $thumb = $turl[1][0];
@@ -47,7 +47,7 @@ class index extends CI_Controller {
            // sell:thumb
             $tempUrl = $this->downImg($downloadImg);
             $saveSell['thumb'][$i] = $tempUrl?$tempUrl:'';
-        }
+        }*/
 
 //option_value
         preg_match_all("/canshu:(.*)content/Uis",$data,$re);
@@ -78,7 +78,7 @@ class index extends CI_Controller {
         $saveSell['option_value'] = array_filter($saveSell['option_value']);
 
 //content
-        preg_match_all("/content:(.*)\s*<\/textarea>\s*fangfa/Uis",$data,$re);
+      /*  preg_match_all("/content:(.*)\s*<\/textarea>\s*fangfa/Uis",$data,$re);
         $tempContent = trim($re[1][0]);
 
         //下载content图片
@@ -88,11 +88,11 @@ class index extends CI_Controller {
             $thumb = $this->downImg($v);
             $tempContent = str_replace($v,$thumb,$tempContent);
         }
-        $saveSell['content'] = $tempContent;
+        $saveSell['content'] = $tempContent;*/
 
 //Instructions
 
-        preg_match_all("/fangfa:\s*(.*)\s*<\/textarea>/Uis",$data,$re);
+        /*preg_match_all("/fangfa:\s*(.*)\s*<\/textarea>/Uis",$data,$re);
         $tempInstructions = trim($re[1][0]);
 
         //下载Instructions图片
@@ -102,7 +102,7 @@ class index extends CI_Controller {
             $thumb = $this->downImg($v);
             $tempInstructions = str_replace($v,$thumb,$tempInstructions);
         }
-        $saveSell['instructions'] = $tempInstructions;
+        $saveSell['instructions'] = $tempInstructions;*/
 
         dump($saveSell);die;
 
