@@ -1,0 +1,65 @@
+title:菲诗小铺（The Face Shop）每日草本芦荟泡沫洁面膏 170g
+price:29
+thumb:src='http://p0.jmstatic.com/product/000/006/6046_std/6046_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/006/6046_std/6046_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                库拉索芦荟叶提取物：有效舒缓肌肤，持久保湿；对皮肤有缓解肌肤疲劳作用。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>菲诗小铺（The Face Shop）每日草本芦荟泡沫洁面膏 170g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/006/6046_std/6046_200_200.jpg" alt="菲诗小铺（The Face Shop）每日草本芦荟泡沫洁面膏 170g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">菲诗小铺 (The Face Shop)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无盒有塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江或上海（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>170g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>此产品不同批次产地有浙江和上海两种批次，有疑虑的顾客谨慎购买。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <span style="color: rgb(51, 51, 51);font-size:medium;"><a href="http://mall.jumei.com/thefaceshop/" target="_blank" style="display: inline !important;"></a></span><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://thefaceshop.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112602805.jpg" width="660" height="218" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1048992.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112667309.jpg" width="318" height="272" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1048993.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112784111.jpg" width="342" height="272" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_678128.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112847262.jpg" width="221" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1186.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113464650.jpg" width="237" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_678133.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113649203.jpg" width="202" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_202369.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113015517.jpg" width="259" height="296" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_517017.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113075663.jpg" width="198" height="296" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_70697.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113133851.jpg" width="203" height="296" alt="" /></a><br />
+fangfa:
+        <p>
+	取适量内容物于湿润手中，揉出泡沫；轻柔按摩面部后，用温水洗净即可。<br />
+<strong>温馨提示</strong>：产品成分各有不同，肌肤敏感人士，请先测试后再使用！
+</p>
+<p>
+	<strong></strong> 
+</p>        </textarea>
+    

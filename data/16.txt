@@ -1,0 +1,79 @@
+﻿title:雅诗兰黛 (Estee Lauder)鲜亮焕采泡沫洁面乳 125ml
+price:225
+thumb:src='http://p0.jmstatic.com/product/000/185/185540_std/185540_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/185/185540_std/185540_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                雅诗兰黛 (Estee Lauder)鲜亮焕采泡沫洁面乳 125ml，全新红石榴果莓复合精粹，及4大圣果红石榴、蓝莓、枸杞、蔓越莓，经雅诗兰黛独家冷压萃取，生物发酵，升级排浊力，环境损伤、累积浊质、疲惫黯沉，一一清空，肌肤回复最初的内在健康，焕活鲜亮光采。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>雅诗兰黛 (Estee Lauder)鲜亮焕采泡沫洁面乳 125ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/185/185540_std/185540_200_200.jpg" alt="雅诗兰黛 (Estee Lauder)鲜亮焕采泡沫洁面乳 125ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">雅诗兰黛 (Estee Lauder)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,控油</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>想要肌肤焕发活力，得到深层清洁的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年(具体日期以收到实物为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>美国(具体产地以收到实物为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒包装</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201504/08/14284566845655.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201504/08/14284567002095.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201504/08/14284567043646.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201504/08/14284765776083.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201504/08/14284567077431.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201504/08/14284567138563.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201504/08/14284567167160.jpg" alt="" /> 
+</p>
+<p>
+	<strong style="color:#333333;font-size:16px;line-height:1.5;"><strong style="font-size:16px;line-height:1.5;">吸附功效</strong>与清洁面</strong><strong style="color:#333333;font-size:16px;line-height:1.5;">膜的双重结合，体验磁铁般神奇</strong> 
+</p>
+<p>
+	<span style="color:#666666;font-size:12px;">充满惊喜地明星配方，神奇的二合一功效，即是洁面乳，又是清洁面膜，将阻碍美丽的表面杂质统统清走。富含负电荷磁性土，早上是温和的泡沫洁面乳，晚上升格为深层清洁面膜，可帮肌肤抵御外界刺激和污染，让日积约累的杂质不再停留，找回洁净轻柔的鲜活肌肤。 &nbsp;</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	早上用作洁面乳时，先用水湿润脸部，挤出适量于掌心，加水揉搓至起泡后，轻轻揉洗脸部，再以清水洗净即可，夜间也可用作清洁面膜。
+</p>
+<p>
+	<strong>温馨提示</strong>：护肤品的成分各有不同，请在耳后或手臂内侧测试后再使用噢！<br />
+<img src="http://images.jumei.com/deal_content/201207/09/13417995185239.jpg" alt="雅诗兰黛(Estee Lauder)鲜亮焕采泡沫洁面乳 125ml" height="362" width="660" /> 
+</p>        </textarea>
+    

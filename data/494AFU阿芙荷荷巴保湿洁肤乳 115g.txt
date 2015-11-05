@@ -1,0 +1,73 @@
+title:AFU阿芙荷荷巴保湿洁肤乳 115g
+price:118
+thumb:src='http://p0.jmstatic.com/product/000/232/232573_std/232573_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/232/232573_std/232573_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                AFU阿芙荷荷巴保湿洁肤乳115g，蕴含荷荷巴油天然保湿成分，有效深层清洁肌肤污垢的同时补水并锁水，滋润保护肌肤，清爽不紧绷。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>AFU阿芙荷荷巴保湿洁肤乳 115g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/232/232573_std/232573_200_200.jpg" alt="AFU阿芙荷荷巴保湿洁肤乳 115g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">AFU阿芙</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>115g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>内含精油，孕妇慎用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>干性和油性缺水肌肤</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201511/04/1446637039.9483.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.0607.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.1188.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.2034.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.333.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.4514.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.515.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.5885.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.6541.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.7833.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.8524.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637040.9906.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637041.113.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637041.2107.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/04/1446637041.3443.jpg" alt="" />
+</p>
+<p>
+	<br />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	加水揉起泡沫后清洁面部肌肤，配合洁肤棉泡沫更加丰富，然后以清水洗净即可。 &nbsp;
+</p>
+<p class="cjk">
+	<span class="cjk" style="font-weight:bold;"><span style="color:#000000;"><span>温馨提示：</span></span></span><span style="color:#000000;"><span>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span></span> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13818193579837.jpg" width="660" height="362" alt="" /> 
+</p>        </textarea>
+    

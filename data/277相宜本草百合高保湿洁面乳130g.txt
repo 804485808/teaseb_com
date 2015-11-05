@@ -1,0 +1,59 @@
+title:相宜本草百合高保湿洁面乳130g
+price:33
+thumb:src='http://p0.jmstatic.com/product/000/016/16429_std/16429_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/016/16429_std/16429_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                温和洁净，柔润保湿！相宜本草百合高保湿洁面乳，内含丰富的百合多糖和粘液质，舒缓肌肤，还你洁净清透好肤质。蕴含百合、玉竹等本草成分。天然本色，美在相宜本草！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>相宜本草百合高保湿洁面乳130g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/016/16429_std/16429_200_200.jpg" alt="相宜本草百合高保湿洁面乳130g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">相宜本草</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,控油</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>130g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无外盒，由于产品外包装可能更新，请以收到实物为准！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体时间以收到实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://inoherb.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467976904.jpg" width="660" height="103" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_910772.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467977947.jpg" width="220" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_520075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467978527.jpg" width="231" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_21297.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467979173.jpg" width="209" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_88033.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468055852.jpg" width="220" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18022.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468056582.jpg" width="231" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18021.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468057684.jpg" width="209" height="321" alt="" /></a><br />
+fangfa:
+        <p>
+	适量于掌心，稍加水后揉匀，在面部充分按摩，再以清水洗净。配合相宜本草百合高保湿系列其它产品使用，效果更佳。
+</p>
+<p>
+	<strong>温馨提示：</strong>如有沉淀为本草护肤成分析出，请放心使用。 使用中如感不适，请暂停使用或拨打服务热线咨询。
+</p>
+<p>
+	<img src="http://images.jumei.com/product/000/000/0_mall/13457142063041.jpg" alt="" /> 
+</p>        </textarea>
+    

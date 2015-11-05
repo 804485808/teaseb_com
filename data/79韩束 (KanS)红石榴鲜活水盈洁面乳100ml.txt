@@ -1,0 +1,65 @@
+title:韩束 (KanS)红石榴鲜活水盈洁面乳100ml
+price:56
+thumb:src='http://p0.jmstatic.com/product/000/446/446340_std/446340_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/446/446340_std/446340_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                暗沉、浊气、无光泽，就像给肌肤戴上了一层面纱，洗也洗不去，应有的花容月貌在这层薄雾的笼罩下黯然失采。韩束红石榴鲜活水盈系列，不一样的红石榴，来自土耳其，每一颗红石榴皆蕴含丰富活力维他命、矿物质。饮尽红石榴精华，新鲜满肌肤！红石榴性味甘，酸涩，温，果实中含有丰富的维生素C，石榴多酚和花青素等物质。能有效中和自由基，促进新陈代谢。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>韩束 (KanS)红石榴鲜活水盈洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/446/446340_std/446340_200_200.jpg" alt="韩束 (KanS)红石榴鲜活水盈洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">韩束 (KanS)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,控油,去角质,抗氧化,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>苏州</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有盒有塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201509/07/1441598375.6841.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598382.7324.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598412.3795.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598441.3775.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598471.0236.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598479.6497.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598484.4233.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598490.5654.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441598586.2537.jpg" alt="" />
+</p>
+<div>
+	<img src="file://C:\Users\Administrator\AppData\Roaming\Tencent\QQ\Temp\TempPic\{M6I}28(7O8G@F)33X1LJES.tmp" />
+
+fangfa:
+        <p>
+	<span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;line-height:18px;white-space:normal;background-color:#FFFFFF;">取适量加水轻揉，均匀涂于面部，轻轻按摩片刻后，用清水洗净。</span> 
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>        </textarea>
+    

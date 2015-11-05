@@ -1,0 +1,79 @@
+title:芙丽芳丝（freeplus）净透洁肤霜125g
+price:109
+thumb:src='http://p0.jmstatic.com/product/000/964/964200_std/964200_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/964/964200_std/964200_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                芙丽芳丝（freeplus）净透洁肤霜125g严格选取不给肌肤添加负担的优质而低刺激的原料，不含苯甲酸酯类防腐剂，不含香料、色素，不含矿物油，通过人体斑贴试验和刺激性试验，将护肤品对皮肤的刺激降到最低，让肌肤放心享用属于它自己的美餐。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>芙丽芳丝（freeplus）净透洁肤霜125g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/964/964200_std/964200_200_200.jpg" alt="芙丽芳丝（freeplus）净透洁肤霜125g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">芙丽芳丝（freeplus）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有人群，渴望温和洁净肌肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml  </span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>五年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>产品全新，有外盒无塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/deal_content/201408/21/14085915842729.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201408/21/14085915845802.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201408/21/14085916059721.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201408/21/14085916062579.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201408/21/14085918104264.jpg" alt="" /> 
+<p class="cjk" style="margin-bottom:0cm;">
+	<strong><span style="font-size:16px;color:#333333;">温和卸妆 深层清洁</span></strong> 
+</p>
+<p class="cjk" style="margin-bottom:0cm;">
+	<span style="color:#666666;">柔润的乳霜状洁肤品极易与肌肤容合，使彩妆及污垢能迅速浮至肌肤表面，质地柔滑不易引起摩擦，使容易干燥、粗糙的肌肤保持滋润的同时，彻底清除彩妆以及毛孔和肌理的污垢。洗后肌肤滋润而不粘腻</span> 
+</p>
+<p class="cjk" style="margin-bottom:0cm;">
+	<strong><span style="font-size:16px;color:#333333;">真正的无添加</span></strong> 
+</p>
+<p class="cjk" style="margin-bottom:0cm;">
+	<span style="color:#666666;">freeplus </span><span style="color:#666666;">意 指“无添加”，用以表示产品对肌肤安全，无负担。近零刺激，解决肌肤烦恼！</span> 
+</p>
+<p class="cjk" style="margin-bottom:0cm;">
+	<span style="color:#666666;">严格选取优质而低刺激性的原料，不给柔嫩的肌肤添加任何负担。</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p class="cjk" style="margin-bottom:0cm;">
+	1. 取葡萄粒大小的量于掌心，涂抹到脸部，用手指轻轻按摩
+</p>
+<p class="cjk" style="margin-bottom:0cm;">
+	2、感到污垢充分脱落浮起后，用清水或者温水冲洗干净。
+</p>
+<p class="cjk" style="margin-bottom:0cm;">
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后或手臂内侧进行测试后再使用哦！
+</p>        </textarea>
+    

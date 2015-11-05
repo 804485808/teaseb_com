@@ -1,0 +1,74 @@
+title:希思黎（sisley)百合洁肤乳 30ml
+price:59.9
+thumb:src='http://p0.jmstatic.com/product/000/055/55762_std/55762_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/055/55762_std/55762_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                肌肤之美，始于洁净，溶解顽固彩妆，同时保持肌肤水油平衡！希思黎（sisley)百合洁肤乳30ml，绵密细软的泡沫， 触感温和，能有效卸下彩妆和污垢，百合萃取可修复肌肤水脂膜，舒缓敏感症状。肌肤绽放莹润光彩。新老包装随机发货！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>希思黎（sisley)百合洁肤乳 30ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/055/55762_std/55762_200_200.jpg" alt="希思黎（sisley)百合洁肤乳 30ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">希思黎(sisley)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,舒缓</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>敏感性皮肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>30ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>法国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>产品背面有“非卖品”字样，请介意的人士慎重购买。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，无外盒无塑封。新老包装随机发货，具体以收到实物为准。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201509/08/14417153482708.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201507/30/14382427001916.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201507/30/14382427005080.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/08/14417153803268.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/08/1441704127480.jpg" alt="" /> 
+</p>
+<img src="http://p0.jmstatic.com/deal_content/201507/30/14382427023016.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201507/30/14382427027924.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201507/30/1438242703422.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/08/14417154604265.jpg" alt="" /> 
+<p>
+	<br />
+</p>        </textarea>
+    
+fangfa:
+        <p style="margin-bottom:0cm;">
+	<span style="font-size:12px;">以打圈的方式用指尖轻柔按摩，充分溶解彩妆，用纸巾擦去剩余洁面乳。</span> 
+</p>
+<p style="margin-bottom:0cm;">
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，请在耳后或手臂内侧测试后再使用。</span> 
+</p>
+<p style="margin-bottom:0cm;">
+	<img src="http://p0.jmstatic.com/deal_content/201304/09/13654900061113.jpg" alt="希思黎（sisley)百合洁肤乳 30ml" width="660" height="362" /> 
+</p>        </textarea>
+    

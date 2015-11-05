@@ -1,0 +1,80 @@
+title:SK-II护肤洁面油 250ml 
+price:295
+thumb:src='http://p0.jmstatic.com/product/000/024/24314_std/24314_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/024/24314_std/24314_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                SK-II护肤洁面油 250ml，帮助洁净毛孔，改善油脂污垢，同时有效净化肌肤，避免毛孔问题的产生，令肌肤洁净通透。蕴含Pitera™及苹果籽精华，洁净毛孔及有效卸除美妆、睫毛液及防晒霜。使用后，肌肤焕发 光泽，晶莹剔透。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>SK-II护肤洁面油 250ml </span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/024/24314_std/24314_200_200.jpg" alt="SK-II护肤洁面油 250ml " border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">SK-II</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,净肤,柔肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>需要面部清洁的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>250ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，有外盒无塑封。产品包装可能更新，具体以收到实物为准，请介意的人士慎重购买。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<span style="font-size:small;color:#666666;"> <img src="http://p0.jmstatic.com/deal_content/201509/06/14415259835473.jpg" alt="" /></span> 
+</p>
+<p>
+	<span style="font-size:small;color:#666666;"> <span style="font-family:宋体;"> <img alt="SK-II护肤洁面油 250ml，护肤难题" src="http://p0.jmstatic.com/deal_content/201212/26/13565074582210.jpg" /><br />
+</span> </span> 
+</p>
+<p>
+	<span style="font-size:small;color:#666666;"> <span style="font-family:宋体;"> <img src="http://p0.jmstatic.com/deal_content/201509/06/14415259736909.jpg" alt="" /></span></span> 
+</p>
+<p>
+	<span style="font-size:small;color:#666666;"> <img width="660" height="617" alt="SK-II护肤洁面油 250ml，产品对比" src="http://p0.jmstatic.com/deal_content/201212/26/1356512469423.jpg" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415256736009.jpg" alt="" /><br />
+</span> 
+</p>
+<p>
+	<br />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;">涂在没湿水的整个脸上，用指尖画圈按摩，使洁颜油与毛孔内的化妆品和灰尘混用。加上少量水，然后继续按摩至油转呈白色乳状。用温水或冷水彻底冲洗净。&nbsp;</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！&nbsp;</span> 
+</p>
+<p>
+	<img alt="SK-II护肤洁面油 250ml，使用方法" src="http://p0.jmstatic.com/deal_content/201212/26/13565105858186.jpg" /> 
+</p>        </textarea>
+    

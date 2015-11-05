@@ -1,0 +1,7 @@
+Vertical Motors,,,,,,,,,,
+Voltage,208v,208v,240v,380v,230v,460v,480v,220v,415v,110v
+Power,0.18kw,560kw,450kw,5.5kw,2.2kw,50w,0.12kw,220w,215kw,
+Speed,30rpm,200rpm,30-300rpm,20rpm,0.1-750rpm,8rpm,14r/min,280r/min,0.04rpm,522rpm
+Phase,three phase,single phase,,,,,,,,
+Frequency,50hz,60hz,,,,,,,,
+Usage,water,industrial ,universal,slurry,vibrating screen,feeder,pum,speed sensor,boat,industrial 

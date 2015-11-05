@@ -1,0 +1,72 @@
+title:欧莱雅(L'Oreal)清润深海洋平衡洁面膏125ml 
+price:79.9
+thumb:src='http://p0.jmstatic.com/product/000/042/42180_std/42180_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/042/42180_std/42180_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                来自深海洋的净化力量，欧莱雅深海洋平衡洁面膏，PH值6.5,清洁并平衡肌肤，远离肌肤问题。蕴含深海洋水源，在净化皮肤的同时能帮助调节肌肤水油平衡，远离油光污垢；净化泥和水杨酸衍生物，帮助收缩毛孔。使用后，毛孔看起来清透洁净，肌肤清新平衡，远离油光。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧莱雅(L'Oreal)清润深海洋平衡洁面膏125ml </span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/042/42180_std/42180_200_200.jpg" alt="欧莱雅(L'Oreal)清润深海洋平衡洁面膏125ml " border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧莱雅 (L'Oreal)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,控油</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>江苏</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于混合性及油性肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>排版略有不同，一样的品质哦！请放心购买！两款包装随机发货！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>&nbsp;<img src="http://p0.jmstatic.com/brand_authorization//14087001352217.jpg" width="658" height="415" alt="" /></p><p>
+	<img src="http://p0.jmstatic.com/banner/201509/24/1443084422.0607.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/24/1443084427.8846.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/24/1443084433.5115.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/24/1443084439.218.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/24/1443084444.6039.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/24/1443084449.4455.jpg" alt="" />
+</p>
+<p>
+	<span style="color:#333333;font-size:16px;"><strong>品牌故事</strong></span> 
+</p>
+<p>
+	&nbsp; &nbsp; &nbsp; 巴黎欧莱雅通过将科技和美丽的结合，不断谋求创新、研发新的产品配方，以合理的价格，为消费者提供品质的产品和服务。自1907年无毒合成染发剂的诞生，如今巴黎欧莱雅的产品已从染发剂扩展到了护肤、彩妆等诸多领域，在中国，巴黎欧莱雅的五大产品线为护肤系列、彩妆系列、家用染发系列、洗护发系列及男士护肤系列。为了将美的产品融于美的文化、艺术、理念，将“从指尖到发梢”的美丽带给全世界的人们，巴黎欧莱雅在全世界范围精心选择各行业明星，组成“梦之队”来见证巴黎欧莱雅的实力，从各个不同的角度来讲述巴黎欧莱雅美丽无疆界的气势，并使“巴黎欧莱雅，你值得拥有！”“Because you are worth it！”的美丽概念成为一种文化！
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	将洁面膏用水揉出柔和泡沫后，早晚使用在经水润湿的脸部，再用水冲洗干净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13621284162635.jpg" alt="" /> 
+</p>        </textarea>
+    

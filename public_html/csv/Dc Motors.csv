@@ -1,0 +1,7 @@
+Dc Motors,,,,,,,,,,
+Voltage,24v,12v,1.5v,3v,90v,220v,6v,180v,,
+Power,60w,500w,10w,30w,90w,300w,40w,50w,500w,0.1w
+Speed,1rpm,1600rpm,6000rpm,9000rpm,20rpm,300rpmm,1750rpm,1000rpm,15rpm,30000rpm
+Phase,single phase,three phase,,,,,,,,
+Frequency,50hz,60hz,,,,,,,,
+Usage,industrial,water,home appliance,fan,air pump ,boat,car,universal,airplane,"boat,car.airplane"

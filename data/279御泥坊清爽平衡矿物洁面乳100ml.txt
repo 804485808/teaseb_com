@@ -1,0 +1,66 @@
+title:御泥坊清爽平衡矿物洁面乳100ml
+price:29.9
+thumb:src='http://p0.jmstatic.com/product/000/720/720351_std/720351_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/720/720351_std/720351_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                御泥坊清爽平衡矿物洁面乳100ml，天然矿物泥浆精华：通过已申请独家专利的制备技术提取，经全球权威机构SGS检测，蕴含10余种矿物微量元素，矿物微量元素能提升肌肤天然防御能力。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>御泥坊清爽平衡矿物洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/720/720351_std/720351_200_200.jpg" alt="御泥坊清爽平衡矿物洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">御泥坊</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,控油,净肤,清爽,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>中国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年(具体日期以收到产品为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>矿物质过敏者慎用！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，由于产品外包装可能更新，请以收到的实物为准。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>适用肤质为混合性，需要平衡水油的肌肤；也可适用于中性、偏油性肤质</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/brand_authorization/14466937472235.jpg" width="660" height="175" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937473459.jpg" width="333" height="244" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937474897.jpg" width="327" height="244" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937476190.jpg" width="333" height="212" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937629054.jpg" width="327" height="212" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937686217.jpg" width="218" height="349" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937687752.jpg" width="212" height="349" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937689964.jpg" width="230" height="349" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.0061.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.1472.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.2932.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.4256.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.5587.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.7024.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.8134.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384728.9762.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.0798.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.2049.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.4014.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.5321.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.6967.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.8087.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384729.9667.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384730.0977.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384730.206.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/24/1429863587.7648.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/24/1429863647.6267.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384730.7101.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:16px;font-family:Microsoft YaHei;color:black;"><span style="font-size:12px;font-family:SimSun;">每天早晚使用。润湿脸部，取适量于掌心，用水搓出泡沫，在面部轻轻打圈，再以清水洗净</span><span style="font-size:12px;font-family:SimSun;">。</span></span> 
+</p>
+<p>
+	<span style="font-size:16px;font-family:Microsoft YaHei;color:black;"><span style="font-size:12px;font-family:SimSun;"><strong>温馨提示：</strong>产品中成分各有不同，敏感性肌肤的人士进行测试后再使用哦！<br />
+</span></span> 
+</p>        </textarea>
+    

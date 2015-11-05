@@ -1,0 +1,62 @@
+title:稀拉克儿（ciracle）茶树控油祛痘洁肤乳250ml
+price:169
+thumb:src='http://p0.jmstatic.com/product/000/545/545145_std/545145_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/545/545145_std/545145_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                韩国专为问题肌研发的品牌，日韩皮肤美容院御用祛痘产品，祛痘，从洁面开始！Ciracle茶树控油祛痘洁肤乳陪你一起战痘到底！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>稀拉克儿（ciracle）茶树控油祛痘洁肤乳250ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/545/545145_std/545145_200_200.jpg" alt="稀拉克儿（ciracle）茶树控油祛痘洁肤乳250ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">稀拉克儿（ciracle）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>祛痘,清洁,控油,去黑头,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>250ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期见产品包装）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>韩国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>所有肌肤</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201510/10/1444444598.5757.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/10/1444444624.2855.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/10/1444444634.7836.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/10/1444444661.8443.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/10/1444444686.7299.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/24/14430635902740.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/15/1434349611.7056.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201407/14/14053076318577.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/10/1444444706.3114.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201407/14/14053076319773.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/10/1444444724.8971.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201407/14/14053076323970.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/17/1439801098.0042.jpg" alt="" /><br />        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-family:SimSun;line-height:14.4px;white-space:normal;">挤出适量洁肤乳于掌心，加少量清水揉搓出泡沫，涂抹于面部，轻轻按摩后清水清洗干净。建议每天早晚使用。</span>
+</p>
+<p>
+	<span style="font-family:SimSun;line-height:14.4px;white-space:normal;"><strong style="line-height:14.4px;white-space:normal;"><span style="font-family:SimSun;line-height:1.5;">温馨提示：</span></strong><span style="line-height:1.5;white-space:normal;font-family:SimSun;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span><br />
+</span>
+</p>        </textarea>
+    

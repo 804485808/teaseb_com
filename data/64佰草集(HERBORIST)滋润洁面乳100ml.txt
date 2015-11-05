@@ -1,0 +1,62 @@
+title:佰草集(HERBORIST)滋润洁面乳100ml
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/013/13291_std/13291_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/013/13291_std/13291_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                佰草集滋润洁面乳100ml，给予肌肤靓丽水嫩效果，能清除面部污垢，减少油脂的同时能在肌肤表面形成保护膜，可以使营养成分的吸收与肌肤自身的防护能力，使肌肤滋润幼滑。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>佰草集(HERBORIST)滋润洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/013/13291_std/13291_200_200.jpg" alt="佰草集(HERBORIST)滋润洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">佰草集(HERBORIST)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合中性至干性肌肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><br /><!--recommendation_manual_end--><p>
+	<img src="http://p0.jmstatic.com/banner/201509/09/1441782922.7399.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/09/1441782922.8779.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/09/1441782923.0783.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/09/1441782923.2142.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/09/1441782923.3295.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/09/1441782923.4646.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/09/1441782923.6244.jpg" alt="" />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	先蘸湿面部，挤出适量（樱桃般大小，约2克）于掌心，加水揉匀，在面部轻轻按摩，再以温水洗净。搭配佰草集滋润系列产品共同使用，效果尤佳。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201509/09/1441782939.0777.jpg" alt="" /> 
+</p>        </textarea>
+    

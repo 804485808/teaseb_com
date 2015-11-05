@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+.motors-foot{ width:100%; border-top:1px solid #ddd;}
+.motors-foot ul{ list-style-type:none;}
+.motors-foot ul li{ float:left;}

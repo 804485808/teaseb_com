@@ -1,0 +1,7 @@
+Blower Motors,,,,,,,,,,
+Voltage,380v,440v,3kv,6kv,12v          ,220v, 24v,480v,115v,230v
+Power,1250kw ,3kw ,2200kw,0.18kw ,18.5kw ,1000w ,15W ,1600w ,2000w ,7.5kw  
+Speed,2960r/min,1480r/min,960r/min ,Constant Speed ,2800rpm ,2300rpm ,2200rpm ,5700rpm ,3600rpm ,High Speed 
+Phase,single phase,three phase,,,,,,,,
+Frequency,60hz,50hz,,,,,,,,
+Usage,Industrial ,Universal ,Fan ,Air Pump ,Home Appliance ,Indoor ,,,,

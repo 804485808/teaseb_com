@@ -1,0 +1,70 @@
+title:芙丽芳丝（freeplus）净润洗面霜 100g
+price:95
+thumb:src='http://p0.jmstatic.com/product/000/020/20605_std/20605_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/020/20605_std/20605_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                明星单品全新升级 ！芙丽芳丝(freeplus)净润洗面霜100g，氨基酸配方洗面奶，弱酸性的丰富泡沫，清除肌理间的污垢，洗净后肌肤柔软滋润。配合保湿成分，充分保护易干燥肌肤的滋润，打造健康角质层。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>芙丽芳丝（freeplus）净润洗面霜 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/020/20605_std/20605_200_200.jpg" alt="芙丽芳丝（freeplus）净润洗面霜 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">芙丽芳丝（freeplus）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有想要莹润美肌的MM</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准） </span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒无塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201506/19/14346964268195.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/1434696427439.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964275270.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964284606.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964301202.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964311235.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964323491.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964333419.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964343065.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964352820.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201506/19/14346964357988.jpg" alt="" /> 
+</p>
+<p>
+	<span style="font-size:16px;color:#333333;"><strong>日系洁面产品经典之作，温和洁面的全新体验</strong></span> 
+</p>
+<p>
+	<span style="color:#666666;font-size:12px;">芙丽芳丝freeplus柔润洗面霜，萃取6种天然果实，温柔绵密的泡沫轻轻包裹肌肤，带来温柔无比的舒适享受，洗后肌肤滋润柔软，清爽透气！让每一次洁面都无比享</span> 
+</p>        </textarea>
+    
+fangfa:
+        先将脸部沾湿，取直径约2cm 的圆形大小的量（约 2g ）于手心，加少量清水或温水打起丰富的泡沫，用泡沫包覆整个脸部后清洗。
+<p>
+	<strong>温馨提示</strong>：护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦<span style="font-family:Tahoma;">！</span> 
+</p>
+<p>
+	<img alt="芙丽芳丝（freeplus）净润洗面霜 100g ，使用方法" src="http://p0.jmstatic.com/deal_content/201301/16/13583292433008.jpg" height="362" width="660" /> 
+</p>        </textarea>
+    

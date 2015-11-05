@@ -1,0 +1,7 @@
+Servo Motors,,,,,,,,,,
+Voltage,220v,380v,110v,,,,,,,
+Power,10kw,3kw,7kw,750w,1.5kw,9kw,60w,7.5kw,2kw,200w
+Speed,1.5rpm,2500rpm,1.0rpm,,,,,,,
+Phase,three phase,single phase,,,,,,,,
+Frequency,50hz,60hz,1hz,300hz,200hz,,,,,
+Usage,svc,industrial,sewing machine,sbw,universal testing machine,garage door,tensile testing machine,voltage stablizer,stabilized voltage,

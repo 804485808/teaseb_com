@@ -1,0 +1,7 @@
+Stepper Motors,,,,,,,,,
+voltage,380v,220v(option),12v,80v,350v,24v,3.4v,,
+power,1.5kw,3kw,2.2kw,60w,40w,1500w,113kw,0.8kw,150w
+speed,24000rpm,6000rpm,18000rpm,,,,,,
+phase,single phase,three phase,2 phase,,,,,,
+frequency,50hz,60hz,,,,,,,
+usage,industrial,universal,,,,,,,

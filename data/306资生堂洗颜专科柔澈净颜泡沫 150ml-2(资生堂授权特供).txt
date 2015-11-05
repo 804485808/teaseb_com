@@ -1,0 +1,55 @@
+title:资生堂洗颜专科柔澈净颜泡沫 150ml*2(资生堂授权特供)
+price:130
+thumb:src='http://p0.jmstatic.com/product/001/421/1421567_std/1421567_350_350.jpg' jqimg='http://p0.jmstatic.com/product/001/421/1421567_std/1421567_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                一按即出泡沫，不再浪费时间打泡沫，不再惆怅泡沫打的不够多影响洗面奶的功效！资生堂洗颜专科柔澈净颜泡沫150ml*2(资生堂授权特供)。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>资生堂洗颜专科柔澈净颜泡沫 150ml*2(资生堂授权特供)</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/001/421/1421567_std/1421567_200_200.jpg" alt="资生堂洗颜专科柔澈净颜泡沫 150ml*2(资生堂授权特供)" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">资生堂菲婷</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>想要节省时间 、想要彻底清洁肌肤的人士。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml*2</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到的实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://mall.jumei.com/tsubaki/" target="_blank" style="float:left;display:inline;"><img src="http://images.jumei.com/cooperation/xiyan/130528_01.jpg" alt="" /></a><br />
+fangfa:
+        <img src="http://p0.jmstatic.com/banner/201503/05/1425524039.2037.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/05/1425524039.4698.jpg" alt="" />        </textarea>
+    

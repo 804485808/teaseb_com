@@ -1,0 +1,65 @@
+title:珀莱雅(PROYA)海洋净透焕采洁面乳100ml
+price:63
+thumb:src='http://p0.jmstatic.com/product/000/230/230805_std/230805_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/230/230805_std/230805_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                想做冰雪美人，记得从洁面做起。珀莱雅(PROYA)海洋净透焕采洁面乳100ml，质地润滑，泡沫细密丰盈，深层清洁面部肌肤，净化排浊，解决各种残余污垢所导致的暗沉困扰。蕴含圣诞岛长心卡帕藻，赋予肌肤滢润通透的白皙光感，实现肌肤整体均白莹亮、水感润泽。配合海洋深层水，深层保湿，焕发肌肤活力，改善粗糙暗沉，重现水感灵白光彩，让肌肤一天比一天白皙透亮。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>珀莱雅(PROYA)海洋净透焕采洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/230/230805_std/230805_200_200.jpg" alt="珀莱雅(PROYA)海洋净透焕采洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">珀莱雅(PROYA)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有类型肤质适用，尤其是渴望彻底清洁肌肤的人群。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒包装，新老版本随机发货，介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/deal_content/201509/15/14423026885523.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/31/1440989574.8377.jpg" alt="" /><br />
+<p>
+	<span style="font-size:small;color:#666666;"><img src="http://p0.jmstatic.com/banner/201509/02/1441165333.7171.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441165333.8331.jpg" alt="" /><br />
+</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	取适量于掌心，加水揉出泡沫后，均匀涂于面部，轻轻打圈按摩，用水洗净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的<span>人士</span>进行测试后再使用哦！
+</p>        </textarea>
+    

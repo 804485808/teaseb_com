@@ -1,0 +1,64 @@
+title:妮维雅(Nivea)男士控油亮肤矿物炭洁面泥100g
+price:32
+thumb:src='http://p0.jmstatic.com/product/000/111/111541_std/111541_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/111/111541_std/111541_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                妮维雅(Nivea)男士控油亮肤矿物炭洁面泥，有效提亮肤色，肌肤通透亮泽，深层瓦解顽固油垢，不再是“油头垢面”，ME-10效矿物洁面系统，面子问题一次性解决。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>妮维雅(Nivea)男士控油亮肤矿物炭洁面泥100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/111/111541_std/111541_200_200.jpg" alt="妮维雅(Nivea)男士控油亮肤矿物炭洁面泥100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">妮维雅(Nivea)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,控油,改善肤质,男士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合油性暗沉男性肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年(具体日期以收到的实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	每天早晚，以清水沾湿面部，取适量于掌心，混和清水起泡后，在面部和颈部打圈清洁，避开眼睛，最后以清水彻底洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>        </textarea>
+    

@@ -1,0 +1,67 @@
+title:相宜本草美白祛斑洁面膏 100g
+price:28
+thumb:src='http://p0.jmstatic.com/product/000/001/1412_std/1412_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/001/1412_std/1412_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                面部暗沉无光，色斑频频出现！每个女孩都在追求美的极致——白且干净！相宜本草美白祛斑洁面膏 100g，结合现代科技研制而成，能洗净毛孔内污垢，去除肌肤表面干燥老化角质。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>相宜本草美白祛斑洁面膏 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/001/1412_std/1412_200_200.jpg" alt="相宜本草美白祛斑洁面膏 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">相宜本草</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>均匀肤色,清洁,保湿,淡化黑色素</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有人群，尤其是想要干净白皙肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年(具体日期以收到实物为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>由于产品外包装可能更新，请以收到实物为准</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，两款包装随机发货</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://inoherb.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467976904.jpg" width="660" height="103" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_910772.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467977947.jpg" width="220" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_520075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467978527.jpg" width="231" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_21297.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467979173.jpg" width="209" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_88033.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468055852.jpg" width="220" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18022.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468056582.jpg" width="231" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18021.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468057684.jpg" width="209" height="321" alt="" /></a><br />
+fangfa:
+        <p>
+	早晚取适量于掌心，加水揉匀，在面部稍加按摩，以清水洗净。配合相宜美肤祛斑面膜、美白祛斑膏，效果显著。
+</p>
+<p>
+	<strong>温馨提示：</strong>避免接触眼睛，如有不慎入眼，请立刻用水冲洗。敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13756686806771.jpg" alt="" /> 
+</p>        </textarea>
+    

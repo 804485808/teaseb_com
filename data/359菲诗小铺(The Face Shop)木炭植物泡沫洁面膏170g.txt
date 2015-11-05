@@ -1,0 +1,68 @@
+title:菲诗小铺(The Face Shop)木炭植物泡沫洁面膏170g
+price:42
+thumb:src='http://p0.jmstatic.com/product/000/064/64075_std/64075_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/064/64075_std/64075_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                自然创造美丽！菲诗小铺(The Face Shop)木炭植物泡沫洁面膏170g，是自然而纯净的按摩和清洁为一体的两用产品。给肌肤带来清爽的滋养，让肌肤的细胞都吸收丰沛的水润和滋养，由内而外焕发健康青春的光泽。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>菲诗小铺(The Face Shop)木炭植物泡沫洁面膏170g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/064/64075_std/64075_200_200.jpg" alt="菲诗小铺(The Face Shop)木炭植物泡沫洁面膏170g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">菲诗小铺 (The Face Shop)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,净肤,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>170g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>由于产品外包装可能更新，请以收到实物为准。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>任何肌肤均可适用。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <span style="color: rgb(51, 51, 51);font-size:medium;"><a href="http://mall.jumei.com/thefaceshop/" target="_blank" style="display: inline !important;"></a></span><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://thefaceshop.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112602805.jpg" width="660" height="218" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1048992.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112667309.jpg" width="318" height="272" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1048993.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112784111.jpg" width="342" height="272" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_678128.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112847262.jpg" width="221" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1186.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113464650.jpg" width="237" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_678133.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113649203.jpg" width="202" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_202369.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113015517.jpg" width="259" height="296" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_517017.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113075663.jpg" width="198" height="296" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_70697.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113133851.jpg" width="203" height="296" alt="" /></a><br />
+fangfa:
+        <p>
+	取适量于手心，加水轻轻打起泡沫，用于面部，洗后清水冲净，再次用冷水轻拍冲净，发挥收缩毛孔功效。
+</p>
+<p>
+	<strong>温馨提示：</strong><span style="font-family:宋体;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<span style="font-family:宋体;"><img src="http://p0.jmstatic.com/product/000/000/0_mall/13660062476267.jpg" alt="" /><br />
+</span> 
+</p>        </textarea>
+    

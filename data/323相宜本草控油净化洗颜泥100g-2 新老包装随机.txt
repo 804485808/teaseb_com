@@ -1,0 +1,60 @@
+title:相宜本草控油净化洗颜泥100g*2 新老包装随机
+price:35
+thumb:src='http://p0.jmstatic.com/product/000/015/15130_std/15130_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/015/15130_std/15130_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                相宜本草控油净化洗颜泥100g*2，泡沫丰富，吸附性强，能溶解毛孔内的污垢、多余皮脂和彩妆等(尤其是T字部位)卸妆、洁面一步完成。活化更新肌肤，令皮肤不再油光满面。净化毛孔，阻断暗疮生成，消除粉刺。恢复光滑细致，重现健康光彩！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>相宜本草控油净化洗颜泥100g*2 新老包装随机</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/015/15130_std/15130_200_200.jpg" alt="相宜本草控油净化洗颜泥100g*2 新老包装随机" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">相宜本草</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,修护,净化</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>想要彻底清洁毛孔的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>老包装：60g/支，共2支；或新包装：100g/支，共2支</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期，为收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>新老包装随机发货，具体以收到实物为准，介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://inoherb.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467976904.jpg" width="660" height="103" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_910772.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467977947.jpg" width="220" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_520075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467978527.jpg" width="231" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_21297.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467979173.jpg" width="209" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_88033.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468055852.jpg" width="220" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18022.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468056582.jpg" width="231" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18021.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468057684.jpg" width="209" height="321" alt="" /></a><br />
+fangfa:
+        <p>
+	<span style="color:#333333;background-color:#FFFFFF;">使用时，取适量于掌心，加水揉匀，请注意仔细按摩。着重清洁易出油的T字区，最后用清水洗净。</span> 
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！ <img src="http://p0.jmstatic.com/banner/201501/28/1422413231.1873.jpg" alt="" style="white-space:normal;" /> 
+</p>        </textarea>
+    

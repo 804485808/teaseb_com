@@ -1,0 +1,60 @@
+title:高丝（kose）兰皙欧　润实感洗颜霜 120g
+price:48
+thumb:src='http://p0.jmstatic.com/product/000/994/994046_std/994046_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/994/994046_std/994046_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                做真“实”的自己，要干净不要干燥，高丝(kose)兰皙欧润实感洗颜霜120g，细腻丰富泡沫深入到毛孔及肌肤表面凹陷的部位。泡沫在手和肌肤之间形成有弹性的泡沫层，仅带走毛孔和皮肤表面的污垢，更好清洁，不伤肌肤。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>高丝（kose）兰皙欧　润实感洗颜霜 120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/994/994046_std/994046_200_200.jpg" alt="高丝（kose）兰皙欧　润实感洗颜霜 120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">高丝 (Kose)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>杭州（具体产地以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有想要清洁脸部肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年，建议开封后12月内用完，具体请以实物为准</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	1、请用清水或温水将手掌和脸部打湿，取2cm左右的量，加少量清水或温水充分起泡后洗脸，然后清洗干净。&nbsp;<br />
+2、如果不慎入眼，请立即冲洗。&nbsp;<br />
+3、请不要保管于温度极高、极低或阳光直射的地方。<br />
+<strong>温馨提示</strong>：产品成分各有不同，肌肤敏感人士，请先测试后再使用。
+</p>        </textarea>
+    

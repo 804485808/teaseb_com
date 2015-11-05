@@ -1,0 +1,57 @@
+title:姬芮(Za) 新焕真皙美白洁面膏 100g
+price:98
+thumb:src='http://p0.jmstatic.com/product/000/424/424351_std/424351_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/424/424351_std/424351_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                Za独有的皙透系统赋予肌肤光泽及透明感，姬芮新焕真皙美白洁面膏100g，加入含维生素C颗粒，能够柔滑去除老化角质，软化肌肤。打造亮泽通透的肤色。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>姬芮(Za) 新焕真皙美白洁面膏 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/424/424351_std/424351_200_200.jpg" alt="姬芮(Za) 新焕真皙美白洁面膏 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">姬芮(Za)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,控油</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有想要打造亮泽通透肤色的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>中国</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://za.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953278335.jpg" width="660" height="204" alt="" /></a><br /><a href="http://item.jumei.com/1468.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953302695.jpg" width="195" height="303" alt="" /></a><a href="http://item.jumei.com/6125.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953305540.jpg" width="251" height="303" alt="" /></a><a href="http://item.jumei.com/61575.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953308184.jpg" width="214" height="303" alt="" /></a><br /><img src="http://p0.jmstatic.com/banner/201503/11/1426061595.7898.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/11/1426061599.3788.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/11/1426061602.8205.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/11/1426061604.2177.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/11/1426061605.1481.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/17/1426587134.3463.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/17/1442463652977.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/17/14424637454125.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/11/1426061613.6756.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	取适量于手掌，配合文水揉搓出泡沫，以螺旋状轻柔按摩肌肤，再以清水冲洗。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>        </textarea>
+    

@@ -1,0 +1,7 @@
+Drain Motors,,,,,,,,,,
+Voltage,110v,240v,220v,208v,230v,115v,120v,380v,415v,440v
+Power,45kw,180kw,40kw,30w,90w,135w,30w,0.18kw,315kw,200w
+Speed,1350rpm,1660rpm,1300rpm,1812rpm,3643rpm,1650rpm,2900rpm,1400rpm,960rpm,660rpm
+Phase,single phase,three phase,,,,,,,,
+Frequency,50hz,60hz,,,,,,,,
+Usage,washing machine drain motor,water,household appliance,washing machine,universal,industrial,air pump,"water,pump sand and slurry",universal,"car,homeappliance, industrial"

@@ -1,0 +1,71 @@
+title:珀莱雅(PROYA)水漾肌密净透洁面露120ml
+price:65
+thumb:src='http://p0.jmstatic.com/product/000/364/364315_std/364315_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/364/364315_std/364315_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                珀莱雅(PROYA)水漾肌密净透洁面露，其添加的海洋浮游生物几丁质精华，改善皮脂膜的天然水油平衡能力，防止水分流失和外界环境伤害。富含的保湿粘多糖Hydriame，呵护粗糙角质层，充分滋润，减少水分散失，使肌肤始终维持健康水润的状态。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>珀莱雅(PROYA)水漾肌密净透洁面露120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/364/364315_std/364315_200_200.jpg" alt="珀莱雅(PROYA)水漾肌密净透洁面露120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">珀莱雅(PROYA)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒包装</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有人群，尤其是想要肌肤清爽柔润的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3-5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>多款包装随机发货，具有以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<span style="font-size:small;color:#666666;"><strong><span style="font-size:16px;font-family:'Microsoft YaHei';color:#000000;"></span></strong><img src="http://p0.jmstatic.com/banner/201506/16/1434424937.6578.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424937.8137.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424937.9945.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424938.1698.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424938.3969.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424938.6331.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424938.8768.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424939.1101.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434425000.4493.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434425000.7143.jpg" alt="" /><br />
+</span>
+</p>
+<p>
+	<span style="font-size:small;color:#666666;"> <span style="font-size:16px;font-family:'Microsoft YaHei';color:#000000;"></span></span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	取适量，加水揉出泡沫后，均匀涂于面部，轻轻打圈按摩，再用清水洗净。
+</p>
+<p>
+	<strong>温馨提示</strong>：护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<img src="http://p0.jmstatic.com/product/000/000/0_mall/1388484308377.jpg" width="660" height="362" alt="" /> 
+</p>        </textarea>
+    

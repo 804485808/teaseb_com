@@ -1,0 +1,61 @@
+title:佰草集(HERBORIST)平衡洁面乳 100ml
+price:51
+thumb:src='http://p0.jmstatic.com/product/000/001/1469_std/1469_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/001/1469_std/1469_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                皮肤经历季节的交替，逐渐脆弱，适应能力变差。要想保持皮肤清洁，建议使用性质温和的洁面产品保持。佰草集平衡洁面乳！性质温和，泡沫细腻，清洁保湿且使用后水嫩不紧绷，适合中性和混合性肤质。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>佰草集(HERBORIST)平衡洁面乳 100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/001/1469_std/1469_200_200.jpg" alt="佰草集(HERBORIST)平衡洁面乳 100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">佰草集(HERBORIST)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒。两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>适用于中性、混合型及油性肤质</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><br /><!--recommendation_manual_end--><p>
+	<img src="http://p0.jmstatic.com/deal_content/201509/07/14416033143378.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441165267.7179.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441165267.9158.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441165268.0731.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441165268.1592.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441165268.5129.jpg" alt="" />
+</p>        </textarea>
+    
+fangfa:
+        先蘸湿面部，挤出适量（樱桃般大小，约2克）于掌心，加水揉出泡沫，在面部轻轻按摩，再以温水洗净。搭配佰草集平衡系列产品共同使用，效果尤佳。
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<img src="http://p0.jmstatic.com/banner/201509/02/1441165296.5978.jpg" alt="" /> 
+</p>        </textarea>
+    

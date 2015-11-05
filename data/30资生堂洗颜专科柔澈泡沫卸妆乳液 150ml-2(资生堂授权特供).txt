@@ -1,0 +1,63 @@
+title:资生堂洗颜专科柔澈泡沫卸妆乳液 150ml*2(资生堂授权特供)
+price:96
+thumb:src='http://p0.jmstatic.com/product/001/080/1080779_std/1080779_350_350.jpg' jqimg='http://p0.jmstatic.com/product/001/080/1080779_std/1080779_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                每天调整肌肤状态，令肌肤水嫩有弹性。不含色素、柔和配方，适合各类肌肤。资生堂洗颜专科柔澈泡沫卸妆乳液，柔和呵护肌肤！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>资生堂洗颜专科柔澈泡沫卸妆乳液 150ml*2(资生堂授权特供)</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/001/080/1080779_std/1080779_200_200.jpg" alt="资生堂洗颜专科柔澈泡沫卸妆乳液 150ml*2(资生堂授权特供)" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">资生堂菲婷</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于想要肌肤水嫩有弹性的MM</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml×2</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒无塑封。两款包装随机发货，具体以收到实物为准，请介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://mall.jumei.com/tsubaki/" target="_blank" style="float:left;display:inline;"><img src="http://images.jumei.com/cooperation/xiyan/130528_01.jpg" alt="" /></a><br />
+fangfa:
+        <p style="white-space:normal;">
+	<span style="font-size:12px;">先将手部淋湿，取适量（约2厘米）于掌心，加少量清水或温水揉至产生丰富的泡沫后涂于面部，再冲洗干净。</span> 
+</p>
+<p style="white-space:normal;">
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p style="white-space:normal;">
+	<img alt="" src="http://images.jumei.com/deal_content/201206/18/13400126324267.jpg" /> 
+</p>        </textarea>
+    

@@ -1,0 +1,63 @@
+title:菲诗小铺(the face shop)米水润亮泽洁颜泡沫150ml
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/003/3500_std/3500_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/003/3500_std/3500_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                菲诗小铺(the face shop)米水润亮泽洁颜泡沫150ml，浓缩米水清洁成分，轻松卸妆的同时，深层洁净肌肤，泡沫丰富，清洁亮泽，温和，唤醒肌肤活力，令肌肤光亮。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>菲诗小铺(the face shop)米水润亮泽洁颜泡沫150ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/003/3500_std/3500_200_200.jpg" alt="菲诗小铺(the face shop)米水润亮泽洁颜泡沫150ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">菲诗小铺 (The Face Shop)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,修护肌肤,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>韩国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>正品，有盒无塑封。两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>敏感性、中干性肌肤</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <span style="color: rgb(51, 51, 51);font-size:medium;"><a href="http://mall.jumei.com/thefaceshop/" target="_blank" style="display: inline !important;"></a></span><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://thefaceshop.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112602805.jpg" width="660" height="218" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1048992.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112667309.jpg" width="318" height="272" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1048993.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112784111.jpg" width="342" height="272" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_678128.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169112847262.jpg" width="221" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_1186.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113464650.jpg" width="237" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_678133.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113649203.jpg" width="202" height="331" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_202369.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113015517.jpg" width="259" height="296" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_517017.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113075663.jpg" width="198" height="296" alt="" /></a><a href="http://mall.jumei.com/thefaceshop/product_70697.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14169113133851.jpg" width="203" height="296" alt="" /></a><br />
+fangfa:
+        <p>
+	<span style="font-size:12px;">早晚使用，先用清水滋润面部，然后取适量洁面凝胶于手中加清水揉搓出丰富泡沫，在面部由下至上打圈按摩多次(T区皮脂腺分泌旺盛者，可以先多次按摩该部位)，再用清水洗净即可。</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<img alt="" src="http://images.jumei.com/deal_content/201204/25/13353404364857.jpg" /> 
+</p>        </textarea>
+    

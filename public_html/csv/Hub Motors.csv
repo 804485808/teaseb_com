@@ -1,0 +1,7 @@
+Hub Motors,,,,,,,,,,
+voltage,36v,24v,48v,144v,96v,60v,12v,,,
+power,201w,300w,250w,500w,301w,400w,8000w,750w,1500w,3000w
+speed,30km/h,50km/h,35km/h,25km/h,18km/h,45km/h,43km/h,,,
+phase,three phase,single phase,,,,,,,,
+frequency,50hz,60hz,,,,,,,,
+usage,Electric Bicycle,car,Auto Wheel,Wheel Hub Bearing,boat,"Electric Bicycle,scooter",scooter,airplane,,

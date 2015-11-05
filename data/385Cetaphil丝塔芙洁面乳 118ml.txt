@@ -1,0 +1,91 @@
+title:Cetaphil丝塔芙洁面乳 118ml
+price:36.9
+thumb:src='http://p0.jmstatic.com/product/000/006/6935_std/6935_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/006/6935_std/6935_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                反复洁面又担心伤肤？Cetaphil丝塔芙洁面乳118ml，通过所含的乳化络合物来实现对皮肤的深层净化，温和去除杂质。由于含有可减少刺激性的成分，可广泛适用于各种敏感性皮肤。在温和清洁同时，在肌肤表面敷上薄薄保湿修复膜，温和调理肌肤至水润无瑕健康状态！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>Cetaphil丝塔芙洁面乳 118ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/006/6935_std/6935_200_200.jpg" alt="Cetaphil丝塔芙洁面乳 118ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">丝塔芙 (Cetaphil)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,修护,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用任何肌肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>118ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>24个月（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>加拿大</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒无塑封。两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://cetaphil.jumei.com/?site=bj" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14465413417746.jpg" width="660" height="401" alt="" /></a><br /><map name="Map"><area shape="rect" coords="10,53,617,260" href="http://mall.jumei.com/cetaphil/" target="_blank" /></map><p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446198796.9067.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446198526.0956.jpg" alt="" style="line-height:1.5;" /> 
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446197689.4736.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/30/1446197689.6367.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446197920.4496.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446198482.5356.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201502/02/1422854706.7468.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446197726.6092.jpg" alt="" />&nbsp;
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201510/30/1446198607.6947.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/30/1446198607.8616.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<strong>水洗法</strong>：用水打湿全脸，取1元硬币大小的丝塔芙洗面奶于掌心，无需与水混合，轻揉面部，稍加按摩，然后用清水冲洗干净，每日早晚各一次。<br />
+<strong>干洗法</strong>：取1元硬币大小的丝塔芙洗面奶于掌心，直接涂抹于整个面部稍加按摩，然后用干净的化妆棉擦净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img alt="" src="http://images.jumei.com/deal_content/201205/16/13371391943609.jpg" style="line-height:1.5;" /> 
+</p>        </textarea>
+    

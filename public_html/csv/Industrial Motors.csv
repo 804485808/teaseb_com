@@ -1,0 +1,7 @@
+Industrial Motors,,,,,,,,,,
+voltage,380v,220v,230v,240v,208v,460v,660v,400v,24v ,690v
+power,315kw,3.75kw,186kw,1.4kw,600kw,0.5kw,3.8kw,0.18kw,5.5kw,2.2kw
+speed,1400rpm,,,,,,,,,
+phase,three-phase,single-phase,,,,,,,,
+frequency,50hz,60hz,,,,,,,,
+usage,industrial,Ac Servo Motor Driver,water,universal,metal cutting,rolling mill,slurry,lubricant oil,air pump,

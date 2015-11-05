@@ -1,0 +1,82 @@
+title:科颜氏（Kiehl’s）集焕白净肤泡沫洁面乳150ml
+price:205
+thumb:src='http://p0.jmstatic.com/product/000/060/60023_std/60023_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/060/60023_std/60023_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                洗出肌肤清新色，科颜氏（Kiehl’s）集焕白净肤泡沫洁面乳150ml，让肌肤在温水洗涤下悄然绽放光彩。洗完脸，亦洗去疲惫烦杂，犹如重拾清新活力，静静享受肌肤畅快呼吸的同时更享受随之而来的轻松自在。清洁肌肤也滋润肌肤，清清爽爽，带来焕然一新的健康朝气            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>科颜氏（Kiehl’s）集焕白净肤泡沫洁面乳150ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/060/60023_std/60023_200_200.jpg" alt="科颜氏（Kiehl’s）集焕白净肤泡沫洁面乳150ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">科颜氏 (Kiehl’s)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有想拥有健康净白肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>美国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，具体包装以收到实物为准。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201509/06/14415344038597.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415344685380.jpg" alt="" /> 
+</p>
+<img src="http://p0.jmstatic.com/deal_content/201509/06/14415345333424.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201304/26/13669641436516.jpg" alt="科颜氏（Kiehl's）集焕白净肤泡沫洁面乳150ml" />&nbsp;
+<p class="cjk">
+	<img src="http://p0.jmstatic.com/deal_content/201509/06/14415345926850.jpg" alt="" /> 
+</p>
+<p class="cjk" style="padding:0px;line-height:24px;white-space:normal;">
+	<span style="font-size:16px;color:#333333;"><strong>洗出肌肤清新色</strong></span> 
+</p>
+<p class="cjk" style="padding:0px;line-height:24px;white-space:normal;">
+	<span style="font-size:12px;color:#666666;">洗去污物尘杂的同时也洗去疲惫虚弱，狼狈不堪，科颜氏（</span><span style="font-size:12px;color:#666666;">Kiehl's</span><span style="font-size:12px;color:#666666;">）集焕白净肤泡沫洁面乳</span><span style="font-size:12px;color:#666666;">，供养每一个肌肤细胞。</span> 
+</p>
+<p>
+	<strong style="color:#333333;font-size:16px;line-height:1.5;">水润焕发光泽</strong> 
+</p>
+<p class="cjk" style="white-space:normal;">
+	<span style="font-size:12px;color:#666666;">天然植物成分有效补充肌肤水分，锁住水分防止流失，洗完脸滋润不紧绷，恢复柔嫩水灵肌肤。显著提亮肤色，还原肌肤健康本色，令肌肤光彩照人，更加细腻，肤色更加均匀，面容更加莹亮。能柔和分解现有的色斑，减少黑色素沉淀生成，有效白皙肌肤。</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;">取适量洁肤乳霜于手中，加水揉出泡沫，以指尖于面上轻轻打圈按摩，再以清水彻底冲洗。适合每天早晚使用。</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201402/24/13932261219311.jpg" alt="" /> 
+</p>        </textarea>
+    

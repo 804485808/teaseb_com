@@ -1,0 +1,7 @@
+Brushless Motors,,,,,,,,,,
+Voltage,6v,12v,220v,24v,48v,18v,312v,230v,100v,120v
+Power,130w,315w,0.25w,0.25-315w,120w,500w,10w,220w,1200w,300w
+Speed,100rpm,5000rpm,3000rpm,10000rpm,400rpm,15rpm,1000rpm,2000rpm,30000rpm,400rpm
+Phase,three-phase,single-phase,,,,,,,,
+Frequency,50hz,60hz,,,,,,,,
+Usage,fan appliance,home appliance,water,boat,car,airplane,rc car brushless motor,helicopter,power tools,rc model plane

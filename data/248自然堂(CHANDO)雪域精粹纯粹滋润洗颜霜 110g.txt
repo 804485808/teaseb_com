@@ -1,0 +1,74 @@
+title:自然堂(CHANDO)雪域精粹纯粹滋润洗颜霜 110g
+price:86
+thumb:src='http://p0.jmstatic.com/product/000/847/847193_std/847193_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/847/847193_std/847193_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                自然堂纯粹滋润洗颜霜，柔和、细腻的泡沫能温和清洁肌肤，深入清洁肌肤毛孔污垢的同时软化并去除表面老化角质，令肌肤细腻柔滑；富含多种矿物成分的喜马拉雅冰川雪水，保护肌肤天然皮脂膜，更使丰盈水分紧锁于肌肤内部，洗后令肌肤柔软细嫩，洁净清新。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>自然堂(CHANDO)雪域精粹纯粹滋润洗颜霜 110g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/847/847193_std/847193_200_200.jpg" alt="自然堂(CHANDO)雪域精粹纯粹滋润洗颜霜 110g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">自然堂(CHANDO)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>110g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>新老包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201408/05/1407203347.7316.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/17/1442475767.7641.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/17/1442475805.8121.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201408/05/1407203349.188.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201504/16/1429154133.9721.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	取适量（约1cm）于手心加清水或温水充分揉搓起泡沫后，再涂于面部轻揉，仔细清洁后以清水冲净。
+</p>
+<p>
+	<strong style="text-indent:-24px;white-space:normal;">温馨提示</strong><strong style="text-indent:-24px;white-space:normal;">：</strong><span style="text-indent:-24px;white-space:normal;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<span style="text-indent:-24px;white-space:normal;"><img src="http://p0.jmstatic.com/deal_content/201408/05/14072099145902.jpg" alt="" /><br />
+</span> 
+</p>        </textarea>
+    

@@ -1,0 +1,7 @@
+Variable Speed Motors,,,,,,,,,,,,,,,,,
+Voltage,220v,380v,12v,120v,240v,315v,48v,72v,,,,,,,,,
+Power,200kw,1kw,630kw,500w,401kw,0.4kw,0.75kw,3kw,315kw,0.75kw,0.4kw,82kw,6000kw,160kw,0.35kw,6000kw,160kw
+Speed,Variable Speed,Constant Speed,3600rpm,2900rpm ,0rpm,1400rpm,30000rpm,,,,,,,,,,
+Phase,three phase,single phase,,,,,,,,,,,,,,,
+Frequency,50hz,60hz,400hz,,,,,,,,,,,,,,
+Usage,Industrial,Mill Machine,lift Machine,Universal,Balancing Machine,Dough,Bread,For Mixing,Siemens Motor,Industrial Equipment,Car,home Appliance,,,,,

@@ -1,0 +1,59 @@
+title:凡茜仙人掌无s洗面奶 126ml
+price:49
+thumb:src='http://p0.jmstatic.com/product/000/017/17454_std/17454_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/017/17454_std/17454_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                S即为SLES/SLS，SLS/SLES会令表皮细胞发育不成熟，结构松散，令表皮层变薄，易受外界刺激，且角化异常，使皮肤粗糙暗淡，防御力下降，加速细胞老化。其清洁能力很强，但刺激性也高，长期使用有S洗面奶肌肤越洗越薄，越来越脆弱，毛孔越来越粗大，脸上出现红血丝，甚至于年龄不相符的肌肤老化！凡茜仙人掌无S洗面奶126ml，无S添加，肌肤不受S伤害，采用谷氨酸温和清洁因子同样达到深层清洁的效果！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>凡茜仙人掌无s洗面奶 126ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/017/17454_std/17454_200_200.jpg" alt="凡茜仙人掌无s洗面奶 126ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">凡茜</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,修护肌肤,补水,净化</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有盒无塑封。两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>北京</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有想要通过温和不刺激的方式清洁肌肤的人群，尤其是敏感肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>126ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://fanxishop.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14428036981650.jpg" width="223" height="328" alt="" /></a><a href="http://xuanqi.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14428036984957.jpg" width="219" height="328" alt="" /></a><a href="http://zuji.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14428036987544.jpg" width="218" height="328" alt="" /></a><br /><p>
+	<img src="http://p0.jmstatic.com/banner/201509/02/1441189156.2002.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189156.3535.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189156.5391.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189156.664.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189156.8268.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189157.0032.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189157.1631.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/04/14413554447382.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/04/14413554449680.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189157.4697.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189157.591.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441189157.6856.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        湿润双手与面部，取适量本品于手心揉搓出泡沫，涂于面部打圈按摩，再以清水洗净即可。<br />
+<strong>温馨提示</strong>：护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！<br />        </textarea>
+    

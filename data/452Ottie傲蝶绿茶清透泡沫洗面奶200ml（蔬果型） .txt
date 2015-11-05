@@ -1,0 +1,66 @@
+title:Ottie傲蝶绿茶清透泡沫洗面奶200ml（蔬果型） 
+price:69
+thumb:src='http://p0.jmstatic.com/product/000/212/212254_std/212254_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/212/212254_std/212254_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                雾霾时代来临，再不好好洗脸真“堵”啦！想要干净清新的水嫩美肌？Ottie傲蝶绿茶清透泡沫洗面奶200ml(蔬果型)，萃取绿茶和蔬果成分的洗面奶，提供给疲劳脆弱的肌肤细心呵护，植物精华净透肌肤，为肌肤注入充沛水分，减少黑色素形成，令肌肤水嫩弹滑展现完美状态！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>Ottie傲蝶绿茶清透泡沫洗面奶200ml（蔬果型） </span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/212/212254_std/212254_200_200.jpg" alt="Ottie傲蝶绿茶清透泡沫洗面奶200ml（蔬果型） " border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">傲蝶（Ottie）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水,滋润,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>200ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3-5年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>韩国   </span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://ottie.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//1441097232105.jpg" width="660" height="150" alt="" /></a><a href="http://mall.jumei.com/ottie/product_212254.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971662435.jpg" width="329" height="305" alt="" /></a><a href="http://mall.jumei.com/ottie/product_1483075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971663643.jpg" width="331" height="305" alt="" /></a><a href="http://mall.jumei.com/ottie/product_21941.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971665726.jpg" width="329" height="311" alt="" /></a><a href="http://mall.jumei.com/ottie/product_21942.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971667726.jpg" width="331" height="311" alt="" /></a><br />
+fangfa:
+        <p>
+	<span style="font-family:SimSun;line-height:1.5;background-color:#FFFFFF;">取适量在掌心揉出泡沫，轻轻按摩清洁，用清水冲洗干净即可。</span> 
+</p>
+<p style="padding:0px;font-family:Tahoma, Geneva, sans-serif;white-space:normal;background-color:#FFFFFF;">
+	<strong><span style="font-family:SimSun;">温馨提示：</span></strong><span style="font-family:SimSun;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>        </textarea>
+    

@@ -1,0 +1,76 @@
+title:雅诗兰黛 (Estee Lauder)白金级保湿洁颜/面乳125ml
+price:439
+thumb:src='http://p0.jmstatic.com/product/000/008/8539_std/8539_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/008/8539_std/8539_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                雅诗兰黛 (Estee Lauder)白金级保湿洁颜/面乳125ml，彻底清除污垢，肌肤不紧绷。三重强效修护肌肤保湿系统，让肌肤滋养充足、回复丝般柔滑！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>雅诗兰黛 (Estee Lauder)白金级保湿洁颜/面乳125ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/008/8539_std/8539_200_200.jpg" alt="雅诗兰黛 (Estee Lauder)白金级保湿洁颜/面乳125ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">雅诗兰黛 (Estee Lauder)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,美白,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>想要拥有干净清爽肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>新老包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201505/27/1432698077486.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/09/14443642489437.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/09/14443642496949.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/09/14443641939038.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/09/14443641765163.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/09/14443637202078.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/09/1444364155724.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201410/13/14131942767698.jpg" alt="" /> 
+</p>
+<p>
+	<span style="color:#333333;font-size:16px;"><strong><span style="color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, Tahoma, sans-serif;line-height:20px;white-space:normal;background-color:#FFFFFF;">雅诗兰黛 (Estee Lauder)白金级保湿洁颜/面乳125ml</span></strong></span> 
+</p>
+<p>
+	<span style="color:#666666;">温和清洁同时提供保湿护理白金级的润泽舒适感，内含氨基酸介面活性剂成分，遇水即产生丰富细致的乳状泡沫。对肌肤温和，同时提供保湿护理。清洁后更在肌肤表面留下天然保护膜。</span><span style="color:#666666;"></span> 
+</p>        </textarea>
+    
+fangfa:
+        <p align="left">
+	取适量洁面乳，几滴水把洁面乳揉出泡沫再涂在脸上按摩，然后用清水洗净即可。
+</p>
+<p align="left">
+	<strong>温馨提示：</strong>&nbsp;护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p align="left">
+	<img src="http://p0.jmstatic.com/deal_content/201405/28/14012649316173.jpg" alt="" /> 
+</p>        </textarea>
+    

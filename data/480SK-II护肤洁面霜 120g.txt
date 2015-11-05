@@ -1,0 +1,61 @@
+title:SK-II护肤洁面霜 120g
+price:295
+thumb:src='http://p0.jmstatic.com/product/000/002/2987_std/2987_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/002/2987_std/2987_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                洁净肌肤！肌肤倍感舒爽健康。SK-II护肤洁面霜 120g，蕴含SK-II Pitera™，水解亚麻籽提取物及保湿成分。温和且具有洁净力，还您细腻通透。让您使用过后肌肤保有光滑、不紧绷。亲水性配方更容易洗净，肌肤不会产生不适感。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>SK-II护肤洁面霜 120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/002/2987_std/2987_200_200.jpg" alt="SK-II护肤洁面霜 120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">SK-II</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,清爽,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有肌肤，特别是想要洁净肤质的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，有外盒包装。两款包装随机发货，具体以收到实物为准，请介意的人士慎重购买。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/deal_content/201509/06/14415296428269.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415296626700.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415296629422.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415298409684.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415298235036.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415296296778.jpg" alt="" /><br />        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;">将脸沾湿，加水使泡沫洁面剂形成许多泡沫，然后涂在前额、双颊和下巴处。轻轻在脸上由下至上，从内至外画圈按摩。尤其仔细清洗T区部分。用温水或冷水彻底冲洗净。</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>        </textarea>
+    

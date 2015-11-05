@@ -1,0 +1,7 @@
+Ac Motors,,,,,,,,,,
+Voltage,240v,230v,208v,120v,220v,115v,100v,110v,660v,380v
+Power,1kw,200kw,0.75kw,630kw,1.5kw,7kw,315kw,2.2kw
+Speed,1500rpm,1800rpm,2900rpm,1400rpm,960rpm,660rpm,3600rpm,3000rpm,1250rpm,1.5rpm
+Phase,three phase,single phase,,,,,,,,
+Frequency,50hz,60hz,50-60hz,400hz,300hz,,,,,
+Usage,universal,industrial,svc,laptop,fan,household appliance,mill machine,lift machine,sbw,dbw

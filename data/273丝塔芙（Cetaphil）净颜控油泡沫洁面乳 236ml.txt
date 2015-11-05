@@ -1,0 +1,85 @@
+title:丝塔芙（Cetaphil）净颜控油泡沫洁面乳 236ml
+price:129
+thumb:src='http://p0.jmstatic.com/product/000/774/774072_std/774072_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/774/774072_std/774072_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                丝塔芙新品泡沫洁面乳！丰富泡沫慕斯质地，深入肌肤底层彻底去除多余油脂和污垢，肌底调理控油+表面智慧吸油，调理肌肤重回水油平衡，无畏油光！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>丝塔芙（Cetaphil）净颜控油泡沫洁面乳 236ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/774/774072_std/774072_200_200.jpg" alt="丝塔芙（Cetaphil）净颜控油泡沫洁面乳 236ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">丝塔芙 (Cetaphil)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,控油,净肤,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>由于产品外包装可能更新，请以收到的实物为准</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于任何人群，尤其是油性肌肤人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>236ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>2年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>加拿大</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://cetaphil.jumei.com/?site=bj" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14465413417746.jpg" width="660" height="401" alt="" /></a><br /><map name="Map"><area shape="rect" coords="10,53,617,260" href="http://mall.jumei.com/cetaphil/" target="_blank" /></map><p>
+	<img src="http://p0.jmstatic.com/banner/201511/03/1446517425.4007.jpg" alt="" style="line-height:1.5;" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517430.2241.jpg" alt="" style="line-height:1.5;" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517435.1712.jpg" alt="" style="line-height:1.5;" />
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/03/1446517587.475.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517589.5354.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/03/1446517506.5849.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517521.0868.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517524.9142.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517529.1631.jpg" alt="" /> 
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201502/02/1422855213.0929.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/03/1446517670.7537.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517676.8254.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/03/1446517681.4738.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	浸湿面部，将少量本品由瓶中挤压出来，形成泡沫，涂抹于面部，带有泡沫清透面部，然后用水洗净。
+</p>
+<p>
+	<strong style="white-space:normal;">温馨提示：</strong><span style="white-space:normal;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<span style="white-space:normal;"><img src="http://p0.jmstatic.com/deal_content/201407/02/14042784237688.jpg" alt="" /><br />
+</span> 
+</p>        </textarea>
+    

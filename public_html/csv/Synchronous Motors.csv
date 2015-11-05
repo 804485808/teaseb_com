@@ -1,0 +1,7 @@
+Synchronous Motors,,,,,,,,,,
+Voltage,240v,230v,380v,220v,480v,110v,415v,440v,115v,120v
+Power,80w,1.2kw,4kw,15kw,550w,1.8kw,,,,
+Speed,0.1rpm,60rpm,2900rpm,1400rpm,960rpm,660rpm,1500rpm,1800rpm,1.5rpm,99rpm
+Phase,three-phase,single-phase,sing and three phase,,,,,,,
+Frequency,50hz,60hz,100hz,868hmz,250hz,,,,,
+Usage,room,outdoor,,,,,,,,

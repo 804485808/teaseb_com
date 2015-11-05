@@ -1,0 +1,61 @@
+title:相宜本草金缕梅控油净白洗颜泥 100g
+price:33
+thumb:src='http://p0.jmstatic.com/product/000/001/1967_std/1967_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/001/1967_std/1967_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                相宜本草金缕梅控油净白洗颜泥 100g，从金缕梅、茶树油中成功萃取出“智慧控油因子”有效渗透肌肤深层，智慧调节并平衡水油含量，一直肌肤分泌过多油脂，避免了过分剥夺表层油脂对皮脂膜造成的破坏。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>相宜本草金缕梅控油净白洗颜泥 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/001/1967_std/1967_200_200.jpg" alt="相宜本草金缕梅控油净白洗颜泥 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">相宜本草</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,收敛毛孔,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>三年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，无外盒无塑封，介意的MM慎购哦，两款包装随机发货！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>适合易泛油光，毛孔粗大的油性，混合性肌肤。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://inoherb.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467976904.jpg" width="660" height="103" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_910772.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467977947.jpg" width="220" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_520075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467978527.jpg" width="231" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_21297.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467979173.jpg" width="209" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_88033.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468055852.jpg" width="220" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18022.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468056582.jpg" width="231" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18021.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468057684.jpg" width="209" height="321" alt="" /></a><br />
+fangfa:
+        <p>
+	早晚用温水润湿面部，取适量（约2cm左右）于掌心，加水揉匀，在面部轻柔按摩1-2分钟后用清水洗净。建议：配合相宜本草金缕梅系列其他产品使用，效果更佳。
+</p>
+<p>
+	<strong>温馨提示：</strong>&nbsp;护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用。<img alt="" src="http://images.jumei.com/deal_content/201204/17/13346542389350.jpg" /> 
+</p>
+<br />        </textarea>
+    

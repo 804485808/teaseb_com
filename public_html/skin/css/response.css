@@ -1,0 +1,2787 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width:767px) {
+/*product last*/
+.productLast_left {
+	width: 100%;
+	min-height: 800px;
+	float: left;
+}
+.productLast_right {
+	width: 100%;
+	min-height: 800px;
+	float: left;
+	margin-left: 0;
+	margin-top: 12px;
+}
+.product_tr {
+	width: 100%;
+	float: left;
+	padding-left: 20px;
+}
+.product_tablelast_Name {
+	width: 150px;
+}
+.product_tablelast_Name a {
+	color: #333;
+}
+.product_tablelast_Name a:hover {
+	text-decoration: underline;
+}
+.product_tablelast_Voltage {
+	width: 100px;
+}
+.Guess_product_last {
+	width: 145px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.Guess_product_last:nth-child(1) {
+	margin-left: 10px;
+}
+.Guess_productimg {
+	width: 145px;
+}
+.HotCommodityimg {
+	border: 1px #DDD solid;
+	width: 150px;
+	overflow: hidden;
+	float: left;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.HotCommodityimg a {
+	width: 150px;
+	display: block;
+	padding: 7px;
+}
+.Commodity_List {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.Commodity_totalList {
+	width: 50%;
+	float: left;
+}
+.Commodity_totalList_padding {
+	border-left: 1px dashed #DDD;
+}
+.Commodity_left {
+	float: none;
+	width: 100%;
+	padding: 7px;
+	text-align: center;
+}
+.Commodity_center {
+	float: none;
+	width: 100%;
+	border-left: none;
+	border-right: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-top: 1px dashed #DDD;
+	border-bottom: 1px dashed #DDD;
+}
+.Commodity_right {
+	float: none;
+	width: 100%;
+	padding-top: 5px;
+}
+.Guess_you_like {
+	float: left;
+	width: 100%
+}
+.product_page {
+	float: left;
+}
+.Mobile_Attributes_margin {
+	margin-top: 15px;
+}
+.product_List_classification {
+	height: auto;
+	line-height: normal;
+}
+.product_Complex {
+	height: 36px;
+	line-height: 36px;
+	margin-left: 15px;
+}
+.product_price_Screening {
+	height: 36px;
+	margin-top: 18px;
+	line-height: 36px;
+	float: left;
+	margin-left: 15px;
+}
+.price_text {
+	height: 30px;
+	border: 1px solid #DDD;
+	width: 65px;
+	text-align: center
+}
+.Moq_text {
+	height: 30px;
+	border: 1px solid #DDD;
+	width: 100px;
+	text-align: center
+}
+.product_Show {
+	float: right;
+	margin-right: 10px;
+}
+.product_Show {
+	height: 36px;
+	line-height: 36px;
+	float: left;
+	margin-right: 0;
+	margin-left: 15px;
+}
+/*product details*/
+.motors-ProductDetailspage {
+	width: 100%;
+	margin: 0 auto;
+}
+.product_Hierarchy {
+	width: 100%;
+	line-height: 36px;
+	background-color: #0871c2;
+	margin-top: 0;
+}
+.product_Hierarchy span {
+	padding-left: 20px;
+	float: left;
+	display: block;
+	color: #fff;
+}
+.product_presentation {
+	width: 100%;
+	background-color: #FFF;
+}
+.Product_rmn_details {
+	width: 100%;
+	background-color: #f5f5f5;
+	margin-left: 0;
+	margin-top: 15px;
+}
+.You_May_Like {
+	width: 100%;
+	background-color: #f5f5f5;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+.product_hidden {
+	display: none;
+}
+.product_Suppliers_Recommended a {
+	display: block;
+	width: 188px;
+}
+.product_Comparison {
+	display: none;
+}
+.Suppliers_Product_Category ul li {
+	float: left;
+	width: 50%;
+	margin: 0;
+	line-height: 30px;
+}
+.Send_message {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.product_emall_form label {
+	width: 25%;
+}
+.form {
+	width: 45%;
+}
+.Subject {
+	width: 70%;
+}
+.Purchase {
+	width: 25%;
+}
+.Quantity {
+	width: 25%;
+}
+.product_Brief_introduction {
+	width: 50%;
+	height: auto;
+	background-color: #FFF;
+	float: left;
+	margin: 12px 0 12px 10px;
+	border-right: none;
+	background-color: #FFF;
+}
+.product_Supplier {
+	display: none;
+}
+.product_EMail {
+	float: left;
+	margin-top: 32px;
+	margin-left: 20px;
+}
+/*product*/
+.Mobile_Attributes {
+	float: left;
+	margin-bottom: 12px;
+	background-color: #FFF;
+	width: 100%;
+}
+.Mobile_CommodityAttributes {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	background-color: #0871c2;
+	cursor: pointer;
+}
+.Mobile_CommodityAttributes span {
+	color: #FFF;
+	padding-left: 10px;
+}
+.Mobile_CommodityAttributes i {
+	margin-left: 5px;
+}
+.Mobile_productBrandCountry {
+	width: 100%;
+	background-color: #FFF;
+	display: none;
+	overflow: hidden;
+}
+.Mobile_ProductAllBrand, .Mobile_ProductRotational {
+	width: 100%;
+	float: left
+}
+.Mobile_ProductAllBrand h2 {
+	float: left;
+	min-height: 36px;
+	line-height: 36px;
+	width: 100%;
+	padding-left: 10px;
+	display: block;
+}
+.Mobile_productAttributesLast {
+	float: left;
+	width: 100%;
+	min-height: 36px;
+	overflow: hidden;
+}
+.Mobile_productAttributesLast ul {
+	float: left;
+	width: 100%;
+	padding-left: 10px;
+}
+.Mobile_productAttributesLast ul li {
+	float: left;
+	width: 102px;
+	height: 36px;
+	line-height: 36px;
+}
+.Mobile_productAttributesLast ul li a {
+	font-size: 12px;
+	color: #666;
+}
+.Mobile_productAttributesLast ul li a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+/*Information start*/
+.product_main, .Ipd_ProductShuxing {
+	display: none;
+}
+.MInformationmain {
+	width: 320px;
+	background-color: #FFF;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+.Info_column {
+	width: 100%;
+	float: left;
+	background-color: #FFF;
+	overflow: hidden;
+	margin: 0 0 20px 0
+}
+.Info-Advertisement {
+	width: 320px;
+	margin: 0 0 20px 0;
+	background-color: #FFF;
+	float: left;
+	height: auto !important;
+}
+.Info_NewsFigure {
+	width: 320px;
+	height: auto;
+	overflow: hidden;
+	float: left;
+	margin-bottom: 20px;
+}
+.Info_NewsBusiness {
+	float: left;
+	width: 320px;
+	background-color: #FFF;
+}
+.Info_Figure {
+	float: left;
+	width: 100%;
+	background-color: #FFF;
+}
+.Info-ships, .Info-Industry, .Info-Science, .Info-Market {
+	width: 320px;
+	background-color: #FFF;
+	margin-bottom: 20px;
+	float: left;
+	overflow: hidden;
+}
+.Industry-right, .Market-right {
+	margin-right: 0;
+	margin-left: 0;
+}
+.news-Details {
+	width: 100%;
+	background-color: #FFF;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+.Info-Content {
+	width: 100%;
+	min-height: 800px;
+	float: none;
+	overflow: hidden;
+	background-color: #FFF;
+	padding: 0 10px;
+}
+.Info-Recommend {
+	display: none
+}
+.Info-Refreshimg ul li {
+	float: left;
+	margin: 0 10px 10px 10px;
+}
+/*newsLast*/
+.info_last_Application {
+	width: 100%;
+	float: none;
+	background-color: #FFF
+}
+.Info_right_last {
+	display: none;
+}
+/*Information end*/
+#motors-to-top {
+	position: fixed;
+	right: 10px;
+	bottom: 50px;
+	background: rgba(230, 126, 34, 0.6);
+	color: #ffffff;
+	text-align: center;
+	border-radius: 2px;
+	z-index: 1;
+	display: none;
+}
+.Mobilephone-mian {
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+}
+.mobile-motors-public {
+	width: 100%;
+	height: 36px;
+	float: left;
+	line-height: 36px;
+	border-bottom: 1px #ddd solid;
+}
+.mobile-motors-public span {
+	float: left;
+	padding-left: 10px;
+	font-size: 12px;
+	color: #333;
+}
+.mobile-motors-public a {
+	display: block;
+	float: right;
+	padding-right: 10px;
+	font-size: 10px;
+	color: #999;
+	text-decoration: none
+}
+.mobile-motors-public a:hover {
+	text-decoration: underline;
+}
+.Mobilephone-Classification, .Mobilephone-Products, .Moble-purchase, .Mobile-motorsbrand, .Moble-motorstechnical, .Mobile-motors-price, .Mobile-motors-news, .Mobile-motors-Business, .Mobile-motors-region, .Moble-motors-Supplier {
+	width: 100%;
+	background-color: #FFF;
+	float: left;
+}
+.Mobilephone-Classification {
+	cursor: default;
+}
+.Mobile-class {
+	position: fixed;
+	display: none;
+	bottom: 0;
+	background-color: #FFF;
+	width: 100%;
+	height: 100%;
+	z-index: 200;
+}
+.Mobile-motors-categories {
+	width: auto;
+}
+.motorslast {
+	height: 36px;
+	line-height: 36px;
+	float: left;
+	margin: 0 10px;
+}
+.motorslast a {
+	font-size: 12px;
+	color: #333;
+	float: left;
+	padding: 0 10px;
+}
+.fa-daxiao {
+	font-size: 1.6em;
+	color: #FFF;
+}
+.motors-anniu {
+	width: 50%;
+	padding: 0;
+	float: left;
+}
+.motors-back {
+	width: 50%;
+	float: left;
+	text-align: center
+}
+.motors-categories {
+	font-size: 14px;
+}
+.motors-lastbrand {
+	width: 100%;
+	float: left;
+}
+.motors-lastbrand ul {
+	padding: 10px 15px;
+	float: left;
+}
+.motors-lastbrand ul li {
+	line-height: 30px;
+	height: 30px;
+	float: left;
+}
+.motors-lastbrand ul li a {
+	color: #333;
+	font-size: 12px;
+	display: block;
+	margin-right: 15px;
+}
+.motors-lastbrand ul li a:hover {
+	color: #0066ff;
+	text-decoration: underline;
+}
+.Mobilephone-Products {
+	margin-top: 12px;
+	padding-bottom: 20px;
+}
+.Productsbox {
+	width: 100%;
+	float: left;
+}
+.Productsbox .hd {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #DDD;
+	position: relative;
+}
+.Productsbox .hd ul {
+	width: 100%;
+	position: absolute
+}
+.Productsbox .hd ul li {
+	width: 40%;
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	cursor: pointer;
+}
+.Productsbox .hd ul li.on {
+	border: 2px solid #0871c2;
+	border-bottom: 2px solid #FFF;
+	margin-left: 5px;
+	text-align: center;
+}
+.Productslast {
+	width: 100%;
+	height: auto;
+	float: left
+}
+.Mobile-motors-pimg {
+	width: 100%;
+	float: left;
+}
+.motors-img {
+	width: 20%;
+	margin: 10px;
+	float: left;
+}
+.motors-img a {
+	display: block;
+	width: 100%;
+}
+.motors-img a img {
+	border: 1px solid #ddd;
+}
+.motors-shuxing {
+	float: left;
+	width: 60%;
+	margin-top: 10px;
+}
+.motors-wenzi {
+	font-size: 12px;
+	color: #333;
+}
+.motors-wenzi a {
+	color: #333;
+}
+.motors-wenzi a:hover {
+	color: #0066ff;
+	text-decoration: underline;
+}
+.Moble-motors-Supplier {
+	margin-top: 12px;
+}
+.Moble-motors-tabsupplier {
+	width: 100%;
+	float: left;
+	background-color: #FFF
+}
+.Moble-motors-tabsupplier .hd {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #DDD;
+	position: relative;
+}
+.Moble-motors-tabsupplier .hd ul {
+	width: 100%;
+	position: absolute
+}
+.Moble-motors-tabsupplier .hd ul li {
+	width: 40%;
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	margin-right: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+.Moble-motors-tabsupplier .hd ul li.on {
+	border: 2px solid #0871c2;
+	border-bottom: 2px solid #FFF;
+	margin-left: 5px;
+	text-align: center;
+}
+.Moble-motors-tabsupplier .bd {
+	width: 100%;
+}
+.Moble-motors-tabsupplier .bd ul {
+	padding: 10px 0 10px 15px;
+	width: 100%;
+}
+.Moble-motors-tabsupplier .bd li {
+	line-height: 30px;
+}
+.Moble-motors-tabsupplier .bd li a {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	font-size: 12px;
+	color: #333;
+}
+.Moble-motors-tabsupplier .bd li a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Moble-purchase {
+	margin-top: 12px;
+}
+.Moble-lastpurchase {
+	width: 100%;
+	float: left;
+}
+.Moble-lastpurchase ul {
+	float: left;
+	padding: 10px 15px;
+}
+.Moble-lastpurchase ul li {
+	line-height: 30px;
+}
+.Moble-lastpurchase ul li a {
+	font-size: 12px;
+	color: #333;
+}
+.Moble-lastpurchase ul li a:hover {
+	color: #0066ff;
+	text-decoration: underline;
+}
+.Moble-motorstechnical {
+	margin-top: 12px;
+	padding-bottom: 20px;
+}
+.Technicalbox {
+	width: 100%;
+}
+.Technicalbox .hd {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #DDD;
+	position: relative;
+}
+.Technicalbox .hd ul {
+	width: 100%;
+	position: absolute
+}
+.Technicalbox .hd ul li {
+	width: 48%;
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	cursor: pointer;
+}
+.Technicalbox .hd ul li.on {
+	border: 2px solid #0871c2;
+	border-bottom: 2px solid #FFF;
+	margin-left: 5px;
+	text-align: center;
+}
+.Technicalbox article {
+	width: 100%;
+	float: left;
+}
+.Technicalbox article section {
+	border-bottom: 1px solid #ddd;
+	float: left;
+	width: 100%;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.motors-Timg {
+	width: 25%;
+	padding: 15px 10px 0 0;
+	float: left;
+}
+.motors-Timg a {
+	display: block;
+	width: 100%;
+}
+.motors-Timg a img {
+	border: 1px solid #ddd;
+}
+.Technicalbox article h1 a {
+	display: block;
+	padding: 15px 10px 5px 0;
+	color: #333;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 30px;
+}
+.Technicalbox article h3 a {
+	display: block;
+	color: #999;
+	line-height: 30px;
+	font-size: 12px;
+	padding-right: 10px;
+	line-height: 18px;
+}
+.Technicalbox article h1 a:hover, .Technicalbox article h3 a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Mobile-motors-price {
+	margin-top: 12px;
+}
+.pricelast {
+	width: 100%;
+	float: left;
+}
+.pricelast ul {
+	float: left;
+	width: 100%;
+	padding: 10px;
+}
+.pricelast ul li {
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+}
+.pricelast ul li span a {
+	display: block;
+	color: #333;
+	font-size: 12px;
+	float: left;
+}
+.pricelast ul li b {
+	float: right;
+	padding-right: 10px;
+}
+.Mobile-motors-anquan {
+	margin: 12px 0;
+	width: 100%;
+	float: left;
+}
+.Mobile-motors-news {
+	padding-bottom: 20px;
+}
+.motorsnewsbox {
+	width: 100%;
+}
+.motorsnewsbox .hd {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #DDD;
+	position: relative;
+}
+.motorsnewsbox .hd ul {
+	width: 100%;
+	position: absolute
+}
+.motorsnewsbox .hd ul li {
+	width: 25%;
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	cursor: pointer;
+}
+.motorsnewsbox .hd ul li.on {
+	border: 2px solid #0871c2;
+	border-bottom: 2px solid #FFF;
+	margin-left: 5px;
+	text-align: center;
+}
+.motorsnewsbox article {
+	width: 100%;
+	float: left;
+}
+.motorsnewsbox article section {
+	border-bottom: 1px solid #ddd;
+	float: left;
+	width: 100%;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.motors-Newsimg {
+	width: 25%;
+	padding: 15px 10px 0 0;
+	float: left;
+}
+.motors-Newsimg a {
+	display: block;
+	width: 100%;
+}
+.motors-Newsimg a img {
+	border: 1px solid #ddd;
+}
+.motorsnewsbox article h1 a {
+	display: block;
+	padding: 15px 10px 5px 0;
+	color: #333;
+	line-height: 30px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.motorsnewsbox article h3 a {
+	display: block;
+	color: #999;
+	line-height: 30px;
+	font-size: 12px;
+	padding-right: 10px;
+	line-height: 18px;
+}
+.motorsnewsbox article h1 a:hover, .motorsnewsbox article h3 a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Mobile-motors-Business {
+	padding-bottom: 20px;
+	margin-top: 12px;
+}
+.Businessbox {
+	width: 100%;
+}
+.Businessbox .hd {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #DDD;
+	position: relative;
+}
+.Businessbox .hd ul {
+	width: 100%;
+	position: absolute
+}
+.Businessbox .hd ul li {
+	width: 25%;
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	cursor: pointer;
+}
+.Businessbox .hd ul li.on {
+	border: 2px solid #0871c2;
+	border-bottom: 2px solid #FFF;
+	margin-left: 5px;
+	text-align: center;
+}
+.Businessbox article {
+	width: 100%;
+	float: left;
+}
+.Businessbox article section {
+	border-bottom: 1px solid #ddd;
+	float: left;
+	width: 100%;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.motors-Bimg {
+	width: 25%;
+	padding: 15px 10px 0 0;
+	float: left;
+}
+.motors-Bimg a {
+	display: block;
+	width: 100%;
+}
+.motors-Bimg a img {
+	border: 1px solid #ddd;
+}
+.Businessbox article h1 a {
+	display: block;
+	line-height: 30px;
+	padding: 15px 10px 5px 0;
+	color: #333;
+	font-size: 14px;
+	font-weight: bold;
+}
+.Businessbox article h3 a {
+	display: block;
+	line-height: 30px;
+	color: #999;
+	font-size: 12px;
+	padding-right: 10px;
+	line-height: 18px;
+}
+.Businessbox article h1 a:hover, .motorsnewsbox article h3 a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Mobile-motors-region {
+	margin: 15px 0;
+}
+.regionlast {
+	width: 100%;
+	padding: 10px;
+	float: left
+}
+.regionlast ul {
+	float: left;
+	width: auto;
+}
+.regionlast ul li {
+	float: left;
+	width: auto;
+	margin-bottom: 15px;
+	margin-right: 30px;
+}
+.motors-Sourceimg-01, .motors-Sourceimg-02, .motors-Sourceimg-03, .motors-Sourceimg-04, .motors-Sourceimg-05, .motors-Sourceimg-06, .motors-Sourceimg-07, .motors-Sourceimg-08 {
+	float: none;
+}
+.regionlast ul li a span {
+	color: #999;
+	font-size: 12px;
+}
+.regionlast ul li a span:hover {
+	text-decoration: underline;
+}
+.mian {
+	display: none;
+}
+.motors-footer {
+	border-top: 1px solid #DDD;
+}
+footer {
+	width: 100%;
+}
+.motors-Service {
+	width: 100%;
+	margin: 0;
+	padding-left: 45px;
+}
+.motors-footer-top {
+	width: 100%
+}
+.motors-bottom {
+	float: left;
+	height: auto;
+	text-align: center;
+	width: 95%;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.motors-footer-nav {
+	height: 32px;
+	float: none;
+	text-align: center;
+	width: 100%;
+}
+.motors-footer-nav ul {
+	float: left;
+	text-align: center;
+	padding-left: 20px;
+}
+.motors-footer-nav ul li {
+	float: left;
+	padding: 0 10px;
+	color: #bab9b9;
+}
+.motors-footer-center {
+	width: 100%;
+}
+.motors-down {
+	width: 100%;
+}
+.motors-top-nav {
+	width: 100%;
+	height: 36px;
+	_height: 36px;
+ #height: 36px;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+	box-sizing: content-box;
+}
+.motors-welcome {
+	display: none;
+}
+.motors-top-nav-right {
+	width: 100%
+}
+.motors-header .motors-top-nav-right ul {
+	float: right;
+	margin: 0 20px;
+	padding: 0;
+}
+.motors-header .motors-logo-search .motors-logo {
+	display: none;
+}
+.motors-nav {
+	width: 100%;
+}
+.motors-navbar {
+	width: 100%;
+	margin: 0 auto;
+}
+.motors-navbar ul li {
+	display: block;
+	width: 100%;
+}
+.motors-navbar ul li a {
+	float: left;
+	display: block;
+	color: #FFF;
+	height: 38px;
+	line-height: 38px;
+	width: 100%;
+	text-decoration: none
+}
+.motors-header .motors-logo-search {
+	width: 80%;
+}
+.motors-sousuo {
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+.motors-header .motors-logo-search .motors-search {
+	width: 85%;
+	height: 34px;
+	_height: 34px;
+ #height: 34px;
+	line-height: 34px;
+	float: left;
+	border: 2px #0871c2 solid;
+}
+.motors-header .motors-search .motors-dropdown {
+	width: 32%;
+}
+.btn-color {
+	width: 100%;
+	height: 34px;
+	_height: 34px;
+ #height: 34px;
+	line-height: 34px;
+	font-size: 12px;
+}
+.motors-last {
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+.motors-last > li > a {
+	padding: 5px 0;
+}
+.motors-text {
+	width: 68%;
+	height: 34px;
+	line-height: 34px;
+}
+.motors-input {
+	width: 100%;
+	height: 34px;
+ #height:30px;
+	_height: 34px;
+	line-height: 34px;
+}
+.motors-btnsearch {
+	width: 13%;
+	font-size: 12px;
+	height: 38px;
+ #height:38px;
+	_height: 38px;
+	line-height: 38px;
+	padding: 0 5px;
+}
+.motors-btnsearch span {
+	display: none;
+	font-size: 12px;
+	height: 38px;
+ #height:38px;
+	_height: 38px;
+	line-height: 38px;
+	padding: 0 5px;
+}
+/*header2*/
+
+.product-motors-top-nav {
+	width: 100%;
+	height: 36px;
+	_height: 36px;
+ #height: 36px;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+	box-sizing: content-box;
+}
+.product-motors-welcome {
+	display: none;
+}
+.product-motors-top-nav-right {
+	width: 100%
+}
+.product-motors-header .product-motors-top-nav-right ul {
+	float: right;
+	margin: 0 20px;
+	padding: 0;
+}
+.product-motors-header .product-motors-logo-search .product-motors-logo {
+	display: none;
+}
+.product-motors-nav {
+	width: 100%;
+}
+.product-motors-navbar {
+	width: 100%;
+	margin: 0 auto;
+}
+.product-motors-navbar ul li {
+	display: block;
+	width: 100%;
+}
+.product-motors-navbar ul li a {
+	float: left;
+	display: block;
+	color: #FFF;
+	height: 38px;
+	line-height: 38px;
+	width: 100%;
+	text-decoration: none
+}
+.product-motors-header .product-motors-logo-search {
+	width: 80%;
+}
+.product-motors-sousuo {
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+.product-motors-header .product-motors-logo-search .product-motors-search {
+	width: 85%;
+	height: 34px;
+	_height: 34px;
+ #height: 34px;
+	line-height: 34px;
+	float: left;
+	border: 2px #0871c2 solid;
+}
+.product-motors-header .product-motors-search .product-motors-dropdown {
+	width: 32%;
+}
+.product-btn-color {
+	width: 100%;
+	height: 34px;
+	_height: 34px;
+ #height: 34px;
+	line-height: 34px;
+	font-size: 12px;
+}
+.product-motors-last {
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+.product-motors-last > li > a {
+	padding: 5px 0;
+}
+.product-motors-text {
+	width: 68%;
+	height: 34px;
+	line-height: 34px;
+}
+.product-motors-input {
+	width: 100%;
+	height: 34px;
+ #height:30px;
+	_height: 34px;
+	line-height: 34px;
+}
+.product-motors-btnsearch {
+	width: 13%;
+	font-size: 12px;
+	height: 38px;
+ #height:38px;
+	_height: 38px;
+	line-height: 38px;
+	padding: 0 5px;
+}
+.product-motors-btnsearch span {
+	display: none;
+	font-size: 12px;
+	height: 38px;
+ #height:38px;
+	_height: 38px;
+	line-height: 38px;
+	padding: 0 5px;
+}
+/*header2 end*/
+
+}
+ @media screen and (max-width:500px) {
+.product_Data ul li {
+	width: 100%;
+}
+.form {
+	width: 70%;
+}
+.Suppliers_Product_Category ul li {
+	float: left;
+	width: 100%;
+	margin: 0 0 15px 0;
+	line-height: 30px;
+}
+.product_tuijian {
+	width: 100%;
+	padding-left: 10px;
+}
+.product_Likeimg {
+	width: 140px;
+	float: left;
+	margin: 20px 5px 0 5px;
+	border: 1px solid #DDD;
+	padding-bottom: 10px
+}
+.product_Sup_Recommended {
+	background-color: #FFF;
+	padding: 15px 10px 10px 10px;
+}
+.product_Suppliers_Recommended {
+	width: 148px;
+	vertical-align: middle;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	float: left
+}
+.product_Suppliers_Recommended a {
+	display: block;
+	width: 148px;
+}
+.SuppliersImg {
+	width: 128px;
+	height: 108px;
+	border: 1px solid #DDD;
+	overflow: hidden;
+	text-align: center
+}
+.SuppliersImg img {
+	max-height: 108px;
+}
+.product_Suppliers_Recommended a span {
+	color: #333;
+	display: block;
+	padding-top: 7px;
+}
+.product_Suppliers_Recommended a span:hover {
+	text-decoration: underline;
+}
+.product_Suppliers_Recommended a b {
+	color: #F00;
+	display: block;
+	font-size: 18px;
+	font-weight: normal
+}
+.product_Brief_introduction {
+	width: 100%;
+	height: auto;
+	background-color: #FFF;
+	float: left;
+	margin: 12px 0 12px 10px;
+	border-right: none;
+	background-color: #FFF;
+}
+.Preview_product_img {
+	width: 236px;
+	float: none;
+	margin: 15px auto;
+}
+.product_EMail {
+	float: left;
+	margin-top: 0;
+	margin-left: 20px;
+}
+.product_share {
+	height: 64px;
+	line-height: 64px;
+	margin-top: 30px;
+}
+.product_share span {
+	margin-bottom: 20px;
+}
+/*product last*/
+.product_tr {
+	width: 100%;
+	float: left;
+	padding: 0 10px;
+}
+.product_tablelast_Name {
+	width: 100px;
+}
+.product_tablelast_Name a {
+	color: #333;
+}
+.product_tablelast_Name a:hover {
+	text-decoration: underline;
+}
+.product_tablelast_Voltage {
+	width: 70px;
+}
+.Guess_product_last {
+	width: 145px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.Guess_product_last:nth-child(1) {
+	margin-left: 10px;
+}
+.Guess_productimg {
+	width: 145px;
+}
+.HotCommodityimg {
+	border: 1px #DDD solid;
+	width: 145px;
+	overflow: hidden;
+	float: left;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.HotCommodityimg a {
+	width: 145px;
+	display: block;
+	padding: 7px;
+}
+.Commodity_totalList {
+	width: 100%;
+	float: left;
+}
+.Commodity_totalList_padding {
+	border-left: 1px solid transparent;
+}
+.Commodity_left {
+	float: none;
+	width: 100%;
+	padding: 7px;
+	text-align: center;
+}
+.Commodity_center {
+	float: none;
+	width: 100%;
+	border-left: none;
+	border-right: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-top: 1px dashed #DDD;
+	border-bottom: 1px dashed #DDD;
+}
+.Commodity_right {
+	float: none;
+	width: 100%;
+	padding-top: 5px;
+}
+}
+ @media screen and (min-width:767px) and (max-width:1000px) {
+/*product*/
+.product_hidden {
+	display: none;
+}
+.Ipd_ProductShuxing {
+	display: none;
+}
+.Ipd_ProductShuxing {
+	float: left;
+	margin-top: 12px;
+	padding-bottom: 20px;
+	background-color: #fff;
+	margin-bottom: 12px;
+}
+.Ipd_productBrandCountry {
+	width: 100%;
+	float: left;
+	background-color: #FFF;
+	overflow: hidden;
+}
+.Ipd_ProductAttributes {
+	width: 100%;
+	float: left;
+	background-color: #FFF;
+	height: 36px;
+	overflow: hidden;
+	position: relative;
+}
+.Ipd_CommodityAttributes {
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	background-color: #0871c2;
+}
+.Ipd_CommodityAttributes span {
+	color: #fff;
+	padding-left: 20px;
+}
+.Ipd_ProductAllBrand, .Ipd_ProductPoles, .Ipd_ProductRotational {
+	width: 100%;
+	float: left
+}
+.Ipd_ProductAllBrand h2, .Ipd_ProductPoles h2 {
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	width: 17%;
+	padding-left: 30px;
+}
+.Ipd_ProductRotational h2 {
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	width: 28%;
+	padding-left: 30px;
+}
+.Ipd_productAttributesLast {
+	float: left;
+	width: 83%;
+	height: 36px;
+	overflow: hidden;
+}
+.Ipd_PAttributesLast {
+	float: left;
+	width: 83%;
+	height: 72px;
+	overflow: hidden;
+}
+.Ipd_productAttributesLast ul, .Ipd_ProductRotationalLast ul, .Ipd_PAttributesLast ul {
+	float: left;
+	width: 95%;
+}
+.Ipd_productAttributesLast ul li, .Ipd_ProductRotationalLast ul li, .Ipd_PAttributesLast ul li {
+	float: left;
+	padding: 0 7px;
+	height: 36px;
+	line-height: 36px;
+}
+.Ipd_productAttributesLast ul li a, .Ipd_ProductRotationalLast ul li a, .Ipd_PAttributesLast ul li a {
+	font-size: 12px;
+	color: #666;
+}
+.Ipd_productAttributesLast ul li a:hover, .Ipd_ProductRotationalLast ul li a:hover, .Ipd_PAttributesLast ul li a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Ipd_ProductRotationalLast {
+	float: left;
+	width: 70%;
+	height: 36px;
+	overflow: hidden;
+}
+.Ipd_icon {
+	float: left;
+	width: 24px;
+	height: 24px;
+}
+.Ipd_icon i {
+	display: block;
+	cursor: pointer;
+	color: #0871c2;
+	padding-top: 3px;
+}
+.fa-sm {
+	font-size: 24px;
+}
+.Ipd_ProductAttributesFold {
+	width: 100%;
+	position: absolute;
+	background-color: #FFF;
+	height: 36px;
+	text-align: center;
+	float: left;
+}
+.Ipd_BtnDown {
+	border-top: 1px solid #ddd;
+	margin-top: 10px;
+	bottom: 0px;
+}
+.Ipd_BtnUp {
+	border-bottom: 1px solid #ddd;
+	bottom: 0px;
+}
+.Ipd_ProductAttributesFolddown, .Ipd_ProductAttributesFoldUp {
+	width: 200px;
+	text-align: center;
+	margin: 0 auto;
+	height: 30px;
+	line-height: 30px;
+	border: 1px solid #ddd;
+	cursor: pointer;
+}
+.Ipd_ProductAttributesFolddown {
+	border-top: 1px solid #fff;
+	margin-top: -1px;
+}
+.Ipd_ProductAttributesFoldUp {
+	border-bottom: 1px solid #fff;
+	margin-top: 6px;
+}
+.fa-rag {
+	color: #0871c2;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.product_main {
+	width: 90%;
+}
+.MhotProducts {
+	margin-top: 12px;
+}
+.product_Recommendedinfo, .product_Featured {
+	width: 100%;
+	margin-left: 0px;
+}
+.Recommendedimg {
+	width: 22.5%;
+}
+.product_RecommendedBox .hd ul {
+	width: 75%;
+	float: left;
+}
+.Hot_newProducts .ProductsHd ul {
+	width: 40%;
+}
+.Hot_newProducts .ProductsHd ul li.on {
+	border-bottom: 2px solid #0871c2;
+	background: url(../images/motors_icon.png) 70px -45px no-repeat;
+	text-align: center;
+}
+.Hot_newProducts .MProducts_box {
+	margin: 20px 25px 0 28px;
+}
+.MProducts_box ul li {
+	margin: 0 8px;
+}
+.product_Rlvjing {
+	top: 32%;
+}
+.product_Recommendedxinxi ul li a {
+	line-height: 28px;
+}
+.product_RecommendedBox .hd ul li.on {
+	border-bottom: 2px solid #0871c2;
+	background: url(../images/motors_icon.png) 80px -45px no-repeat;
+	text-align: center;
+}
+.product_new_supplier_price {
+	width: 100%;
+	margin-left: 0;
+	background-color: #FFF;
+	float: left;
+	height: auto !important;
+	height: 366px;
+	min-height: 366px;
+}
+.product_NewSupplierPriceBox {
+	float: left;
+	width: 100%;
+}
+.product_NewSupplierPriceBox .hd {
+	width: 100%;
+	height: 36px;
+	_height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #ddd;
+}
+.product_NewSupplierPriceBox .hd ul {
+	width: 66%;
+	float: left;
+}
+.product_NewSupplierPriceBox .hd ul li {
+	width: 30%;
+	float: left;
+	font-size: 14px;
+	cursor: pointer;
+	height: 36px;
+	_height: 36px;
+	line-height: 36px;
+	text-align: center;
+}
+.product_NewSupplierPriceBox .hd ul li.on {
+	border-bottom: 2px solid #0871c2;
+	background: url(../images/motors_icon.png) 75px -45px no-repeat;
+	text-align: center;
+}
+.product_NewSupplierPriceBox .hd .more {
+	padding-right: 5px;
+	display: block;
+	float: right;
+}
+.product_NewSupplierPriceBox .hd .more a {
+	font-size: 12px;
+	color: #999;
+	text-decoration: none;
+	display: block
+}
+.product_NewSupplierPriceBox .hd .more a:hover {
+	font-size: 12px;
+	text-decoration: underline;
+}
+.product_NewSupplierPriceBox .bd {
+	float: left;
+	width: 100%;
+}
+.product_NewSupplierPriceBox .bd article {
+	float: left;
+	display: block;
+	width: 100%;
+}
+.xinwenimg {
+	width: 22.5%;
+	float: left;
+	position: relative;
+	margin: 2%;
+}
+.product_xinwenimg {
+	float: left;
+	width: 100%;
+	position: relative;
+	margin-bottom: 25px;
+	height: 127px;
+}
+.product_xinwentupian {
+	float: left;
+	width: 100%;
+	position: relative;
+	margin-top: 25px;
+	height: 127px;
+}
+.product_xinwenimg a, .product_xinwentupian a {
+	display: block;
+	width: 100%;
+	height: 127px;
+}
+.product_xinwenimg a img, .product_xinwentupian a img {
+	border: 1px solid #ddd;
+	display: block;
+	height: 127px;
+	background: url(../images/loading.gif) center center no-repeat;
+}
+.product_Xlvjing, .product_XTlvling {
+	width: 100%;
+	position: absolute;
+	background-color: #000;
+	height: 30px;
+	line-height: 14px;
+	filter: Alpha(opacity=60);
+	background: rgba(0,0,0,0.6) none repeat scroll 0% 0% !important;
+}
+.product_Xlvjing {
+	top: 32%;
+}
+.product_XTlvling {
+	bottom: 0;
+}
+.product_Xlvjing a, .product_XTlvling a {
+	color: #FFF;
+	font-size: 12px;
+}
+.product_Xlvjing a:hover, .product_XTlvling a:hover {
+	text-decoration: underline
+}
+.product_newsxinxi {
+	margin-top: 10px;
+}
+.product_newsxinxi ul li a {
+	width: 100%;
+	font-size: 12px;
+	color: #333;
+	line-height: 24px;
+}
+.product_newsxinxi ul li a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Suppliertext {
+	float: left;
+	width: 50%;
+}
+.Suppliertext ul {
+	float: left;
+	padding: 10px 0px;
+}
+.Suppliertext ul li {
+	line-height: 28px;
+	margin-left: 20px;
+}
+.Suppliertext ul li a {
+	font-size: 12px;
+	color: #333;
+}
+.Suppliertext ul li a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.Pricetext {
+	width: 50%;
+	float: left;
+}
+.Pricetext ul {
+	float: left;
+	padding: 10px 10px;
+}
+.Pricetext ul li {
+	float: left;
+	width: 100%;
+	line-height: 28px;
+}
+.Pricetext ul li span {
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+.Pricetext ul li span a {
+}
+.Pricetext ul li span a:hover {
+	color: #0066ff;
+	text-decoration: underline;
+}
+.Pricetext ul li b {
+	float: right;
+	display: block;
+	margin-right: 10px;
+}
+/*Information start*/
+.MInformationmain {
+	width: 660px;
+	background-color: #FFF;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+.Info_column {
+	width: 320px;
+	margin-bottom: 20px;
+	float: left;
+}
+.info-Flat {
+	margin-right: 20px;
+}
+.Info-Advertisement {
+	width: 660px;
+	margin: 0 0 20px 0;
+	background-color: #FFF;
+	float: left;
+	height: auto !important;
+}
+.Info_NewsFigure {
+	width: 660px;
+	height: auto;
+	overflow: hidden;
+	float: left;
+	margin-bottom: 20px;
+}
+.Info_NewsBusiness {
+	float: left;
+	width: 100%;
+	background-color: #FFF;
+}
+.Info_Figure {
+	float: left;
+	width: 100%;
+	background-color: #FFF;
+}
+.Info-ships, .Info-Industry, .Info-Science, .Info-Market {
+	width: 320px;
+	background-color: #FFF;
+	margin-bottom: 20px;
+	float: left;
+	overflow: hidden;
+}
+.Industry-right, .Market-right {
+	margin-right: 0;
+	margin-left: 20px;
+}
+.news-Details {
+	width: 90%;
+	background-color: #FFF;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+.Info-Content {
+	width: 100%;
+	min-height: 800px;
+	float: none;
+	overflow: hidden;
+	background-color: #FFF;
+}
+.Info-Recommend {
+	display: none
+}
+.info_last_Application {
+	width: 100%;
+	float: none;
+	background-color: #FFF
+}
+.Info_right_last {
+	display: none;
+}
+/*Information end*/
+.Mobilephone-mian {
+	display: none
+}
+.mian {
+	width: 90%;
+	display: block;
+}
+.motors-Purchase-information {
+	display: none;
+}
+.motors-Classification {
+	width: 30%;
+}
+.motors-feilei {
+	border: 2px solid transparent;
+	zoom: 1;
+ #border:none;
+}
+.motors-Twonav {
+	width: 455px;
+	left: 99%;
+}
+.motors-Classification .on {
+	border-top: 2px #3487F2 solid;
+	border-bottom: 2px #3487F2 solid;
+	border-left: 2px #3487F2 solid;
+	height: 36px;
+	width: 100%;
+	background: #FFFFFF;
+	zoom: 1;
+ #width:216px;
+}
+.motors-banner {
+	width: 68%;
+	margin: 0 0 0 1.5px;
+	float: right;
+}
+.motors-slideBox .bd .pic a img {
+	background: url(../images/loading.gif) center center no-repeat;
+	width: 100%;
+	vertical-align: top;
+}
+.motors-Supplier {
+	width: 21.6%;
+	display: none;
+}
+.motors-tabSupplier {
+	width: 100%;
+}
+.motors-tabSupplier .hd {
+	width: 100%;
+}
+.motors-tabSupplier .hd ul {
+	width: 100%;
+}
+.motors-tabSupplier .hd ul li {
+	width: 50%;
+}
+.motors-tabSupplier .bd ul {
+	width: 100%;
+}
+.motors-tabSupplier .bd ul li {
+	width: 100%;
+}
+.motors-tabSupplier .bd li a {
+	font-size: 12px;
+	float: left;
+	color: #666;
+	text-decoration: none;
+}
+.motors-tabSupplier .bd li a:hover {
+	font-size: 12px;
+	color: #0066ff;
+	text-decoration: underline;
+}
+.MSupplier {
+	display: block;
+	width: 30%;
+	height: auto !important;
+	height: 350px;
+	min-height: 350px;
+	background-color: #FFF;
+	float: left;
+}
+.motors-tabSupplier .hd ul li.on {
+	border-bottom: 2px solid #0871c2;
+	background: url(../images/motors_icon.png) 60px -45px no-repeat;
+	text-align: center;
+}
+.motors-Products {
+	width: 68%;
+	margin: 12px 0 0 1.5px;
+	float: right;
+	height: auto !important;
+	height: 314px;
+	min-height: 314px;
+}
+.motors-Purchase-information-01 {
+	width: 30%;
+	background-color: #FFF;
+	float: left;
+	height: auto !important;
+	height: 314px;
+	min-height: 314px;
+	margin-bottom: 12px;
+}
+.motors-Purchase-information-01 ul {
+	float: left;
+	margin: 0 5px;
+}
+.motors-Purchase-information-01 ul li {
+	width: 215px;
+}
+.motors-Purchase-information-01 ul li a {
+	display: block;
+	font-size: 12px;
+	color: #666;
+	line-height: 25px;
+	overflow: hidden;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	-moz-text-overflow: ellipsis;
+	-webkit-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+}
+.motors-Purchase-information-01 ul li a:hover, {
+ text-decoration: underline;
+ color: #0066ff;
+}
+.motors-price, .motors-exhibition, .motors-information, .motors-news {
+	width: 21.6%;
+	display: none;
+}
+.motors-price ul li {
+	width: 100%;
+}
+.motors-tabexhibition, .motors-tabnews {
+	width: 100%;
+}
+.motors-imgxhibition, .motors-imgnews {
+	width: 100%;
+	height: 117px;
+}
+.motors-xhibitionlvjing, .motors-newslvjing {
+	width: 206px;
+}
+.motors-tabexhibition .motors-xhibition-imgebtn span.prev, .motors-tabnews .motors-news-imgebtn span.prev {
+	left: 5px;
+}
+.motors-tabexhibition .motors-xhibition-imgebtn span.next, .motors-tabnews .motors-news-imgebtn span.next {
+	left: 186px;
+}
+.MPrice {
+	margin-top: 12px;
+	width: 30%;
+	margin: 0;
+	background-color: #FFF;
+	float: left;
+	height: auto !important;
+	height: 350px;
+	min-height: 350px;
+}
+.MPrice ul {
+	float: left;
+}
+.MPrice ul li {
+	float: left;
+	width: 100%;
+	line-height: 24px;
+}
+.MPrice ul li span {
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+.MPrice ul li span a {
+}
+.MPrice ul li span a:hover {
+	color: #0066ff;
+	text-decoration: underline;
+}
+.MPrice ul li b {
+	float: right;
+	display: block;
+	margin-right: 10px;
+}
+.motors-news-exhibitionInfo {
+	width: 68%;
+	margin: 0 0 0 1.5%;
+	text-align: center;
+	background-color: #FFF;
+	float: right;
+	display: block;
+	margin-bottom: 12px;
+	min-height: 314px;
+}
+.motors-newsInfo {
+	float: left;
+	width: 100%;
+}
+.motors-newsInfo .hd {
+	width: 100%;
+	height: 36px;
+	_height: 36px;
+	line-height: 36px;
+	border-bottom: 2px solid #ddd;
+}
+.motors-newsInfo .hd ul {
+	width: 87%;
+	float: left;
+}
+.motors-newsInfo .hd ul li {
+	width: 30%;
+	float: left;
+	font-size: 14px;
+	cursor: pointer;
+	height: 36px;
+	_height: 36px;
+	line-height: 36px;
+	text-align: center;
+}
+.motors-newsInfo .hd ul li.on {
+	border-bottom: 2px solid #0871c2;
+	background: url(../images/motors_icon.png) 67px -45px no-repeat;
+	text-align: center;
+}
+.motors-newsInfo .hd .more {
+	padding-right: 5px;
+	display: block;
+}
+.motors-newsInfo .hd .more a {
+	font-size: 12px;
+	color: #999;
+	text-decoration: none;
+	display: block
+}
+.motors-newsInfo .hd .more a:hover {
+	font-size: 12px;
+	text-decoration: underline;
+}
+.motors-newsInfo .bd {
+	float: left;
+	width: 100%;
+}
+.motors-newsInfo .bd article {
+	float: left;
+	display: block;
+	width: 100%;
+}
+.MnewsitionInfo {
+	width: 32.3%;
+	float: left;
+	position: relative;
+	margin: 2%;
+}
+.motors-newsitionInfoimg {
+	float: left;
+	width: 100%;
+	position: relative;
+	margin-bottom: 25px;
+}
+.motors-Ntupian {
+	float: left;
+	width: 100%;
+	position: relative;
+	margin-top: 25px;
+}
+.motors-newsitionInfoimg a, .motors-Ntupian a {
+	display: block;
+	width: 100%;
+}
+.motors-newsitionInfoimg a img, .motors-Ntupian a img {
+	border: 1px solid #ddd;
+	height: 127px;
+}
+.motors-Newslvjing, .motors-Nlvjing {
+	width: 100%;
+	position: absolute;
+	background-color: #000;
+	height: 30px;
+	line-height: 14px;
+	filter: Alpha(opacity=60);
+	background: rgba(0,0,0,0.6) none repeat scroll 0% 0% !important;
+}
+.motors-Newslvjing {
+	bottom: 0;
+}
+.motors-Nlvjing {
+	bottom: 0;
+}
+.motors-Newslvjing a, .motors-Nlvjing a {
+	color: #FFF;
+	font-size: 12px;
+}
+.motors-Newslvjing a:hover, .motors-Nlvjing a:hover {
+	text-decoration: underline
+}
+.motors-newsxinxi {
+	margin-top: 10px;
+	text-align: left;
+}
+.motors-newsxinxi ul li a {
+	width: 100%;
+	font-size: 12px;
+	color: #333;
+	line-height: 24px;
+}
+.motors-newsxinxi a:hover {
+	text-decoration: underline;
+	color: #0066ff;
+}
+.motors-technical, .motors-Business {
+	width: 68%;
+	margin: 0 0 0 1.5%;
+	background-color: #FFF;
+	float: right;
+}
+.motors-tabtechnical .hd ul, .motors-tabBusiness .hd ul {
+	width: 90%;
+	float: left;
+}
+.motors-tabtechnical .hd ul li, .motors-tabBusiness .hd ul li {
+	width: 41%;
+}
+.motors-tabtechnical .hd ul li.on, .motors-tabBusiness .hd ul li.on {
+	border-bottom: 2px solid #0871c2;
+	background: url(../images/motors_icon.png) 90px -45px no-repeat;
+	text-align: center;
+}
+.motors-tabtechnical .hd .more, .motors-tabBusiness .hd .more {
+	margin-left: 1.2%;
+}
+.motors-tabtechnicalimg a img, .motors-Ttupian a img, .motors-Businessimg a img, .motors-Businesstupian a img {
+	border: 1px solid #ddd;
+}
+.motors-anquan {
+	width: 100%;
+}
+.motors-footer {
+	border-top: 1px solid #DDD;
+}
+footer {
+	width: 90%;
+}
+.motors-Service {
+	width: 40%;
+	text-align: center;
+	min-height: 200px;
+}
+.motors-footer-top {
+	width: 100%
+}
+.motors-bottom {
+	float: left;
+	height: auto;
+	text-align: center;
+	width: 95%;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.motors-footer-nav {
+	height: 32px;
+	float: none;
+	text-align: center;
+	width: 100%;
+}
+.motors-footer-nav ul {
+	float: left;
+	text-align: center;
+	padding-left: 20px;
+}
+.motors-footer-nav ul li {
+	float: left;
+	padding: 0 10px;
+	color: #bab9b9;
+}
+.motors-footer-center {
+	width: 100%;
+}
+.motors-down {
+	width: 100%;
+}
+.motors-top-nav {
+	width: 100%;
+	height: 36px;
+	_height: 36px;
+ #height: 36px;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+	box-sizing: content-box;
+}
+.motors-header .motors-logo-search {
+	width: 100%;
+}
+.motors-welcome {
+	padding-left: 10px;
+}
+.motors-header .motors-top-nav-right ul {
+	padding-right: 20px;
+}
+.motors-last > li > a {
+	padding: 10px 0 10px 10px;
+}
+.motors-header .motors-logo-search .motors-logo {
+	float: left;
+}
+.motors-header .motors-hotSearch ul li:nth-child(6) {
+	display: none;
+}
+.motors-sousuo {
+	margin-right: 5px;
+}
+.motors-nav {
+	width: 100%;
+}
+.motors-navbar {
+	width: 100%;
+}
+.motors-header .motors-logo-search .motors-logo {
+	width: 13%;
+	margin-left: 10px;
+}
+.motors-header .motors-logo-search .motors-search {
+	width: 84%;
+}
+.motors-header .motors-search .motors-dropdown {
+	width: 20%;
+}
+.btn-color {
+	width: 100%;
+}
+.motors-last {
+	width: 100%;
+}
+.motors-text {
+	width: 80%;
+}
+.motors-input {
+	width: 100%;
+}
+.motors-btnsearch {
+	width: 14.9%;
+}
+.motors-hidden {
+	display: none;
+}
+.tabtechnical-hidden {
+	display: none;
+}
+/*header2*/
+.product-motors-top-nav {
+	width: 100%;
+}
+.product-motors-header .product-motors-logo-search {
+	width: 100%;
+}
+.product-motors-nav {
+	width: 100%;
+}
+.product-motors-header .product-motors-logo-search .product-motors-logo {
+	width: 13%;
+}
+.product-motors-sousuo {
+	width: 78%;
+}
+.product-motors-header .product-motors-logo-search .product-motors-search {
+	width: 84.75%;
+}
+.product-motors-header .product-motors-search .product-motors-dropdown {
+	width: 20%;
+}
+.product-btn-color {
+	width: 100%;
+}
+.product-motors-last {
+	width: 100%;
+}
+.product-motors-welcome {
+	padding-left: 10px;
+}
+.product-motors-header .product-motors-top-nav-right ul {
+	padding-right: 20px;
+}
+.product-motors-last > li > a {
+	padding: 10px 0 10px 10px;
+}
+.product-motors-header .product-motors-hotSearch ul li:nth-child(6) {
+	display: none;
+}
+.product-motors-sousuo {
+	margin-right: 5px;
+}
+.product-motors-text {
+	width: 80%;
+}
+.product-motors-input {
+	width: 100%;
+}
+.product-motors-btnsearch {
+	width: 14.9%;
+}
+/*header2 end*/
+/*product details*/
+
+
+.motors-ProductDetailspage {
+	width: 100%;
+	margin: 0 auto;
+}
+.product_presentation {
+	width: 100%;
+	background-color: #FFF;
+}
+.Product_rmn_details {
+	width: 100%;
+	background-color: #f5f5f5;
+	margin-left: 0;
+	margin-top: 15px;
+}
+.You_May_Like {
+	width: 100%;
+	background-color: #f5f5f5;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+.product_table {
+	padding: 15px 10px;
+}
+.product_Sup_Recommended {
+	background-color: #FFF;
+	padding: 15px 50px 10px 50px;
+}
+.product_Suppliers_Recommended a {
+	display: block;
+	width: 188px;
+}
+.Suppliers_Product_Category ul {
+	float: left;
+	width: auto;
+	padding-left: 20px;
+}
+.Suppliers_Product_Category ul li {
+	float: left;
+	width: auto;
+	margin: 0 15px;
+	line-height: 30px;
+}
+.product_Supplier {
+	display: none;
+}
+.product_Brief_introduction {
+	width: 60%;
+	height: auto;
+	background-color: #FFF;
+	float: left;
+	margin: 12px 0 12px 10px;
+	border-right: none;
+}
+/*product last*/
+.productLast_left {
+	width: 100%;
+	float: left;
+}
+.Commodity_List {
+	background-color: #FFF;
+	padding: 0 10px;
+}
+.productLast_right {
+	width: 100%;
+	float: left;
+	margin-left: 0;
+	margin-top: 15px;
+}
+.Commodity_totalList {
+	padding: 15px 5px 15px 5px;
+	border-bottom: 1px dashed #ddd;
+	margin-top: -1px;
+	width: 100%;
+	border-top: 1px solid transparent;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+}
+.Guess_product_last {
+	width: 155px;
+	border: 1px solid #ddd;
+	overflow: hidden;
+	margin-top: 20px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.Guess_product_last:nth-child(1) {
+	margin-left: 40px;
+}
+.product_tr {
+	width: 100%;
+	float: left;
+	padding-left: 20px;
+}
+.product_tablelast_Name {
+	width: 150px;
+}
+.product_tablelast_Name a {
+	color: #333;
+}
+.product_tablelast_Name a:hover {
+	text-decoration: underline;
+}
+.product_tablelast_Voltage {
+	width: 100px;
+}
+.product_Complex {
+	margin-left: 1.2%;
+}
+.product_price_Screening, .product_MOQ {
+	margin-left: 1.2%;
+}
+.Commodity_left a {
+	width: 162px;
+}
+.Mobile_Attributes {
+	display: none;
+}
+.product_List_classification {
+	line-height: 40px;
+}
+}
+ @media screen and (min-width:1000px) {
+.MPrice {
+	display: none
+}
+.motors-news-exhibitionInfo {
+	display: none;
+}
+.motors-Purchase-information-01 {
+	display: none;
+}
+.mian {
+	width: 1000px;
+}
+.motors-Classification {
+	width: 21.6%;
+}
+.motors-categories-list, .motors-feilei {
+	width: 100%;
+}
+.motors-Product-list {
+	width: 100%;
+}
+.motors-feilei a {
+	width: 100%;
+}
+.motors-feilei a:hover {
+	width: 100%;
+}
+.motors-Twonav {
+	width: 783px;
+}
+.motors-Twonav ul {
+	width: 100%;
+}
+.motors-Twonav ul li {
+	width: 29%;
+}
+.motors-banner {
+	width: 54.8%;
+}
+.motors-slideBox {
+	width: auto !important;
+	height: 275px;
+}
+.motors-slideBox .hd {
+	right: 45%;
+}
+.motors-slideBox .bd ul {
+	width: 100%;
+}
+.motors-slideBox .bd .pic {
+	height: 275px;
+}
+.motors-slideBox .bd .pic a {
+	width: 100%;
+}
+.motors-slideBox .bd .pic a img {
+	vertical-align: top;
+	width: 100%;
+}
+.MSupplier {
+	display: none;
+}
+.motors-Purchase-information {
+	width: 21.6%;
+}
+.motors-Purchase-information ul li, .motors-exhibition .motors-zhanhui ul li, .motors-information ul li, .motors-journalism ul li {
+	width: 215px;
+}
+.motors-price, .motors-exhibition, .motors-information, .motors-news {
+	width: 21.6%;
+}
+.motors-price ul li {
+	width: 100%;
+}
+.motors-tabtechnical .hd .more, .motors-tabBusiness .hd .more {
+	margin-left: 5%;
+}
+.motors-anquan {
+	width: 100%;
+}
+.motors-footer {
+	border-top: 1px solid #DDD;
+}
+footer {
+	width: 1000px;
+}
+.motors-footer-top {
+	width: 100%
+}
+.motors-footer-center {
+	width: 100%;
+}
+.motors-down {
+	width: 100%;
+}
+.motors-top-nav {
+	width: 1000px;
+}
+.motors-header .motors-logo-search {
+	width: 1000px;
+}
+.motors-last > li > a {
+	padding: 10px 0 10px 22px;
+}
+.motors-nav {
+	width: 1000px;
+}
+.motors-header .motors-logo-search .motors-logo {
+	width: 13%;
+}
+.motors-header .motors-logo-search .motors-search {
+	width: 84.75%;
+}
+.motors-header .motors-search .motors-dropdown {
+	width: 20%;
+}
+.btn-color {
+	width: 100%;
+}
+.motors-last {
+	width: 100%;
+}
+.motors-text {
+	width: 80%;
+}
+.motors-input {
+	width: 100%;
+}
+.motors-btnsearch {
+	width: 14.9%;
+}
+.tabtechnical-hidden {
+	display: block
+}
+.motors-hidden, .product_hidden {
+	display: none;
+}
+.Mobilephone-mian {
+	display: none
+}
+/*Information start*/
+
+.MInformationmain {
+	width: 1000px;
+	background-color: #FFF;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+.Info_column {
+	width: 320px;
+	float: left;
+	background-color: #FFF;
+	overflow: hidden;
+	margin: 0 0 20px 0
+}
+.Info-slideBox .info-pic {
+	width: auto;
+	height: 220px;
+}
+.info-cenner {
+	margin: 0 20px;
+}
+.product_new_supplier_price, .Ipd_ProductShuxing {
+	display: none;
+}
+/*Information end*/
+/*header2*/
+.product-motors-top-nav {
+	width: 1000px;
+}
+.product-motors-header .product-motors-logo-search {
+	width: 1000px;
+}
+.product-motors-nav {
+	width: 1000px;
+}
+.product-motors-header .product-motors-logo-search .product-motors-logo {
+	width: 13%;
+}
+.product-motors-sousuo {
+	width: 78%;
+}
+.product-motors-header .product-motors-logo-search .product-motors-search {
+	width: 84.75%;
+}
+.product-motors-header .product-motors-search .product-motors-dropdown {
+	width: 20%;
+}
+.product-btn-color {
+	width: 100%;
+}
+.product-motors-last {
+	width: 100%;
+}
+.product-motors-text {
+	width: 80%;
+}
+.product-motors-input {
+	width: 100%;
+}
+.product-motors-btnsearch {
+	width: 14.9%;
+}
+/*herder2 end*/
+/*product details*/
+.motors-ProductDetailspage {
+	width: 1000px;
+	margin: 0 auto;
+}
+.product_Brief_introduction {
+	width: 40%;
+}
+.product_Supplier {
+	width: 28.333%;
+}
+.product_presentation {
+	width: 735px;
+	background-color: #FFF;
+}
+.Product_rmn_details {
+	width: 250px;
+	margin-left: 15px;
+}
+.You_May_Like {
+	width: 735px;
+	background-color: #f5f5f5;
+	padding-top: 15px;
+}
+.product_tuijian {
+	width: 100%;
+	padding-left: 44px;
+}
+.product_Likeimg {
+	width: 140px;
+	float: left;
+	margin: 20px 10px 0 10px;
+	border: 1px solid #DDD;
+	padding-bottom: 10px
+}
+/*product last*/
+.productLast_left {
+	width: 770px;
+	float: left;
+}
+.productLast_right {
+	width: 222px;
+	float: left;
+	margin-left: 8px;
+}
+.Guess_product_last {
+	width: 155px;
+	border: 1px solid #ddd;
+	overflow: hidden;
+	margin-top: 20px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.Guess_product_last:nth-child(1) {
+	margin-left: 40px;
+}
+.Commodity_left a {
+	width: 164px;
+}
+.Mobile_Attributes {
+	display: none;
+}
+.product_List_classification {
+	line-height: 40px;
+}
+}
+@media screen and (min-width:1100px) {
+.product-motors-top-nav {
+	width: 1100px;
+}
+.product-motors-header .product-motors-logo-search {
+	width: 1100px;
+}
+.product-motors-header .product-motors-logo-search .product-motors-logo {
+	width: 13%;
+}
+.product-motors-sousuo {
+	width: 78%;
+}
+.product-motors-header .product-motors-logo-search .product-motors-search {
+	width: 84.75%;
+}
+.product-motors-header .product-motors-search .product-motors-dropdown {
+	width: 20%;
+}
+.product-btn-color {
+	width: 100%;
+}
+.product-motors-last {
+	width: 100%;
+}
+.product-motors-text {
+	width: 80%;
+}
+.product-motors-input {
+	width: 100%;
+}
+.product-motors-btnsearch {
+	width: 14.9%;
+}
+.product-motors-nav {
+	width: 1100px;
+}
+/*product details*/
+.motors-ProductDetailspage {
+	width: 1100px;
+	margin: 0 auto;
+}
+.product_Brief_introduction {
+	width: 40%;
+}
+.product_Supplier {
+	width: 31.222%;
+}
+.product_presentation {
+	width: 828px;
+	height: auto;
+	float: left;
+	background-color: #FFF;
+}
+.Product_rmn_details {
+	width: 257px;
+	height: auto;
+	float: left;
+	margin-left: 15px;
+}
+.You_May_Like {
+	width: 828px;
+	float: left;
+	background-color: #f5f5f5;
+	padding-top: 15px;
+}
+.product_hidden {
+	display: block;
+}
+.product_tuijian {
+	width: 100%;
+	padding-left: 13px;
+}
+.product_Likeimg {
+	width: 140px;
+	float: left;
+	margin: 20px 10px 0 10px;
+	border: 1px solid #DDD;
+	padding-bottom: 10px
+}
+/*product last*/
+.productLast_left {
+	width: 870px;
+	float: left;
+}
+.productLast_right {
+	width: 222px;
+	float: left;
+	margin-left: 8px;
+}
+.Guess_product_last {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.Guess_product_last:nth-child(1) {
+	margin-left: 27px;
+}
+.Mobile_Attributes {
+	display: none;
+}
+.product_List_classification {
+	line-height: 40px;
+}
+}

@@ -1,0 +1,61 @@
+title:御泥坊蜂蜜矿物洁面乳100ml
+price:49
+thumb:src='http://p0.jmstatic.com/product/000/647/647317_std/647317_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/647/647317_std/647317_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                你是否有这样的困扰？刚使用过护肤品的肌肤是柔润的，但一段时间后，肌肤有变得暗淡、干燥。持久而有效的所属水分及营养，才能让肌肤美丽久久哦！缺水肌肤定制：御泥坊蜂蜜矿物洁面乳100ml，深层补水滋养。富含珍贵高山百花蜜，汇百花之精粹加倍保湿滋润。传承古法，顺应肌肤的天然护肤哲学。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>御泥坊蜂蜜矿物洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/647/647317_std/647317_200_200.jpg" alt="御泥坊蜂蜜矿物洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">御泥坊</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>无盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>中国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>矿物质过敏者慎用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>干性及偏干性肌肤，中性肌肤</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/brand_authorization/14466937472235.jpg" width="660" height="175" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937473459.jpg" width="333" height="244" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937474897.jpg" width="327" height="244" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937476190.jpg" width="333" height="212" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937629054.jpg" width="327" height="212" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937686217.jpg" width="218" height="349" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937687752.jpg" width="212" height="349" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937689964.jpg" width="230" height="349" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/01/14411132392078.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/01/14411133348969.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/31/1441025932.1314.jpg" alt="" />        </textarea>
+    
+fangfa:
+        每天早晚使用。润湿脸部，取适量于掌心，用水搓出泡沫，在面部轻轻打圈，再以清水洗净。&nbsp;<br />
+<strong>温馨提示：</strong>矿物质过敏者慎用！请置阴凉处保存！        </textarea>
+    

@@ -1,0 +1,66 @@
+title:珀莱雅(PROYA)靓白肌密柔润洁面乳120ml
+price:73
+thumb:src='http://p0.jmstatic.com/product/001/003/1003238_std/1003238_350_350.jpg' jqimg='http://p0.jmstatic.com/product/001/003/1003238_std/1003238_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                它温柔的触感令肌肤得到全然的放松，疲惫、压力得以缓解，肌肤立现饱满柔顺。珀莱雅(PROYA)靓白肌密柔润洁面乳120ml，温和补水，柔化角质层，改善肌肤干燥、疲惫、细纹等现象，使肌肤始终维持健康水润的状态；加速暗沉粗糙的老化角质脱落，令肌肤更易吸收大量亮白成分。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>珀莱雅(PROYA)靓白肌密柔润洁面乳120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/001/003/1003238_std/1003238_200_200.jpg" alt="珀莱雅(PROYA)靓白肌密柔润洁面乳120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">珀莱雅(PROYA)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合肌肤干燥缺水无光泽的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201409/17/1410946055.7194.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201409/17/1410946055.9501.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201409/17/1410946056.0706.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201409/17/1410946056.2933.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/26/14458422767729.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201409/17/1410946056.803.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201508/18/14398633662177.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201508/18/14398634303778.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201409/17/1410946057.8556.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201409/17/1410946096.1379.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p style="white-space:normal;">
+	取适量于掌心，加水揉出泡沫后，均匀涂于面部，轻轻打圈按摩，再用清水洗净。
+</p>
+<p style="white-space:normal;">
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的人士进行测试后再使用哦！
+</p>        </textarea>
+    

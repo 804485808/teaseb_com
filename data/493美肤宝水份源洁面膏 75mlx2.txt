@@ -1,0 +1,63 @@
+title:美肤宝水份源洁面膏 75mlx2
+price:28
+thumb:src='http://p0.jmstatic.com/product/000/024/24903_std/24903_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/024/24903_std/24903_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                美肤宝水份源洁面膏，泡沫细腻丰富，性质温和，能清除毛孔内的污垢，而又不感干涩、紧绷，同时赋予肌肤水分；内含水润因子，可在肌肤表皮形成保护膜，防止水分流失，使肌肤时刻幼滑。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>美肤宝水份源洁面膏 75mlx2</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/024/24903_std/24903_200_200.jpg" alt="美肤宝水份源洁面膏 75mlx2" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">美肤宝</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有有清洁需求的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>75ml×2</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒无塑封。两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	取出适量在手心上揉成小泡沫，在脸上和脖子周围顺着皮肤纹理方向轻轻来回打圈按摩2-3分钟，用清水清洗干净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img alt="" src="http://p0.jmstatic.com/product/000/000/0_mall/13559973142718.jpg" /> 
+</p>        </textarea>
+    

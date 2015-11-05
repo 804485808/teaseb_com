@@ -1,0 +1,64 @@
+title:妮维雅(Nivea)丝柔美白洁面乳100g
+price:20
+thumb:src='http://p0.jmstatic.com/product/000/017/17303_std/17303_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/017/17303_std/17303_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                妮维雅(Nivea)丝柔美白洁面乳，活性甘草成分，纯天然嫩白成分，外加丝蛋白配方，令肌肤柔滑如丝。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>妮维雅(Nivea)丝柔美白洁面乳100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/017/17303_std/17303_200_200.jpg" alt="妮维雅(Nivea)丝柔美白洁面乳100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">妮维雅(Nivea)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>均匀肤色,清洁,保湿,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无盒。两款包装随机发货哦！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        每天取适量本品加水轻柔起泡。适用于脸部及颈部，轻轻打圈按摩，再用温水洗净。慎勿入眼<br />
+<p>
+	配合妮维雅其他丝柔美白系列产品，可获得更理想的美白效果。
+</p>
+<p>
+	请勿使用于眼部区域！
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！<img src="http://images.jumei.com/product/000/000/0_mall/13462257802021.jpg" alt="" /> 
+</p>        </textarea>
+    

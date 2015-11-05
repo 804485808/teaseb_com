@@ -1,0 +1,61 @@
+title:欧莱雅 (L'Oreal)清润 泡沫洁面膏 125ml
+price:79
+thumb:src='http://p0.jmstatic.com/product/000/019/19957_std/19957_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/019/19957_std/19957_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧莱雅清润泡沫洁面膏，蕴含肌肤所需的基本矿物质，能干净洗去妆容和污垢，保湿精华，滋柔肌肤，无紧绷感，使肌肤徜徉在清新舒爽的愉悦感觉中。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧莱雅 (L'Oreal)清润 泡沫洁面膏 125ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/019/19957_std/19957_200_200.jpg" alt="欧莱雅 (L'Oreal)清润 泡沫洁面膏 125ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧莱雅 (L'Oreal)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>江苏</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合于中性及干性肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒包装，两款包装随机发货，具体以收到实物为准，介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>&nbsp;<img src="http://p0.jmstatic.com/brand_authorization//14087001352217.jpg" width="658" height="415" alt="" /></p><img src="http://p0.jmstatic.com/banner/201509/06/1441530030.0755.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441530036.3151.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441530041.3448.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441530046.9719.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441530052.7392.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441530061.1661.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	取适量于掌心，加水揉出泡沫，再施用于脸部，轻轻打圈按摩。然后用清水洗净，每天早/晚使用。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！&nbsp;<img src="http://p0.jmstatic.com/product/000/000/0_mall/1375434656655.jpg" alt="" /> 
+</p>        </textarea>
+    

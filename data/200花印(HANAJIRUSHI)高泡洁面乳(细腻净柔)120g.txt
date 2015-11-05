@@ -1,0 +1,56 @@
+title:花印(HANAJIRUSHI)高泡洁面乳(细腻净柔)120g
+price:59
+thumb:src='http://p0.jmstatic.com/product/000/247/247437_std/247437_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/247/247437_std/247437_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                花印(HANAJIRUSHI)高泡洁面乳(细腻净柔)120g，源自海洋保湿成分大叶藻提取物，褐藻提取物，海带提取物等，赋予肌肤弹性，光泽，锁住水分，水润滋养。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>花印(HANAJIRUSHI)高泡洁面乳(细腻净柔)120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/247/247437_std/247437_200_200.jpg" alt="花印(HANAJIRUSHI)高泡洁面乳(细腻净柔)120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">花印（HANAJIRUSHI）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>持久,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>尤其想要水润肌肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	使用方法:将洗面奶在手上揉搓丰富泡沫，然后将泡沫涂抹在脸部，打圈按摩片刻用温水洗净即可。
+</p>
+<p>
+	<strong style="white-space:normal;">温馨提示：</strong><span style="line-height:1.5;white-space:normal;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>        </textarea>
+    

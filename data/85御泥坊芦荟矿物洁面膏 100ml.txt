@@ -1,0 +1,59 @@
+title:御泥坊芦荟矿物洁面膏 100ml
+price:59
+thumb:src='http://p0.jmstatic.com/product/000/647/647321_std/647321_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/647/647321_std/647321_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                为什么芦荟能帮助消除痘痘、粉刺？因为芦荟特有的粘液物质可以提升皮肤防御能力，同时具有舒缓修护的效果哦！御泥坊芦荟矿物洁面膏，抗痘痘，淡痘印，去粉刺，三效合一。“战痘”达人亲身见证。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>御泥坊芦荟矿物洁面膏 100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/647/647321_std/647321_200_200.jpg" alt="御泥坊芦荟矿物洁面膏 100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">御泥坊</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>祛痘,清洁,净肤,祛痕,清爽,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于痘痘粉刺肌肤，中性、油性及混合性肤质。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>中国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>矿物质过敏者慎用</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/brand_authorization/14466937472235.jpg" width="660" height="175" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937473459.jpg" width="333" height="244" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937474897.jpg" width="327" height="244" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937476190.jpg" width="333" height="212" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937629054.jpg" width="327" height="212" alt="" /><br /><img src="http://p0.jmstatic.com/brand_authorization/14466937686217.jpg" width="218" height="349" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937687752.jpg" width="212" height="349" alt="" /><img src="http://p0.jmstatic.com/brand_authorization/14466937689964.jpg" width="230" height="349" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/11/14419631571975.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/31/1441027778.3038.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/31/1441027950.3064.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/25/1443151570202.jpg" alt="" /><br />        </textarea>
+    
+fangfa:
+        每天早晚使用。润湿脸部，取适量于掌心，用水搓出泡沫，在面部轻轻打圈，再以清水洗净。&nbsp;<br />
+<p>
+	<strong style="line-height:1.5;">温馨提示：</strong><span style="line-height:1.5;">由于每个人的皮肤特性，所以对不同产品的适应性也不同，在使用任何一种新的洗护用品前，建议您先在耳后进行皮肤试用，如有不适感觉或皮肤异常反应，建议您暂停使用或咨询医生。</span> 
+</p>        </textarea>
+    

@@ -1,0 +1,7 @@
+Drum motors,,,,,,,,,,,,,,
+Voltage,380v,220v,400v,230v,115v,410v,415v,230v,,,,,,
+Power,0.75kw,5.5kw,0.25kw dc,3kw,55kw,200W,0.12kw,7.5kw,11kw,9kw,,,,
+Speed,0.8rpm,6.5rpm,9.5rpm,2520(r.p.m) ,2250(r.p.m),2900rpm ,16m/min,750rpm,0.2rpm, 1400rpm, 960rpm,660rpm,3000rpm,2.3rpm
+Phase,single phase,three phase,,,,,,,,,,,,
+Frequency,50hz,50/60hz,50hz 60hz,,,,,,,,,,,
+Usage,Boat,Balancing Machine,Water Pump,Winding,power wheelchair motor,Transformer,"Vibrating Screen,.",Pump,Reel Cable,Siemens Motor,feeder,,,

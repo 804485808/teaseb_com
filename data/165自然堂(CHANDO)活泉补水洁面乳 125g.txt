@@ -1,0 +1,64 @@
+title:自然堂(CHANDO)活泉补水洁面乳 125g
+price:69
+thumb:src='http://p0.jmstatic.com/product/000/847/847219_std/847219_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/847/847219_std/847219_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                自然堂活泉补水洁面乳，清爽的啫喱状态，给肌肤带来清新感受。洗后肌肤柔软舒适，清澈洁净。提取来自夏威夷的珍稀海藻成分，能调整角质层状态，并在肌肤表面形成薄膜，有效保护肌肤皮脂层，防止过分角质化。活泉水精华能补充微量元素，在享受纯净清新的同时，补水提前一步。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>自然堂(CHANDO)活泉补水洁面乳 125g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/847/847219_std/847219_200_200.jpg" alt="自然堂(CHANDO)活泉补水洁面乳 125g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">自然堂(CHANDO)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有人群均可适用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201407/17/1405607650.0866.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201407/17/1405607650.447.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201407/17/1405607650.6953.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201407/17/1405607650.9487.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201407/17/1405607651.158.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201407/17/1405607651.4684.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201407/17/1405607653.9609.jpg" alt="" />&nbsp;        </textarea>
+    
+fangfa:
+        <p>
+	每日早晚洁面后，取适量眼霜沿眼周轻轻按摩，以指腹部位围绕眼周轻轻弹按，直至完全吸收。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的人士请先进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201407/18/1405665416890.jpg" alt="" /> 
+</p>        </textarea>
+    

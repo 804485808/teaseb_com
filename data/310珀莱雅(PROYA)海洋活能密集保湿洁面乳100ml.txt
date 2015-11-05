@@ -1,0 +1,97 @@
+title:珀莱雅(PROYA)海洋活能密集保湿洁面乳100ml
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/230/230801_std/230801_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/230/230801_std/230801_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                肌肤油腻粗糙，水油失衡！珀莱雅(PROYA)海洋活能密集保湿洁面乳100ml，蕴含法国小球藻精华和三色堇提取物，为肌肤搭建强大密集的保湿系统，构筑内部持久锁水力，促使肌肤时刻焕发青春靓丽的水润活力。为女性肌肤，注入美丽能量。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>珀莱雅(PROYA)海洋活能密集保湿洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/230/230801_std/230801_200_200.jpg" alt="珀莱雅(PROYA)海洋活能密集保湿洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">珀莱雅(PROYA)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合肌肤缺水的人士~</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体时间以实际收到产品为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<strong><span style="font-size:medium;color:#333333;"><img src="http://p0.jmstatic.com/banner/201506/23/1435050401.7563.jpg" alt="" /><br />
+</span></strong> 
+</p>
+<p>
+	<strong><span style="font-size:16px;color:#333333;font-family:SimSun;">适合肌肤干燥缺水人群</span></strong> 
+</p>
+<p>
+	<span style="font-size:12px;color:#666666;font-family:SimSun;">深层清洁、补水保湿、活能造水，适合所有人群使用，尤其适合肌肤干燥缺水、缺乏活力人群。</span> 
+</p>
+<p>
+	<strong><span style="font-size:medium;color:#333333;"><img src="http://p0.jmstatic.com/banner/201506/23/1435050412.5647.jpg" alt="" /><br />
+</span></strong> 
+</p>
+<p>
+	<strong><span style="font-size:16px;color:#333333;font-family:SimSun;">调节水油平衡</span></strong> 
+</p>
+<p>
+	<span style="font-size:12px;color:#666666;font-family:SimSun;">质地温和亲肤，深层清洁肌肤内部污垢和多余油脂，调节水油平衡，赶走讨厌的油光、痘痘，肌肤尽显清新嫩滑。</span> 
+</p>
+<p>
+	<strong><span style="font-size:medium;color:#333333;"><img src="http://p0.jmstatic.com/banner/201509/10/1441873187.9201.jpg" alt="" /><br />
+</span></strong> 
+</p>
+<p>
+	<strong><span style="font-size:medium;color:#333333;font-family:SimSun;">构筑肌肤内部持久锁水力</span></strong> 
+</p>
+<p>
+	<span style="font-size:12px;color:#666666;font-family:SimSun;">海洋深层水蕴含的多种矿物精华和天然保湿因子令肌肤焕发活力，维持水润亮泽。蕴含法国小球藻精华和三色堇提取物，为肌肤搭建强大密集的保湿系统，构筑内部持久锁水力，促使肌肤时刻焕发青春靓丽的水润活力。</span> 
+</p>
+<p>
+	<span style="font-size:small;color:#666666;"><img src="http://p0.jmstatic.com/product/000/000/0_mall/13814795915447.jpg" alt="" height="783" width="660" /><img src="http://p0.jmstatic.com/banner/201509/10/1441873218.3347.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/10/1441873218.5062.jpg" alt="" /><br />
+</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	取适量，加水揉出泡沫，均匀涂于面部，轻轻打圈按摩，再用清水洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！&nbsp;
+</p>
+<p>
+	<br />
+</p>        </textarea>
+    

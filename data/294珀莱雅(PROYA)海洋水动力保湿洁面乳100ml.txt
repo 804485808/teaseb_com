@@ -1,0 +1,68 @@
+title:珀莱雅(PROYA)海洋水动力保湿洁面乳100ml
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/230/230841_std/230841_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/230/230841_std/230841_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                珀莱雅(PROYA)水动力保湿洁面乳，富含海洋深层水等海洋护肤成分，唤醒肌肤活力，同时补充水分，肌肤水润细滑。用后滋润清爽不紧绷，令肌肤回复柔嫩质感。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>珀莱雅(PROYA)海洋水动力保湿洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/230/230841_std/230841_200_200.jpg" alt="珀莱雅(PROYA)海洋水动力保湿洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">珀莱雅(PROYA)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>保湿,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>中国湖州</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒包装。多款包装随机发货哦！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201506/16/1434418267.5798.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418267.7734.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418269.2004.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418620.59.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418636.7674.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418656.423.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418271.4194.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418273.0611.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418273.269.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/09/1436404949.2326.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418274.8109.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434418283.0337.jpg" alt="" /><br />
+<p>
+	<span style="font-size:small;color:#666666;">&nbsp;<br />
+</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	取适量加水轻揉，均匀涂于面部，轻轻打圈按摩后，用清水洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！&nbsp;
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13814791071891.jpg" width="660" height="362" alt="" /> 
+</p>        </textarea>
+    

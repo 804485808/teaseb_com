@@ -1,0 +1,60 @@
+title:相宜本草红景天幼白抗氧洁面膏 100g
+price:35
+thumb:src='http://p0.jmstatic.com/product/000/001/1970_std/1970_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/001/1970_std/1970_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                特别添加红景天洗净颗粒，吸附污垢，带走老废角质，防止氧化导致的黯黄。相宜本草红景天幼白抗氧洁面膏 100g，积雪草/白芍药精华带给肌肤白皙、柔嫩的透明感。泡沫绵密，洁面后清爽滋润，焕发生机。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>相宜本草红景天幼白抗氧洁面膏 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/001/1970_std/1970_200_200.jpg" alt="相宜本草红景天幼白抗氧洁面膏 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">相宜本草</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>美白,净肤,抗氧化</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肌肤均可适用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年(具体日期以收到实物为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒无塑封。两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://inoherb.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467976904.jpg" width="660" height="103" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_910772.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467977947.jpg" width="220" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_520075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467978527.jpg" width="231" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_21297.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285467979173.jpg" width="209" height="357" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_88033.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468055852.jpg" width="220" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18022.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468056582.jpg" width="231" height="321" alt="" /></a><a href="http://mall.jumei.com/inoherb/product_18021.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14285468057684.jpg" width="209" height="321" alt="" /></a><br />
+fangfa:
+        <p>
+	本品泡沫丰富，只需取少量(珍珠大小)于掌心，加水揉匀，在面部稍加按摩，使颗粒溶解，以清水洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>避免接触眼睛，如有不慎入眼，请立刻用水冲洗。敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>        </textarea>
+    

@@ -1,0 +1,60 @@
+title:MISSFACE豆乳保水柔和洗面奶 150g
+price:33
+thumb:src='http://p0.jmstatic.com/product/000/002/2043_std/2043_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/002/2043_std/2043_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                MISSFACE豆乳保水柔和洗面奶150g，利用豆乳发酵的技术，按照女性的肤质去研发适合的保湿技术，给肌肤水嫩滋润的呵护！丰富的泡沫，能温和细致地深层清洁肌肤，帮助深层清洁肌肤的同时保持肌肤的自然水分，肌肤感觉柔润嫩滑，不紧绷。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>MISSFACE豆乳保水柔和洗面奶 150g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/002/2043_std/2043_200_200.jpg" alt="MISSFACE豆乳保水柔和洗面奶 150g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">MISS FACE</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>无盒有塑封，两款包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江杭州</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肌肤，敏感肌肤也适用哦</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准） </span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://missface.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704373240.jpg" width="660" height="135" alt="" /></a><a href="http://item.jumei.com/10577.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704374717.jpg" width="221" height="302" alt="" /></a><a href="http://item.jumei.com/10796.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704376093.jpg" width="223" height="302" alt="" /></a><a href="http://item.jumei.com/10795.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704439513.jpg" width="216" height="302" alt="" /></a><a href="http://item.jumei.com/65520.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704441366.jpg" width="332" height="305" alt="" /></a><a href="http://item.jumei.com/22391.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704443421.jpg" width="328" height="305" alt="" /></a><a href="http://item.jumei.com/2043.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704444954.jpg" width="126" height="252" alt="" /></a><a href="http://item.jumei.com/2039.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704516312.jpg" width="181" height="252" alt="" /></a><a href="http://item.jumei.com/2044.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704517457.jpg" width="174" height="252" alt="" /></a><a href="http://item.jumei.com/10785.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14411704518772.jpg" width="179" height="252" alt="" /></a><br />
+fangfa:
+        <p>
+	取适量(卸妆时2～3CM，洗脸时1CM左右)放入手中，加水揉搓气泡后涂抹全脸,揉搓后，用清水或温水分清洗干净即可。
+</p>
+<p>
+	<span style="font-family:SimSun;line-height:24px;white-space:normal;background-color:#FFFFFF;"><strong>温馨提示</strong>：</span><span style="font-family:SimSun;line-height:24px;white-space:normal;background-color:#FFFFFF;">护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！<img src="http://p0.jmstatic.com/banner/201509/09/1441781572.777.jpg" alt="" /></span> 
+</p>        </textarea>
+    

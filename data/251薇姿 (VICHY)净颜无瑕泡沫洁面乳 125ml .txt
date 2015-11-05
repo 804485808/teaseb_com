@@ -1,0 +1,63 @@
+title:薇姿 (VICHY)净颜无瑕泡沫洁面乳 125ml 
+price:180
+thumb:src='http://p0.jmstatic.com/product/000/010/10988_std/10988_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/010/10988_std/10988_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                薇姿净颜无暇泡沫洁面乳125ml，深入毛孔源头，降低皮肤刺激，净化毛孔，让皮肤持久保持干净清爽。泡沫丰富细腻，有效清洁的同时，令肌肤水润不紧绷，富含温泉水，具有温和舒缓的作用，令肌肤净透无瑕！两款包装随机发货！耐受性差的皮肤适用！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>薇姿 (VICHY)净颜无瑕泡沫洁面乳 125ml </span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/010/10988_std/10988_200_200.jpg" alt="薇姿 (VICHY)净颜无瑕泡沫洁面乳 125ml " border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">薇姿 (VICHY)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>滋润,控油,去角质,舒缓</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>法国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>无外盒有塑封。包装正面排版略有不同，产品品质如一，可放心购买，两款包装随机发货！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>适用于油性及混合性肌肤</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	将产品置于手掌中加水揉搓起泡沫后，涂抹于湿润的面部肌肤，轻轻按摩，最后用清水洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img alt="" src="http://images.jumei.com/deal_content/201204/26/13354252034289.jpg" /> 
+</p>        </textarea>
+    

@@ -1,0 +1,75 @@
+title:Cetaphil丝塔芙洁面乳 591ml
+price:148
+thumb:src='http://p0.jmstatic.com/product/000/014/14910_std/14910_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/014/14910_std/14910_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                Cetaphil丝塔芙洁面乳591ml，采用温和配方、不含任何香精，不含皂，无刺激性清洁成分，柔和清洁；弱酸配方，接近人体正常肌肤需求；不含香料、色素，不刺激，适用于敏感肌肤；清洗后留有薄薄一层保护膜，给肌肤即刻柔润保护；水洗、干洗皆宜。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>Cetaphil丝塔芙洁面乳 591ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/014/14910_std/14910_200_200.jpg" alt="Cetaphil丝塔芙洁面乳 591ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">丝塔芙 (Cetaphil)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,温和,改善肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于所有人群，尤其是敏感性肌肤。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>591ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>24个月（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>加拿大</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://cetaphil.jumei.com/?site=bj" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14465413417746.jpg" width="660" height="401" alt="" /></a><br /><map name="Map"><area shape="rect" coords="10,53,617,260" href="http://mall.jumei.com/cetaphil/" target="_blank" /></map><p>
+	<img src="http://p0.jmstatic.com/banner/201511/02/1446455239.9992.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446455241.846.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446455245.2796.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446455248.0427.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/02/1446455294.6192.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/02/1446455255.5353.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/02/1446455251.6395.jpg" alt="" style="white-space:normal;" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201511/02/1446455393.4992.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446455395.3449.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        每日两次，顺时针旋转一下，然后轻轻按压，即可得到内容物。<br />
+<strong>干檫使用：</strong>取适量舒特肤洁肤乳涂抹于皮肤上，充分揉搓，以面纸或软布拭去，无需用水冲洗即可达清洁效果。<br />
+<strong>水洗使用：</strong>先用水润湿欲清洁部分的肌肤，再取适量舒特肤洁肤乳涂抹于皮肤，充分揉搓，再用水沖洗干净即可。
+<p>
+	<strong>温馨提示：</strong>&nbsp;护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<img alt="Cetaphil丝塔芙洁面乳 591ml，" src="http://images.jumei.com/product/000/000/0_mall/13418148899141.jpg" width="660" height="362" /> 
+</p>        </textarea>
+    

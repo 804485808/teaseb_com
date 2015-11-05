@@ -1,0 +1,69 @@
+title:herbacin德国小甘菊洗面奶75ml
+price:69
+thumb:src='http://p0.jmstatic.com/product/000/255/255344_std/255344_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/255/255344_std/255344_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                小甘菊洗面奶，含植物成分，温和带走油污。含母菊花提取液、金盏花提取物、甜扁桃油、库拉索芦荟、维E等萃取物，洁面同时让肌肤享受温柔呵护。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>herbacin德国小甘菊洗面奶75ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/255/255344_std/255344_200_200.jpg" alt="herbacin德国小甘菊洗面奶75ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">herbacin德国小甘菊</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合需要清洁面部肌肤的女生使用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>75ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以实际收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>德国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品有外盒包装</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201506/09/1433838243.6158.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/08/1428474816.5047.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/08/1428474829.916.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/09/1433838349.0215.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/08/1428474866.9106.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201409/17/1410922227.9518.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/09/1433838381.6826.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201506/09/1433838422.2602.jpg" alt="" /> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201504/08/1428475083.6232.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/08/1428475111.531.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/08/1428475122.1176.jpg" alt="" />&nbsp;
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	取适量以打圈方式，按摩于湿润的脸部、颈部、下颈部肌肤，细腻的乳状泡沫可清洁敏感脸部肌肤；再以清水冲净即可；每天皆可使用。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，请在耳后或手臂内侧测试后使用噢！
+</p>        </textarea>
+    

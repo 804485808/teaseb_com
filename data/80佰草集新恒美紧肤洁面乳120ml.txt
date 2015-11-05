@@ -1,0 +1,83 @@
+title:佰草集新恒美紧肤洁面乳120ml
+price:142
+thumb:src='http://p0.jmstatic.com/product/000/009/9979_std/9979_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/009/9979_std/9979_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                佰草集新恒美紧肤洁面乳，温和洗净面部肌肤，泡沫柔软丰富，蕴含雪莲花、御苁蓉、黄芪等植物精华，能温和洗净面部肌肤，泡沫柔软丰富，令肌肤紧实滑爽。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>佰草集新恒美紧肤洁面乳120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/009/9979_std/9979_200_200.jpg" alt="佰草集新恒美紧肤洁面乳120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">佰草集(HERBORIST)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>紧致,清洁,保湿</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>想要温和清洁肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒。新老包装随机发货，具体以收到实物为准，介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><br /><!--recommendation_manual_end--><p>
+	<span style="font-size:small;color:#333333;"><strong><img src="http://p0.jmstatic.com/deal_content/201509/08/14417072716658.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201406/04/14018659997893.jpg" width="660" height="187" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441620967.2804.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/08/14417073082412.jpg" alt="" /><br />
+</strong></span> 
+</p>
+<p>
+	<span style="font-size:small;color:#333333;"><strong><img src="http://p0.jmstatic.com/banner/201509/07/1441621135.9127.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/08/1441707363264.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441621273.8139.jpg" alt="" /><br />
+</strong></span> 
+</p>
+<p>
+	<span style="font-size:16px;color:#333333;font-family:SimSun;"><strong>产品功效</strong></span> 
+</p>
+<p>
+	<span style="font-size:12px;color:#666666;font-family:SimSun;">佰草集新恒美紧肤洁面乳，蕴含雪莲花、御苁蓉、黄芪等植物精华，能温和洗净面部肌肤，泡沫柔软丰富，令肌肤紧实滑爽。适合年轻肌肤使用。</span> 
+</p>
+<p>
+	<span style="font-size:16px;color:#333333;font-family:SimSun;"><strong>产品成分</strong></span> 
+</p>
+<p>
+	<span style="font-size:12px;color:#666666;font-family:SimSun;">雪莲花、御苁蓉、黄芪、紫苏、菟丝子植物精华。</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	先蘸湿面部，挤出适量（樱桃般大小，约2毫升）于掌心，加水揉出泡沫，在面部轻轻按摩，再以温水洗净。搭配佰草集新恒美紧肤系列产品共同使用，效果尤佳。
+</p>
+<p>
+	<strong>温馨提示</strong>：护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img alt="" src="http://images.jumei.com/product/000/009/9979_mall/13342129298124.jpg" /> 
+</p>        </textarea>
+    

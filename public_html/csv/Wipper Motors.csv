@@ -1,0 +1,7 @@
+Wiper Motors,,,,,,,,,,
+voltage,12v,24v,125v,230v,,,,,,
+power,30w,50w,40w,60w,150w,180w,100w,20w,25w,600w
+speed,35rpm,10rpm,300rpm,1000rpm,8000rpm,,,,,
+phase,single phase,three phase,,,,,,,,
+frequency,50hz,60hz,,,,,,,,
+usage,universal,fan,electric car,transport mining slurry,industrial,,,,,

@@ -1,0 +1,61 @@
+title:欧诗漫(OSM)毛孔清透洁面乳 100ml
+price:39
+thumb:src='http://p0.jmstatic.com/product/000/821/821454_std/821454_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/821/821454_std/821454_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧诗漫毛孔清透洁面乳100ml，温和去除污垢角质，疏通毛孔，可使后续保养事半功倍！萃取植物精华成分，净透肌肤。祛黑头、收毛孔，清爽控油，调理肌肤水油平衡至健康状态, 令肌肤清透，每个毛孔都畅快呼吸，由内而外焕发健康光采！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧诗漫(OSM)毛孔清透洁面乳 100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/821/821454_std/821454_200_200.jpg" alt="欧诗漫(OSM)毛孔清透洁面乳 100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧诗漫(OSM)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,控油,收敛毛孔</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>中国浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>中性、混合性、油性肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒无塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201504/27/1430119622.6631.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/27/1430119623.0015.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/27/1430119623.8957.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/31/1441013682.588.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/16/1442382454323.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/31/1441013428.0328.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p style="color:#333333;line-height:20px;white-space:normal;padding:0px;font-family:Tahoma, Geneva, sans-serif;background-color:#FFFFFF;">
+	<span style="font-family:SimSun;line-height:1.5;">取适量加水轻揉，均匀涂于面部，轻轻打圈按摩后，用清水洗净。</span> 
+</p>
+<p style="color:#333333;line-height:20px;white-space:normal;padding:0px;font-family:Tahoma, Geneva, sans-serif;background-color:#FFFFFF;">
+	<strong><span style="font-family:SimSun;line-height:1.5;">温馨提示：</span></strong><span style="font-family:SimSun;line-height:1.5;">护肤品中成分各有不同，敏感性肌肤的人士进行测试后再使用哦！</span> 
+</p>        </textarea>
+    

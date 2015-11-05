@@ -1,0 +1,66 @@
+title:欧珀莱 (AUPRES)时光锁紧实弹润系列醒活柔润洁面膏 125g(新)
+price:140
+thumb:src='http://p0.jmstatic.com/product/000/003/3474_std/3474_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/003/3474_std/3474_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧珀莱(AUPRES)时光锁紧实弹润系列醒活柔润洁面膏125g，含有植物性保湿洗净成分，细腻的泡沫在去除污垢和多余皮脂的同时，保持肌肤滋润。 温和去除肌肤污垢和多余皮脂，防止滋润成分的流失，实现紧致而富有弹性的肌肤！洁面后，肌肤柔嫩、光滑、无紧绷感。有利于下一步使用的护肤品更好吸收。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧珀莱 (AUPRES)时光锁紧实弹润系列醒活柔润洁面膏 125g(新)</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/003/3474_std/3474_200_200.jpg" alt="欧珀莱 (AUPRES)时光锁紧实弹润系列醒活柔润洁面膏 125g(新)" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧珀莱 (AUPRES)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>125g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正装，有外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>中国</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201509/02/1441172142.7169.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441531204.7341.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441172143.8382.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441172144.4627.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441172144.6813.jpg" alt="" />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	将面部打湿，然后取适量（约1cm）于掌心，加少量清水或温水揉至产生丰富泡沫。用泡沫包住面部，轻柔地洗净。请充分冲洗干净，以免留有残余，如发际或下巴等处。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201402/12/13921985556085.jpg" alt="" /> 
+</p>        </textarea>
+    

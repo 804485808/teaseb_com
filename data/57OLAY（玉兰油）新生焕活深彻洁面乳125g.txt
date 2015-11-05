@@ -1,0 +1,76 @@
+title:OLAY（玉兰油）新生焕活深彻洁面乳125g
+price:103
+thumb:src='http://p0.jmstatic.com/product/000/035/35815_std/35815_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/035/35815_std/35815_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                OLAY(玉兰油)新生焕活深彻洁面乳125g，肌肤奢华新体验，让肌肤从此宛如新生，温和而深入地清洁肌肤表层的污垢和杂质，感觉滋润不紧绷。含有Amino-peptide complex（氨基酸肽复合物）配方，清洁同时帮助肌肤表层细胞更新！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>OLAY（玉兰油）新生焕活深彻洁面乳125g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/035/35815_std/35815_200_200.jpg" alt="OLAY（玉兰油）新生焕活深彻洁面乳125g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">玉兰油 (OLAY)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>紧致,清洁,保湿,抗衰老</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>新旧包装随机发，介意的人士慎买！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于所有人群，尤其是希望肌肤回复紧致细嫩的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，无外盒，无塑封 </span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201511/02/1446444570.4385.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446444570.6003.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446445141.0441.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446444570.8337.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201511/02/1446444570.958.jpg" alt="" />&nbsp;
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<strong>1.</strong>用温水湿润面部，取适量洁面乳，并在手心充分打起泡沫。
+</p>
+<p>
+	<strong>2.</strong>把泡沫涂在脸上，轻轻打圈按摩，注意不要太用力，以免产生皱纹。
+</p>
+<p>
+	<strong>3.</strong>清晰脸上的泡沫，并用双手捧起冷水撩洗面部20<span style="font-family:宋体;">下左右。</span> 
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img alt="" src="http://p0.jmstatic.com/product/000/000/0_mall/13615032807225.jpg" /> 
+</p>        </textarea>
+    

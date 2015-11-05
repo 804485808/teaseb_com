@@ -1,0 +1,4024 @@
+/*Public style*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFF;
+    color: #333;
+    -webkit-text-size-adjust: none;
+}
+
+img {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+#body {
+    background-color: #FFF;
+}
+
+a {
+    blr: expression(this.onFocus=this.blur());
+    outline: none;
+}
+
+.image-fluid {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, em {
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset, img {
+    border: 0;
+}
+
+address, caption, cite, code, dfn, em, th, var, i {
+    font-weight: normal;
+    font-style: normal
+}
+
+ol, ul, li {
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    font-size: 100%
+}
+
+.clear {
+    clear: both;
+    height: 0;
+    font-size: 1px;
+    line-height: 0px;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+img {
+    border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, menu, nav, section, dialog {
+    display: block;
+}
+
+html, body {
+    -webkit-text-size-adjust: none;
+}
+
+*:focus {
+    outline: none
+}
+
+a, a:visited {
+    text-decoration: none;
+    blr: expression(this.onFocus=this.blur());
+    outline: none;
+    transition: all 0.25s ease 0.1s;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+input {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mob-color{ background-color: #065a9a;}
+/*Return to the top style*/
+#motors-to-top {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background: rgba(230, 126, 34, 0.6);
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 2px;
+    z-index: 1;
+    display: none;
+}
+
+#motors-to-top:hover {
+    background: #e67e22;
+}
+
+#motors-to-top i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.motors-public-color {
+    font-size: 12px;
+    font-weight: normal;
+    color: #F00;
+}
+
+/*mob-motors*/
+.mob-body {
+    width: 550px;
+    margin: 0 auto
+}
+
+header {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #FFF;
+}
+
+.mobUp {
+    border-top: 5px solid #0873c3;
+    width: 100%;
+    height: 82px;
+    line-height: 82px;
+}
+
+.mob-logo {
+    width: 150px;
+    height: auto;
+    float: left;
+    padding-left: 15px;
+}
+
+.mob-logo a {
+    display: inline-block;
+}
+
+.mob-logo a img {
+    width: 100%;
+    max-height: 60px;
+    display: inline-block;
+}
+
+.mobUp ul {
+    float: right;
+    width: auto;
+    padding-right: 15px;
+}
+
+.mobUp ul li {
+    float: right;
+}
+
+.mobUp ul li:nth-child(2) {
+    color: #ddd;
+    padding: 0 5px;
+}
+
+.mobUp ul li a {
+    color: #333;
+}
+
+.mobUp ul li a:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
+.mob-motors-sousuo {
+    width: 100%;
+    height: auto;
+    padding: 0 15px;
+}
+
+.mob-motors-search {
+    width: 84.5%;
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    background-color: #FFF;
+    border: 2px #0871c2 solid;
+    border-right: none;
+    border-bottom-left-radius: 5px;
+    -o-border-bottom-left-radius: 5px;
+    -moz-border-bottom-left-radius: 5px;
+    -ms-border-bottom-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    -o-border-top-left-radius: 5px;
+    -moz-border-top-left-radius: 5px;
+    -ms-border-top-left-radius: 5px;
+    box-sizing: content-box;
+}
+
+.mob-motors-dropdown {
+    float: left;
+    position: relative;
+    z-index: 100;
+    width: 30%;
+    height: auto;
+}
+
+.mob-btn-color {
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    -o-border-bottom-left-radius: 5px;
+    -moz-border-bottom-left-radius: 5px;
+    -ms-border-bottom-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    -o-border-top-left-radius: 5px;
+    -moz-border-top-left-radius: 5px;
+    -ms-border-top-left-radius: 5px;
+    background-color: #fff;
+    border-right: 1px solid #ccc;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+    height: 46px;
+    line-height: 46px;
+    text-align: center;
+    outline: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+}
+
+.mob-btn-color:hover {
+    box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+    -webkit-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+    -o-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+    -moz-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+    -ms-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+}
+
+.mob-btn-color .carets {
+    display: inline-block;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: none;
+    color: #ddd;
+}
+
+.mob-motors-last {
+    width: 100%;
+    float: left;
+    display: none;
+    border: 1px solid #ddd;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+    -o-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+    -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+    -ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 5;
+}
+
+.mob-motors-last > li > a {
+    display: block;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #333;
+    padding: 10px 0 10px 22px;
+    white-space: nowrap;
+    zoom: 1
+}
+
+.mob-motors-last > li > a:hover, .motors-last > li > a:focus {
+    color: #262626;
+    text-decoration: none;
+    background-color: #f5f5f5;
+}
+
+.mob-motors-text {
+    width: 70%;
+    height: 46px;
+    line-height: 46px;
+    float: left;
+    border-left: 1px solid #eee;
+    vertical-align: middle;
+}
+
+.mob-motors-input {
+    border: 0 none;
+    padding: 5px 0 5px 5px;
+    outline: 0;
+    margin: 0;
+    width: 100%;
+    font-size: 13px;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    height: 36px;
+    float: left;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    line-height: normal;
+    margin: 0;
+    display: inline-block;
+
+}
+
+.mob-motors-btnsearch {
+    width: 15%;
+    background-color: #0871c2;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    border-bottom-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -o-border-bottom-right-radius: 5px;
+    -ms-border-bottom-right-radius: 5px;
+    -moz-border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -ms-border-top-right-radius: 5px;
+    -moz-border-top-right-radius: 5px;
+    -o-border-top-right-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #FFF;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.mob-motors-btnsearch:hover {
+    cursor: pointer;
+    background-color: #2c86cb;
+}
+
+.mob-banner {
+    width: 100%;
+    min-height: 145px;
+    margin-top: 15px;
+}
+
+.mob-bannerBox {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: relative
+}
+
+.mob-bannerBox .hd {
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+    right: 40%;
+    left: 43%;
+    bottom: 6px;
+}
+
+.mob-bannerBox .hd ul {
+    zoom: 1;
+    overflow: hidden;
+    list-style-type: none
+}
+
+.mob-bannerBox .hd ul li {
+    display: block;
+    text-indent: -9999px;
+    background: url(../images/mob-icon.png) -50px -28px no-repeat;
+    width: 12px;
+    height: 12px;
+    float: left;
+    margin-left: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.mob-bannerBox .hd ul li.on {
+    background: url(../images/mob-icon.png) -38px -29px no-repeat;
+    width: 12px;
+    height: 12px;
+}
+
+.mob-bannerBox .bd {
+    width: 100%;
+    height: auto;
+    position: relative
+}
+
+.mob-bannerBox .bd ul {
+    width: 100%;
+    float: left;
+}
+
+.mob-bannerBox .bd ul li {
+    width: 100%;
+    float: left;
+}
+
+.mob-bannerBox .bd ul li a {
+    display: inline-block;
+}
+
+.mob-bannerBox .bd ul li a img {
+    width: 100%;
+    max-height: 270px;
+    display: inline-block;
+}
+
+.mob-nav {
+    width: 100%;
+    padding: 45px 15px;
+}
+
+.mob-ulLi {
+    width: 18%;
+    float: left;
+    text-align: center;
+    margin: 0 3.3%
+}
+
+.mob-backImg {
+    width: auto;
+    display: inline-block;
+}
+
+.mob-backImg img {
+    width: 100%;
+    max-height: 82px;
+    display: inline-block
+}
+
+.mob-ulLi span {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.mob-ulLi span a {
+    color: #333;
+    font-weight: 400;
+}
+
+.mob-allProduct {
+    border-top: 5px solid #0873c3;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.mob-hotProduct {
+    width: 100%;
+    height: auto;
+}
+
+.mob-hotProduct .hd {
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 2px solid #ddd;
+}
+
+.mob-hotProduct .hd ul {
+    width: 100%;
+    float: left;
+}
+
+.mob-hotProduct .hd ul li {
+    height: 36px;
+    line-height: 36px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.mob-hotProduct .hd ul li.on {
+    border-bottom: 2px solid #0871C2;
+    background: url("../images/mob-icon.png") no-repeat 47px -45px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.mob-hotProduct .bd {
+    width: 100%;
+    height: auto;
+}
+
+.mob-hotProduct .bd ul {
+    float: left;
+    width: 100%;
+    padding: 0 10px;
+}
+
+.mob-hotProduct .bd ul li {
+    float: left;
+    width: 23%;
+    margin: 10px 4px;
+}
+
+.mob-hotProduct .mob-ProFeaturedImg {
+    width: 100%;
+    height: 100px;
+}
+
+.mob-hotProduct .mob-ProFeaturedImg a {
+    display: block;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+}
+
+.mob-hotProduct .mob-ProFeaturedImg a img {
+    width: 100%;
+    max-height: 100px;
+    display: block;
+}
+
+.mob-hotProduct .bd ul li dt {
+    height: 36px;
+    font-size: 12px;
+    font-weight: normal;
+    overflow: hidden;
+    word-break: break-all;
+    margin-top: 5px;
+}
+
+.mob-hotProduct .bd ul li dt a {
+    color: #333;
+    font-size: 12px;
+}
+
+.mob-hotProduct .bd ul li dt a:hover {
+    text-decoration: underline;
+}
+
+.mob-hotProduct .bd ul li dd {
+    color: #333;
+    font-size: 12px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+}
+
+.mob-HotBrands {
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.mob-HotBrands h1 {
+    width: 100%;
+    padding: 10px 0 10px 15px;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.mob-HotBrands ul {
+    width: 100%;
+    float: left;
+    padding: 0 15px;
+    text-align: center
+}
+
+.mob-HotBrands ul li {
+    width: 20%;
+    float: left;
+    margin: 5px 7px;
+}
+
+.mob-HotBrands ul li a {
+    width: 100%;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
+
+.mob-HotBrands ul li a img {
+    width: 100%;
+    max-height: 50px;
+    display: inline-block;
+}
+
+.motors-Business, .mobNews {
+    width: 100%;
+    background-color: #FFF;
+    overflow: hidden;
+    min-height: 366px;
+}
+
+.motors-tabBusiness, .info-tabNews {
+    float: left;
+    width: 100%;
+}
+
+.motors-tabBusiness .hd, .info-tabNews .hd {
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 2px solid #ddd;
+}
+
+.motors-tabBusiness .hd ul, .info-tabNews .hd ul {
+    width: 100%;
+    float: left;
+}
+
+.motors-tabBusiness .hd ul li, .info-tabNews .hd ul li {
+    float: left;
+    padding: 0 10px;
+    font-size: 14px;
+    cursor: pointer;
+    height: 36px;
+    margin-left: 10px;
+    line-height: 36px;
+    text-align: center;
+}
+
+.motors-tabBusiness .hd ul li.on {
+    border-bottom: 2px solid #0871c2;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.motors-tabBusiness .bd, .info-tabNews .bd {
+    float: left;
+    width: 100%;
+}
+
+.motors-tabBusiness .bd article {
+    float: left;
+    display: block;
+    width: 100%;
+    padding: 0 10px;
+}
+
+.motors-tabBusiness article section {
+    border-bottom: 1px solid #d8d8d8;
+    border-top: 1px solid #f8f8f8;
+    float: left;
+    width: 100%;
+    padding: 15px 0;
+    margin-top: 1px;
+}
+
+.motors-Timg {
+    width: 25%;
+    margin: 0px 10px 0 0;
+    float: left;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+.motors-Timg a {
+    display: block;
+    width: 100%;
+}
+
+.motors-Timg a img {
+    width: 100%;
+    display: inline-block;
+
+}
+
+.mob-text {
+    width: 72%;
+    float: left;
+}
+
+.motors-tabBusiness article h1 {
+    width: 100%;
+    margin-bottom: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+}
+
+.motors-tabBusiness article h1 a {
+    color: #000;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.motors-tabBusiness article h3 {
+    height: auto;
+    width: 100%;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.motors-tabBusiness article h3 a {
+    display: block;
+    color: #999;
+    line-height: 30px;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.motors-tabBusiness article h1 a:hover, .motors-tabBusiness article h3 a:hover {
+    text-decoration: underline;
+    color: #0066ff;
+}
+
+.mob-RelatedSearches {
+    width: 100%;
+    height: auto;
+    margin-top: 12px;
+    border-top: 2px solid #ddd;
+}
+
+.mob-RelatedSearches h1 {
+    padding-left: 15px;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.mob-RelatedSearches ul {
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+}
+
+.mob-RelatedSearches ul li {
+    width: 31%;
+    float: left;
+    overflow: hidden;
+    margin: 10px 5px 0 5px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+}
+
+.mob-RelatedSearches ul li a {
+    color: #666;
+    font-size: 12px;
+}
+
+.mob-RelatedSearches ul li a:hover {
+    text-decoration: underline;
+}
+
+.mob-region {
+    width: 100%;
+}
+
+.mob-region h1 {
+    padding: 10px 0 10px 15px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #ddd;
+}
+
+.mob-region ul {
+    width: 100%;
+    float: left;
+}
+
+.mob-region ul li {
+    width: 25%;
+    float: left;
+    margin: 5px 0;
+    text-align: center;
+}
+
+.mob-region ul li a {
+    display: block;
+    color: #666;
+}
+
+.mob-region ul li span {
+    font-size: 12px;
+    width: 100%;
+    display: block;;
+}
+
+.motors-SourceImg-01, .motors-SourceImg-02, .motors-SourceImg-03, .motors-SourceImg-04, .motors-SourceImg-05, .motors-SourceImg-06, .motors-SourceImg-07, .motors-SourceImg-08 {
+    width: 34px;
+    display: inline-block;;
+    height: 23px;
+}
+
+.motors-SourceImg-01 {
+    background: url(../images/motors_icon.png) 0 0 no-repeat;
+}
+
+.motors-SourceImg-02 {
+    background: url(../images/motors_icon.png) -34px 0 no-repeat;
+}
+
+.motors-SourceImg-03 {
+    background: url(../images/motors_icon.png) -68px 0 no-repeat;
+}
+
+.motors-SourceImg-04 {
+    background: url(../images/motors_icon.png) -102px 0 no-repeat;
+}
+
+.motors-SourceImg-05 {
+    background: url(../images/motors_icon.png) -136px 0 no-repeat;
+}
+
+.motors-SourceImg-06 {
+    background: url(../images/motors_icon.png) -170px 0 no-repeat;
+}
+
+.motors-SourceImg-07 {
+    background: url(../images/motors_icon.png) -204px 0 no-repeat;
+}
+
+.motors-SourceImg-08 {
+    background: url(../images/motors_icon.png) -238px 0 no-repeat;
+}
+.Mobile-footer{position:relative; top:50px; width: 100%;}
+footer {
+    padding: 0 15px;
+    width: 100%;
+    margin-top: 25px;
+}
+
+.mob-footer {
+    font-size: 12px;
+    color: #999;
+    width: 100%;
+    text-align: center
+}
+
+.mob-FollowUs {
+    text-align: center;
+    font-size: 12px;
+    color: #999;
+    margin-top: 10px;
+}
+
+.mob-share {
+    height: 32px;
+    line-height: 32px;
+    margin-left: 140px;
+    float: left;
+}
+
+.mob-FollowUs label {
+    display: inline-block;
+    float: left;
+    height: 32px;
+    line-height: 32px;
+}
+
+.motors-share {
+    height: 32px;
+    float: left;
+    padding-top: 3px;
+}
+
+/*product start*/
+.mob-ProductPrice {
+    width: 100%;
+    height: auto;
+}
+
+.mob-ProductPrice h1 {
+    border-bottom: 2px solid #ddd;
+    width: 100%;
+    display: block;
+    font-size: 14px;
+    padding-left: 15px;
+    height: 36px;
+    line-height: 36px;
+}
+
+.Product_Price_Details {
+    width: 100%;
+    padding: 15px 15px 20px 15px;
+}
+
+.mob-tr {
+    width: 100%;
+    float: left;
+}
+
+.Product-Name, .ProductAttribute, .mob-Product-Name {
+    border: 1px solid #ddd;
+    height: 60px;
+    padding-top: 5px;
+    vertical-align: middle;
+    float: left;
+    overflow: hidden;
+}
+
+.Product-Name {
+    width: 35%;
+    margin-top: -1px;
+    text-align: center;
+}
+
+.mob-Product-Name {
+    width: 35%;
+    margin-top: -1px;
+    padding-left: 10px;
+    font-size: 12px;
+    word-wrap: break-word;
+}
+
+.ProductAttribute {
+    width: 21.66%;
+    margin-left: -1px;
+    margin-top: -1px;
+    text-align: center;
+    font-size: 12px;
+    word-wrap: break-word;
+}
+
+.mob-anNiu {
+    background-color: #f5f5f5;
+    padding: 20px 2%;
+
+}
+
+.mob-button {
+    height: 55px;
+    text-align: center;
+    background-color: #EEE;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    line-height: 55px;
+    display: inline-block;
+    width: 32.3%;
+    color: #333;
+}
+
+.mob-button:hover {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.mob-header {
+    width: 100%;
+    background-color: #0871c2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.mob-content {
+    position: relative;
+    top: 50px;
+    width: 100%;
+}
+
+.mob-fa {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.mob-btn-left {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    text-align: center;
+    cursor: default;
+}
+
+.mob-btn-right {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    float: right;
+    cursor: default;
+    text-align: center;
+}
+
+.mob-proName {
+    width: auto;
+    text-align: center;
+    margin: 0 50px;
+    height: 50px;
+    line-height: 50px;
+    cursor: default;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 400;
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.mob-right {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.mob-Location {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    padding: 0;
+    display: none;
+    z-index: 20;
+    background: #333
+}
+
+.mob-productLi {
+    width: 25%;
+    height: 85px;
+    float: left;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-align: center;
+}
+
+.mob-productLi a {
+    height: 85px;
+    width: 100%;
+    color: #FFF;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.mob-productLi span {
+    width: 100%;
+    font-size: 12px;
+    font-size: 12px;
+    text-align: center;
+    color: #FFF;
+    display: inline-block;
+    padding-top: 5px;
+}
+
+.mob-position {
+    position: absolute;
+    display: none;
+    padding: 0;
+    top: 0;
+    right: -300%;
+    z-index: 1000;
+    width: 100%;
+    -webkit-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+    -webkit-backface-visibility: hidden;
+}
+
+.search-slide {
+    -webkit-backface-visibility: hidden;
+    right: 0;
+}
+
+.backImg_01, .backImg_02, .backImg_03, .backImg_04, .backImg_05, .backImg_06 {
+    display: inline-block;
+    width: 27px;
+    height: 25px;
+}
+
+.backImg_01 {
+    background: url("../images/motors_icon.png") 0 -133px no-repeat;
+}
+
+.backImg_02 {
+    background: url("../images/motors_icon.png") -32px -134px no-repeat;
+}
+
+.backImg_03 {
+    background: url("../images/motors_icon.png") -63px -134px no-repeat;
+}
+
+.backImg_04 {
+    background: url("../images/motors_icon.png") -97px -134px no-repeat;
+}
+
+.backImg_05 {
+    background: url("../images/motors_icon.png") -129px -134px no-repeat;
+}
+
+.backImg_06 {
+    background: url("../images/motors_icon.png") -161px -134px no-repeat;
+}
+
+/*product end*/
+/*categories start*/
+.mob-categories {
+    width: 100%;
+}
+
+.mob-last {
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 1px solid #ddd;
+}
+
+.mob-last a {
+    width: 100%;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #333;
+}
+
+.mob-last span {
+    float: left;
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.mob-last i {
+    float: right;
+}
+
+.pro-feiLei {
+    width: 100%;
+    cursor: pointer;
+
+    text-align: center;
+    position: relative;
+    background-color: #eee;
+    margin-top: 10px;
+}
+
+.pro-feiLei span {
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    display: inline-block;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #f8f8f8;
+    text-align: center;
+}
+
+.pro-feiLei ul {
+    float: left;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    padding: 5px 0 15px 0
+}
+
+.mob-more {
+    float: left;
+    width: 100%;
+    display: block;
+    background-color: #f5f5f5;
+    padding: 5px 0 15px 0
+}
+
+.mob-more b {
+    padding-right: 0;
+    cursor: pointer;
+    text-align: left;
+    display: inline-block;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: normal;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.mob-more b em {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #999;
+    position: relative;
+    animation: more 3s linear infinite alternate;
+    /* Firefox: */
+    -moz-animation: more 3s linear infinite alternate;
+    /* Safari end Chrome: */
+    -webkit-animation: more 3s linear infinite alternate;
+    /* Opera: */
+    -o-animation: more 3s linear infinite alternate;
+}
+
+@keyframes more {
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-moz-keyframes more /* Firefox */
+{
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-webkit-keyframes more /* Safari and Chrome */
+{
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-o-keyframes more /* Opera */
+{
+    0% {
+        top: 0px;
+    }
+
+    50% {
+        top: 17px;
+    }
+
+    100% {
+        top: 0px;
+    }
+}
+
+.pro-feiLei ul li {
+    padding: 0 10px;
+    float: left;
+    width: 50%;
+    text-align:left;
+    line-height: 30px;
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.pro-feiLei ul li a {
+    font-size: 13px;
+    color: #666;
+}
+
+.mob-margin {
+    margin-top: 12px;
+}
+
+/*categories end*/
+/*information start*/
+.infoNav {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #f5f5f5;
+}
+
+.infoNav .bd {
+    position: relative;
+    overflow: hidden;
+}
+
+.infoNav ul {
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+
+}
+
+.infoNav ul li {
+    float: left;
+
+    margin: 0 10px;
+    text-align: center;
+}
+
+.infoNav ul li a {
+    color: #333;
+    font-size: 12px;
+}
+
+.info-banner {
+    width: 100%;
+    height: auto;
+    margin-top: 12px;
+}
+
+.info-bannerBox {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.info-bannerBox .bd {
+    width: 100%;
+    height: auto;
+}
+
+.info-bannerBox .bd ul {
+    width: 100%;
+    float: left;
+}
+
+.info-bannerBox .bd ul li {
+    width: 100%;
+    float: left;
+}
+
+.info-bannerBox .bd ul li a {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+.info-pic {
+    width: 100%;
+}
+
+.info-pic img {
+    width: 100%;
+    max-height: 270px;
+    display: inline-block;
+}
+
+.info-bannerBox .bd ul li a span {
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    color: #fff;
+    font-size: 12px;
+    width: 100%;
+    display: inline-block;
+    padding: 10px 5px;
+    background: rgba(0, 0, 0, 0.55) none repeat scroll 0% 0% !important;
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.info-border-top {
+    border-top: 5px solid #0871c2;
+    margin-top: 12px;
+}
+
+.info-tabNews .hd ul li.on {
+    border-bottom: 2px solid #0871c2;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.info-tabNews .bd {
+    width: 100%;
+}
+
+.info-tabNews .bd ul {
+    width: 100%;
+    float: left;
+    padding: 10px 10px 0 10px;
+}
+
+.info-tabNews .bd ul li {
+    width: 100%;
+    float: left;
+    margin-bottom: 1px;
+    height: 32px;
+    line-height: 32px;
+    border-bottom: 1px solid #D8D8D8;
+    border-top: 1px solid #F8F8F8;
+}
+
+.info-tabNews .bd ul li a {
+    display: inline-block;
+    float: left;
+    width: 100%;
+}
+
+.info-tabNews .bd ul li:nth-child(1) {
+    padding-bottom: 10px;
+    border-top: none;
+    height: auto;
+    line-height: 18px;
+}
+
+.info-tabNews .bd ul li:nth-child(1) a {
+    height: 111px;
+    overflow: hidden;
+}
+
+.info-tabNews .bd ul li a h1 {
+    font-size: 14px;
+    overflow: hidden;
+    width: 100%;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #000;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.mob-infoImg {
+    width: 25%;
+    height: 80px;
+    float: left
+}
+
+.mob-infoImg img {
+    width: 100%;
+    height: 80px;
+    display: inline-block;
+}
+
+.info-tabNews .bd ul li a aside {
+    width: 75%;
+    float: left;
+    padding-left: 10px;
+    padding-right: 5px;
+    color: #666;
+    word-wrap: break-word;
+    font-size: 12px;
+    display: inline-block;
+}
+
+.info-tabNews .bd ul li a aside:hover {
+    text-decoration: underline;
+    color: #0871c2;
+}
+
+.info-tabNews .infoClick {
+    color: #666;
+    font-size: 12px;
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.info-tabNews .infoClick:hover {
+    text-decoration: underline;
+    color: #0871c2;
+}
+
+.info-tabNews .infoClick i {
+    padding-right: 5px;
+    display: inline-block;
+    color: #0871c2;
+}
+
+.info-tabNews .bd ul li:last-child {
+    background-color: #f5f5f5;
+    padding: 5px 0;
+    text-align: center;
+    height: auto;
+    line-height: normal;
+}
+
+.info-tabNews .bd ul li:last-child a {
+    width: 100%;
+    display: inline-block;
+    color: #333;
+    font-size: 12px;
+}
+
+.info-tabNews .bd ul li:last-child a i {
+    padding-right: 0;
+    margin-left: 5px;
+    text-align: left;
+    display: inline-block;
+    border-radius: 50%;
+    font-size: 12px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    background-color: #ddd;
+}
+
+.info-tabNews .bd ul li:last-child a em {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #999;
+    position: relative;
+    animation: myfirst 3s linear infinite alternate;
+    /* Firefox: */
+    -moz-animation: myfirst 3s linear infinite alternate;
+    /* Safari end Chrome: */
+    -webkit-animation: myfirst 3s linear infinite alternate;
+    /* Opera: */
+    -o-animation: myfirst 3s linear infinite alternate;
+}
+
+@keyframes myfirst {
+    0% {
+        left: 0px;
+    }
+    50% {
+        left: 9px;
+    }
+    100% {
+        left: 0px;
+    }
+}
+
+@-moz-keyframes myfirst /* Firefox */
+{
+    0% {
+        left: 0px;
+    }
+    50% {
+        left: 9px;
+    }
+    100% {
+        left: 0px;
+    }
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+    0% {
+        left: 0px;
+    }
+    50% {
+        left: 9px;
+    }
+    100% {
+        left: 0px;
+    }
+}
+
+@-o-keyframes myfirst /* Opera */
+{
+    0% {
+        left: 0px;
+    }
+
+    50% {
+        left: 9px;
+    }
+
+    100% {
+        left: 0px;
+    }
+}
+.motors-tabBusiness .bd ul {
+    width: 100%;
+    float: left;
+    padding: 10px 10px 0 10px;
+}
+
+.motors-tabBusiness .bd ul li {
+    width: 100%;
+    float: left;
+    margin-bottom: 1px;
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 1px solid #D8D8D8;
+    border-top: 1px solid #F8F8F8;
+}
+
+.motors-tabBusiness .bd ul li a {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    display: inline-block;
+    float: left;
+    width: 100%;
+    color: #333;
+}
+.motors-tabBusiness .bd ul li a i{padding-right: 5px;color: #0871c2;}
+.Info-DetailsContent-p {
+    line-height: 30px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Info-DetailsContent-p-span {
+    line-height: 30px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Info-DetailsContent-strong {
+    line-height: 30px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Info-DetailsContent-p-strong {
+    line-height: 30px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Info-DetailsContent-h3 {
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*information end*/
+/*product start*/
+.mob-productAttributes {
+    width: 100%;
+    height: auto;
+    margin-top: 12px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.mob-productAttributes span {
+    text-align: left;
+    width: 100%;
+    float: left height : 32 px;
+    line-height: 32px;
+    background-color: #eee;
+    color: #000;
+    padding-left: 12px;
+    display: inline-block;
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #F8F8F8;
+}
+
+.mob-productAttributes span:nth-child(1) {
+    text-align: center;
+    padding-left: 0;
+}
+
+.mob-productAttributes span:nth-child(2) {
+    margin-top: 10px;
+}
+
+.mob-productAttributes ul {
+    float: left;
+    width: 100%;
+    padding: 5px 7px;
+}
+
+.mob-productAttributes ul li {
+    float: left;
+    margin: 5px;
+}
+
+.mob-productAttributes ul li a {
+    font-size: 12px;
+    color: #666;
+}
+
+.mob-productAttributes ul li a:hover {
+    text-decoration: underline;
+    color: #0871c2;
+}
+
+.AttributesLast {
+    width: 100%;
+    overflow: hidden;
+}
+
+.AttributesMore {
+    float: left;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    background-color: #f5f5f5;
+    padding: 5px 0 15px 0
+}
+
+.AttributesMore b {
+    cursor: pointer;
+    text-align: left;
+    display: inline-block;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: normal;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.AttributesMore b em {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #999;
+    position: relative;
+    animation: Amore 3s linear infinite alternate;
+    /* Firefox: */
+    -moz-animation: Amore 3s linear infinite alternate;
+    /* Safari and Chrome: */
+    -webkit-animation: Amore 3s linear infinite alternate;
+    /* Opera: */
+    -o-animation: Amore 3s linear infinite alternate;
+}
+
+@keyframes Amore {
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-moz-keyframes Amore /* Firefox */
+{
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-webkit-keyframes Amore /* Safari and Chrome */
+{
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-o-keyframes Amore /* Opera */
+{
+    0% {
+        top: 0px;
+    }
+
+    50% {
+        top: 17px;
+    }
+
+    100% {
+        top: 0px;
+    }
+}
+
+.allProductLast {
+    width: 100%;
+    height: auto;
+}
+
+.mob-product {
+    width: 100%;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.mob-productImg {
+    width: 115px;
+    float: left;
+    padding-right: 10px;
+}
+
+.mob-productImg a {
+    display: inline-block;
+    width: 100%;
+}
+
+.mob-productImg img {
+    width: 100%;
+    max-height: 205px;
+    display: inline-block
+}
+
+.mob-productData {
+    width: 100%;
+    font-size: 12px;
+}
+
+.mob-productData h1 a {
+    font-size: 14px;
+    color: #337AB7
+}
+
+.mob-productData ul li {
+    color: #666;
+    float: left;
+    margin: 5px 10px 0 0;
+    float: left
+}
+
+.mob-productData ul li b {
+    font-weight: normal;
+    color: #F00;
+}
+
+.mob-productData ul li i {
+    color: #000;
+    padding-right: 5px;
+}
+
+.mob-supplierData {
+    border-top: 1px dashed #ddd;
+    margin-top: 7px;
+    padding-top: 7px;
+}
+
+.mob-supplierData h1 {
+    padding-bottom: 7px;
+}
+
+.mob-supplierData h1 a {
+    color: #337AB7
+}
+
+.mob-supplierData ul li {
+    width: 100%;
+    color: #666;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.mob-supplierData ul li i {
+    color: #000;
+    padding-right: 5px;
+}
+
+.mob-page {
+    width: 100%;
+    padding: 0 20px;
+    margin-top: 20px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+/*product end*/
+/*information start*/
+.informationLast {
+    width: 100%;
+}
+
+.informationLast ul {
+    width: 100%;
+    float: left;
+    padding: 10px;
+}
+
+.informationLast ul li {
+    width: 100%;
+    float: left;
+    padding-bottom: 10px;
+    margin-bottom: 1px;
+    border-bottom: 1px solid #D8D8D8;
+    border-top: 1px solid #F8F8F8;
+}
+
+.informationLast ul li a {
+    display: inline-block;
+    float: left;
+    width: 100%;
+}
+
+.informationLast ul li:nth-child(1) {
+    border-top: none;
+}
+
+.informationLast ul li a h1 {
+    font-size: 14px;
+    width: 100%;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #000;
+    overflow: hidden;;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.mob-infoImg {
+    width: 25%;
+    height: 80px;
+    float: left
+}
+
+.mob-infoImg img {
+    width: 100%;
+    height: 80px;
+    display: inline-block;
+}
+
+.informationLast ul li a aside {
+    width: 75%;
+    float: left;
+    padding-left: 10px;
+    padding-right: 5px;
+    color: #666;
+    font-size: 12px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.informationLast ul li a aside:hover {
+    text-decoration: underline;
+    color: #0871c2;
+}
+
+.mob-content article {
+    width: 100%;
+    padding: 0 12px;
+}
+
+.mob-content article h1 {
+    font-size: 14px;
+    color: #000;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+    line-height: 18px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.mob-content article address {
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.mob-Info-share {
+    height: 32px;
+    line-height: 32px;
+    width: 100%;
+}
+
+.mob-Info-like {
+    float: right;
+    color: #f00;
+}
+
+.mob-Info-like i {
+    background: url(../images/motors_icon.png) -136px -24px no-repeat;
+    width: 31px;
+    height: 21px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: block;
+    float: left;
+}
+
+.mob-content article section {
+    font-size: 12px;
+    padding-top: 10px;
+    line-height: 20px;
+    padding-bottom: 15px;
+}
+
+.mob-content article time {
+    width: 100%;
+    display: inline-table;
+    margin-bottom: 10px;
+}
+
+.mob-Related-Articles {
+    border-top: 2px solid #ddd;
+}
+
+.mob-Related-Articles h2 {
+    padding: 7px 0;
+}
+
+.mob-Related-Articles ul {
+    width: 100%;
+}
+
+.mob-Related-Articles ul li {
+    width: 100%;
+    height: 32px;
+    line-height: 32px;
+    margin-bottom: 1px;
+    border-bottom: 1px solid #D8D8D8;
+    border-top: 1px solid #F8F8F8;
+    overflow: hidden;;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.mob-Related-Articles ul li:nth-child(1) {
+    border-top: 1px solid #D8D8D8;
+}
+
+.mob-Related-Articles ul li a {
+    color: #333;
+    font-size: 12px;
+}
+
+.mob-Related-Articles ul li a i {
+    display: inline-block;
+    padding-right: 5px;
+    color: #0871c2;
+}
+
+.mob-Comments {
+    padding: 0 12px;
+}
+
+.mob-Comments span {
+    width: 100%;
+    display: inline-block;
+    font-size: 12px;
+    padding: 10px 0;
+}
+
+.mob-Comments span label {
+    float: right;
+    font-size: 12px;
+    color: #999;
+    font-weight: normal
+}
+
+.mob-textarea {
+    width: 100%;
+    resize: none;
+    height: 106px;
+    border: 1px solid #0871c2;
+}
+
+.mob-Comments button {
+    float: right;
+    margin-top: 5px;
+}
+
+.button-small {
+    padding: 0 15px;
+}
+
+.mob-information-Comments {
+    width: 100%;
+    padding: 15px 12px 0 12px;
+}
+
+.mob-CommentsDetails {
+    width: 100%;
+    border-top: 1px #ddd solid;
+    padding: 10px 0;
+}
+
+.mob-CommentsDetails:last-child {
+    border-bottom: 1px #ddd solid;
+}
+
+.mob-CommentsDetails time {
+    font-size: 12px;
+    color: #333;
+    width: 100%;
+    display: block;
+    padding-bottom: 5px;
+}
+
+.mob-CommentsDetails span {
+    width: 100%;
+    font-size: 12px;
+    display: block
+}
+
+.mob-CommentsDetails span b {
+    font-weight: normal;
+    display: inline-block;
+    color: #337AB7;
+    padding-right: 5px;
+}
+
+.mob-hotProduct h1 {
+    border-bottom: 2px solid #ddd;
+    padding: 15px 0 10px 12px;
+}
+
+.mob-hotProduct ul li span {
+    display: block;
+    height: 40px;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 18px;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.mob-hotProduct ul li span a {
+    color: #333;
+}
+
+/*information end*/
+/*supplier start*/
+.allSupplierLast {
+    width: 100%;
+}
+
+.mob-SupplierLast {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.mob-SupplierDetails {
+    width: 100%;
+    padding: 0 12px;
+    border-bottom: 1px dashed #ddd;
+}
+
+.mob-SupplierDetails h1 {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.mob-SupplierDetails h1 a {
+    color: #337AB7;
+}
+
+.mob-SupplierDetails span {
+    padding: 5px 0;
+    font-size: 12px;
+}
+
+.mob-SupplierDetails span i {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: url(../images/motors_icon.png) -21px -163px no-repeat;
+    margin-right: 5px;
+}
+
+.mob-SupplierLast ul {
+    width: 100%;
+    padding-bottom: 5px;
+    float: left
+}
+
+.mob-SupplierLast ul li {
+    font-size: 12px;
+    width: 100%;
+    float: left;
+    color: #666;
+    line-height: 22px;
+}
+
+.mob-SupplierLast ul li i {
+    color: #000;
+    padding-right: 5px;
+    display: block;
+    width: 30%;
+    float: left
+}
+
+.mob-SupplierLast ul li b {
+    color: #666;
+    font-weight: normal;
+    display: block;
+    width: 70%;
+    float: left
+}
+
+.supplier-nav {
+    height: 34px;
+    line-height: 34px;
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-top: 10px;
+    box-sizing: content-box;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+
+.supplier-nav a {
+    width: 50%;
+    color: #333;
+    display: inline-block;
+    font-size: 12px;
+    float: left;
+}
+
+.supplier-nav a:nth-child(1) {
+    border-right: 1px solid #ddd;
+}
+
+.supplier-nav a span {
+    display: block;
+    width: 110px;
+    margin: 0 auto;
+    text-align: center
+}
+
+.supplier-nav a span b {
+    float: left;
+    font-weight: normal
+}
+
+.mob-icon-left, .mob-icon-email {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+.mob-icon-left {
+    background: url("../images/motors_icon.png") -98px -95px no-repeat;
+    width: 23px;
+    height: 17px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.mob-icon-email {
+    background: url("../images/motors_icon.png") -124px -97px no-repeat;
+    width: 23px;
+    height: 17px;
+    margin-top: 8px;
+}
+
+.rotating {
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg); /* Safari 和 Chrome */
+    -moz-transform: rotate(180deg); /* Firefox */
+}
+
+.company-information {
+    width: 100%;
+    padding: 0 12px;
+}
+
+.company-information h1 {
+    color: #337AB7;
+    font-size: 14px;
+    padding: 10px 0;
+}
+
+.company-information ul {
+    width: 100%;
+}
+
+.company-information ul li {
+    width: 100%;
+    color: #666;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.company-information ul li i {
+    padding-right: 5px;
+    color: #000;
+}
+
+.company-nav {
+    width: 100%;
+    padding-top: 5px;
+}
+
+.company-nav a {
+    width: 100%;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    color: #0871c2;
+    font-size: 12px;
+    padding-left: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.mob-icon-right {
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+    background: url("../images/motors_icon.png") -150px -98px no-repeat;
+    width: 23px;
+    height: 17px;
+    margin-top: 10px;
+}
+
+.supplierProductLast {
+    width: 100%;
+}
+
+.supplierProductLast h1 {
+    border-top: 2px solid #ddd;
+    padding: 10px 0 10px 12px;
+}
+
+.mob-companyProduct {
+    width: 100%;
+}
+
+.company-ProductDetails {
+    border: 1px solid #ddd;
+    width: 50%;
+    float: left;
+    padding-bottom: 10px;
+    margin-top: -1px;
+    margin-right: -1px;
+}
+
+.mob-companyProductImg {
+    width: 70%;
+    margin: 0 auto;
+    padding: 12px 0;
+}
+
+.company-ProductDetails span {
+    width: 100%;
+    display: block;
+    height: 36px;
+    overflow: hidden;
+    font-size: 12px;
+    padding: 0 15px;
+}
+
+.company-ProductDetails span a {
+    color: #337AB7
+}
+
+.company-ProductDetails strong {
+    font-weight: normal;
+    font-size: 12px;
+    color: #f00;
+    display: block;
+    padding: 0 15px;
+}
+
+.mob-sup-productAttributes {
+    width: 100%;
+    height: auto;
+    margin-top: 12px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.mob-sup-productAttributes span {
+    text-align: left;
+    width: 100%;
+    float: left height : 32 px;
+    line-height: 32px;
+    background-color: #eee;
+    color: #000;
+    padding-left: 12px;
+    display: inline-block;
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #F8F8F8;
+}
+
+.mob-sup-productAttributes span:nth-child(1) {
+    text-align: center;
+    padding-left: 0;
+}
+
+.mob-sup-productAttributes span:nth-child(2) {
+    margin-top: 10px;
+}
+
+.mob-sup-productAttributes ul {
+    float: left;
+    width: 100%;
+    padding: 5px 7px;
+}
+
+.mob-sup-productAttributes ul li {
+    float: left;
+    width: 50%;
+    text-align: left;
+    margin: 5 0px;
+}
+
+.mob-sup-productAttributes ul li a {
+    font-size: 12px;
+    color: #666;
+}
+
+.mob-sup-productAttributes ul li a:hover {
+    text-decoration: underline;
+    color: #0871c2;
+}
+
+.sup-AttributesLast {
+    width: 100%;
+    overflow: hidden;
+}
+
+.sup-More {
+    float: left;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    background-color: #f5f5f5;
+    padding: 5px 0 15px 0
+}
+
+.sup-More b {
+    cursor: pointer;
+    text-align: left;
+    display: inline-block;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: normal;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+}
+
+.sup-More b em {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #999;
+    font-size: 25px;
+    position: relative;
+    animation: Amore 3s linear infinite alternate;
+    /* Firefox: */
+    -moz-animation: Amore 3s linear infinite alternate;
+    /* Safari and Chrome: */
+    -webkit-animation: Amore 3s linear infinite alternate;
+    /* Opera: */
+    -o-animation: Amore 3s linear infinite alternate;
+}
+
+@keyframes Amore {
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-moz-keyframes Amore /* Firefox */
+{
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-webkit-keyframes Amore /* Safari and Chrome */
+{
+    0% {
+        top: 0px;
+    }
+    50% {
+        top: 17px;
+    }
+    100% {
+        top: 0px;
+    }
+}
+
+@-o-keyframes Amore /* Opera */
+{
+    0% {
+        top: 0px;
+    }
+
+    50% {
+        top: 17px;
+    }
+
+    100% {
+        top: 0px;
+    }
+}
+
+/*supplier end*/
+@media only screen and (max-width: 768px) {
+    /*mob-motors*/
+    .mob-body {
+        width: 100%;
+        margin: 0 auto
+    }
+
+    header {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        background-color: #FFF;
+    }
+
+    .mobUp {
+        border-top: 5px solid #0873c3;
+        width: 100%;
+        height: 82px;
+        line-height: 82px;
+    }
+
+    .mob-logo {
+        width: 35%;
+        height: auto;
+        float: left;
+        padding-left: 15px;
+    }
+
+    .mob-logo a {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .mob-logo a img {
+        width: 100%;
+        max-height: 60px;
+        display: inline-block;
+    }
+
+    .mobUp ul {
+        float: right;
+        width: auto;
+        padding-right: 15px;
+    }
+
+    .mobUp ul li {
+        float: left
+    }
+
+    .mobUp ul li:nth-child(2) {
+        color: #ddd;
+        padding: 0 5px;
+    }
+
+    .mobUp ul li a {
+        color: #333;
+    }
+
+    .mobUp ul li a:hover {
+        color: #333;
+        text-decoration: underline;
+    }
+
+    .mob-motors-sousuo {
+        width: 100%;
+        height: auto;
+        padding: 0 15px;
+    }
+
+    .mob-motors-search {
+        width: 84.5%;
+        height: 46px;
+        line-height: 46px;
+        float: left;
+        background-color: #FFF;
+        border: 2px #0871c2 solid;
+        border-right: none;
+        border-bottom-left-radius: 5px;
+        -o-border-bottom-left-radius: 5px;
+        -moz-border-bottom-left-radius: 5px;
+        -ms-border-bottom-left-radius: 5px;
+        -webkit-border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        -webkit-border-top-left-radius: 5px;
+        -o-border-top-left-radius: 5px;
+        -moz-border-top-left-radius: 5px;
+        -ms-border-top-left-radius: 5px;
+        box-sizing: content-box;
+    }
+
+    .mob-motors-dropdown {
+        float: left;
+        position: relative;
+        z-index: 100;
+        width: 30%;
+        height: auto;
+    }
+
+    .mob-btn-color {
+        width: 100%;
+        border-bottom-left-radius: 5px;
+        -o-border-bottom-left-radius: 5px;
+        -moz-border-bottom-left-radius: 5px;
+        -ms-border-bottom-left-radius: 5px;
+        -webkit-border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        -webkit-border-top-left-radius: 5px;
+        -o-border-top-left-radius: 5px;
+        -moz-border-top-left-radius: 5px;
+        -ms-border-top-left-radius: 5px;
+        background-color: #fff;
+        border-right: 1px solid #ccc;
+        border-bottom: none;
+        border-left: none;
+        border-top: none;
+        height: 46px;
+        line-height: 46px;
+        text-align: center;
+        outline: none;
+        cursor: pointer;
+        margin: 0;
+        padding: 0;
+        white-space: nowrap;
+        vertical-align: middle;
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        background-image: none;
+    }
+
+    .mob-btn-color:hover {
+        box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+        -webkit-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+        -o-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+        -moz-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+        -ms-box-shadow: 1px 0px 5px rgba(0, 0, 0, .175);
+    }
+
+    .mob-btn-color .carets {
+
+        display: inline-block;
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+        -webkit-text-size-adjust: none;
+        color: #ddd;
+    }
+
+    .mob-motors-last {
+        width: 100%;
+        float: left;
+        display: none;
+        border: 1px solid #ddd;
+        border-bottom-left-radius: 4px;
+        border-bottom-right-radius: 4px;
+        background-color: #fff;
+        -webkit-background-clip: padding-box;
+        background-clip: padding-box;
+        -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+        -o-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+        -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+        -ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, .175);
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 5;
+    }
+
+    .mob-motors-last > li > a {
+        display: block;
+        clear: both;
+        font-weight: normal;
+        line-height: 1.42857143;
+        color: #333;
+        padding: 10px 0 10px 22px;
+        white-space: nowrap;
+        zoom: 1
+    }
+
+    .mob-motors-last > li > a:hover, .motors-last > li > a:focus {
+        color: #262626;
+        text-decoration: none;
+        background-color: #f5f5f5;
+    }
+
+    .mob-motors-text {
+        width: 70%;
+        height: 46px;
+        line-height: 46px;
+        float: left;
+        border-left: 1px solid #eee;
+        vertical-align: middle;
+    }
+
+    .mob-motors-input {
+        border: 0 none;
+        padding: 5px 0 5px 5px;
+        outline: 0;
+        width: 100%;
+        font-size: 13px;
+        -webkit-border-radius: 0;
+        border-radius: 0;
+        -webkit-appearance: none;
+        height: 36px;
+        float: left;
+        webkit-appearance: textfield;
+        -moz-box-sizing: content-box;
+        -webkit-box-sizing: content-box;
+        box-sizing: content-box;
+    }
+
+    .mob-motors-btnsearch {
+        width: 15%;
+        background-color: #0871c2;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        border-bottom-right-radius: 5px;
+        -webkit-border-bottom-right-radius: 5px;
+        -o-border-bottom-right-radius: 5px;
+        -ms-border-bottom-right-radius: 5px;
+        -moz-border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        -webkit-border-top-right-radius: 5px;
+        -ms-border-top-right-radius: 5px;
+        -moz-border-top-right-radius: 5px;
+        -o-border-top-right-radius: 5px;
+        font-weight: bold;
+        letter-spacing: 1px;
+        text-align: center;
+        color: #FFF;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    .mob-motors-btnsearch:hover {
+        cursor: pointer;
+        background-color: #2c86cb;
+    }
+
+    .mob-banner {
+        width: 100%;
+        min-height: 145px;
+        margin-top: 15px;
+    }
+
+    .mob-bannerBox {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        position: relative
+    }
+
+    .mob-bannerBox .hd {
+        position: absolute;
+        overflow: hidden;
+        z-index: 1;
+        right: 35%;
+        left: 40%;
+        bottom: 6px;
+    }
+
+    .mob-bannerBox .hd ul {
+        zoom: 1;
+        overflow: hidden;
+        list-style-type: none
+    }
+
+    .mob-bannerBox .hd ul li {
+        display: block;
+        text-indent: -9999px;
+        background: url(../images/mob-icon.png) -50px -28px no-repeat;
+        width: 12px;
+        height: 12px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .mob-bannerBox .hd ul li.on {
+        background: url(../images/mob-icon.png) -38px -29px no-repeat;
+        width: 12px;
+        height: 12px;
+    }
+
+    .mob-bannerBox .bd {
+        width: 100%;
+        height: auto;
+        position: relative
+    }
+
+    .mob-bannerBox .bd ul {
+        width: 100%;
+        float: left;
+    }
+
+    .mob-bannerBox .bd ul li {
+        width: 100%;
+        float: left;
+    }
+
+    .mob-bannerBox .bd ul li a {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .mob-bannerBox .bd ul li a img {
+        width: 100%;
+        max-height: 270px;
+        display: inline-block;
+    }
+
+    .mob-nav {
+        width: 100%;
+        padding: 45px 15px;
+    }
+
+    .mob-ulLi {
+        width: 18%;
+        float: left;
+        margin: 0 3.3%
+    }
+
+    .mob-backImg {
+        display: inline-block;
+    }
+
+    .mob-backImg img {
+        width: 100%;
+        max-height: 82px;
+        display: inline-block
+    }
+
+    .mob-ulLi span {
+        width: 100%;
+        text-align: center;
+        display: inline-block;
+    }
+
+    .mob-ulLi span a {
+        color: #333;
+        font-weight: 400;
+    }
+
+    .mob-allProduct {
+        border-top: 5px solid #0873c3;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+
+    .mob-hotProduct {
+        width: 100%;
+        height: auto;
+    }
+
+    .mob-hotProduct .hd {
+        width: 100%;
+        height: 36px;
+        line-height: 36px;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .mob-hotProduct .hd ul {
+        width: 100%;
+        float: left;
+    }
+
+    .mob-hotProduct .hd ul li {
+        height: 36px;
+        line-height: 36px;
+        margin-left: 10px;
+        float: left;
+        text-align: center;
+        padding: 0 10px;
+        cursor: pointer;
+    }
+
+    .mob-hotProduct .hd ul li.on {
+        border-bottom: 2px solid #0871C2;
+        background: url("../images/mob-icon.png") no-repeat 47px -45px;
+        text-align: center;
+        margin-left: 10px;
+    }
+
+    .mob-hotProduct .bd {
+        width: 100%;
+        height: auto;
+    }
+
+    .mob-hotProduct .bd ul {
+        float: left;
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    .mob-hotProduct .bd ul li {
+        float: left;
+        width: 23%;
+        margin: 10px 4px;
+    }
+
+    .mob-hotProduct .mob-ProFeaturedImg {
+        width: 100%;
+        height: auto;
+        overflow: hidden
+    }
+    .mob-hotProduct .bd ul li dt {
+        height: 36px;
+        font-size: 12px;
+        font-weight: normal;
+        overflow: hidden;
+        word-break: break-all;
+        margin-top: 5px;
+    }
+
+    .mob-hotProduct .bd ul li dt a {
+        color: #333;
+        font-size: 12px;
+    }
+
+    .mob-hotProduct .bd ul li dt a:hover {
+        text-decoration: underline;
+    }
+
+    .mob-hotProduct .bd ul li dd {
+        color: #333;
+        font-size: 12px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -moz-text-overflow: ellipsis;
+        -webkit-text-overflow: ellipsis;
+    }
+
+    .motors-Business {
+        width: 100%;
+        background-color: #FFF;
+        overflow: hidden;
+        min-height: 366px;
+    }
+
+    .motors-tabBusiness {
+        float: left;
+        width: 100%;
+    }
+
+    .motors-tabBusiness .hd {
+        width: 100%;
+        height: 36px;
+        line-height: 36px;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .motors-tabBusiness .hd ul {
+        width: 100%;
+        float: left;
+    }
+
+    .motors-tabBusiness .hd ul li {
+        float: left;
+        padding: 0 10px;
+        font-size: 14px;
+        cursor: pointer;
+        height: 36px;
+        margin-left: 10px;
+        line-height: 36px;
+        text-align: center;
+    }
+
+    .motors-tabBusiness .hd ul li.on {
+        border-bottom: 2px solid #0871c2;
+        text-align: center;
+        margin-left: 10px;
+    }
+
+    .motors-tabBusiness .bd {
+        float: left;
+        width: 100%;
+    }
+
+    .motors-tabBusiness .bd article {
+        float: left;
+        display: block;
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    .motors-tabBusiness article section {
+        border-bottom: 1px solid #d8d8d8;
+        border-top: 1px solid #f8f8f8;
+        float: left;
+        width: 100%;
+        padding: 15px 0;
+    }
+
+    .motors-Timg {
+        width: 25%;
+        margin: 0px 10px 0 0;
+        float: left;
+        border: 1px solid #ddd;
+    }
+
+    .motors-Timg a {
+        display: block;
+        width: 100%;
+    }
+
+    .motors-Timg a img {
+        width: 100%;
+        display: inline-block;
+
+    }
+
+    .mob-text {
+        width: 72%;
+        float: left;
+    }
+
+    .motors-tabBusiness article h1 {
+        width: 100%;
+        margin-bottom: 5px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -moz-text-overflow: ellipsis;
+        -webkit-text-overflow: ellipsis;
+    }
+
+    .motors-tabBusiness article h1 a {
+        color: #000;
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .motors-tabBusiness article h3 {
+        height: auto;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .motors-tabBusiness article h3 a {
+        display: block;
+        color: #999;
+        line-height: 30px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .motors-tabBusiness article h1 a:hover, .motors-tabBusiness article h3 a:hover {
+        text-decoration: underline;
+        color: #0066ff;
+    }
+
+    .mob-RelatedSearches {
+        width: 100%;
+
+        height: auto;
+        border-top: 2px solid #ddd;
+    }
+
+    .mob-RelatedSearches h1 {
+        padding-left: 15px;
+        width: 100%;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .mob-RelatedSearches ul {
+        width: 100%;
+        float: left;
+        padding: 0 10px;
+    }
+
+    .mob-RelatedSearches ul li {
+        width: 31%;
+        float: left;
+        overflow: hidden;
+        margin: 10px 5px 0 5px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -moz-text-overflow: ellipsis;
+        -webkit-text-overflow: ellipsis;
+    }
+
+    .mob-RelatedSearches ul li a {
+        color: #666;
+        font-size: 12px;
+    }
+
+    .mob-RelatedSearches ul li a:hover {
+        text-decoration: underline;
+    }
+
+    footer {
+        padding: 0 15px;
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .mob-footer {
+        text-align: center;
+        font-size: 12px;
+        color: #999;
+        width: 100%;
+    }
+
+    .mob-FollowUs {
+        text-align: center;
+        width: 100%;
+        font-size: 12px;
+        color: #999;
+        margin-top: 10px;
+    }
+
+    .mob-share {
+        height: 32px;
+        line-height: 32px;
+        margin-left: 100px;
+        float: left;
+    }
+
+    .mob-FollowUs label {
+        display: inline-block;
+        float: left;
+        height: 32px;
+        line-height: 32px;
+    }
+
+    .motors-share {
+        height: 32px;
+        float: left;
+        padding-top: 3px;
+    }
+
+    /*product start*/
+    .mob-ProductPrice {
+        width: 100%;
+        height: auto;
+    }
+
+    .mob-ProductPrice h1 {
+        border-bottom: 2px solid #ddd;
+        width: 100%;
+        display: block;
+        font-size: 14px;
+        padding-left: 15px;
+        height: 36px;
+        line-height: 36px;
+    }
+
+    .Product_Price_Details {
+        width: 100%;
+        padding: 15px 15px 20px 15px;
+    }
+
+    .mob-tr {
+        width: 100%;
+        float: left;
+    }
+
+    .Product-Name, .ProductAttribute, .mob-Product-Name {
+        border: 1px solid #ddd;
+        height: 60px;
+        padding-top: 5px;
+        vertical-align: middle;
+        float: left;
+        overflow: hidden;
+    }
+
+    .Product-Name {
+        width: 35%;
+        margin-top: -1px;
+        text-align: center;
+    }
+
+    .mob-Product-Name {
+        width: 35%;
+        margin-top: -1px;
+        padding-left: 10px;
+        font-size: 12px;
+        word-wrap: break-word;
+    }
+
+    .ProductAttribute {
+        width: 21.66%;
+        margin-left: -1px;
+        margin-top: -1px;
+        text-align: center;
+        font-size: 12px;
+        word-wrap: break-word;
+    }
+
+    .mob-tr:nth-child(1) .ProductAttribute:nth-child(4) {
+        color: #000;
+    }
+
+    .ProductAttribute:nth-child(4) {
+        color: #f00;
+    }
+
+    .mob-anNiu {
+        background-color: #f5f5f5;
+        padding: 20px 2%;
+
+    }
+
+    .mob-button {
+        height: 55px;
+        text-align: center;
+        background-color: #EEE;
+        border-radius: 3px;
+        border: 1px solid #ddd;
+        font-size: 14px;
+        line-height: 55px;
+        display: inline-block;
+        width: 32.3%;
+        color: #333;
+    }
+
+    .mob-button:hover {
+        background-color: #f5f5f5;
+        color: #333;
+    }
+
+    .mob-header {
+        width: 100%;
+        background-color: #0871c2;
+    }
+
+    .mob-content {
+        position: relative;
+        top: 45px;
+        width: 100%;
+    }
+
+    .mob-Location {
+        position: absolute;
+        width: 100%;
+        top: 50px;
+        padding: 0;
+        display: none;
+        z-index: 20;
+        background-color: #333
+    }
+
+    .mob-productLi {
+        width: 25%;
+        height: 85px;
+        float: left;
+        border-right: 1px solid #000;
+        border-bottom: 1px solid #000;
+        text-align: center;
+    }
+
+    .mob-productLi a {
+        height: 85px;
+        width: 100%;
+        color: #FFF;
+        display: inline-block;
+        padding-top: 20px;
+    }
+
+    .mob-productLi span {
+        width: 100%;
+        font-size: 12px;
+        text-align: center;
+        color: #FFF;
+        display: inline-block;
+        padding-top: 5px;
+    }
+
+    .mob-position {
+        position: absolute;
+        display: none;
+        left: 0;
+        padding: 0;
+    }
+
+    /*product end*/
+    /*categories start*/
+    .mob-categories {
+        width: 100%;
+    }
+
+    .mob-last {
+        width: 100%;
+        height: 36px;
+        line-height: 36px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .mob-last a {
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .mob-last a:visited {
+        color: #333
+    }
+
+    .mob-last a:hover {
+        color: #333
+    }
+
+    .mob-last a:active {
+        color: #f00
+    }
+
+    .mob-last span {
+        float: left;
+    }
+
+    .mob-last i {
+        float: right;
+    }
+
+    /*categories end*/
+}
+
+@media only screen and (max-width: 450px) {
+    .mob-motors-search {
+        width: 84.3%;
+        height: 41px;
+        line-height: 41px;
+    }
+
+    .mob-btn-color {
+        height: 41px;
+        line-height: 41px;
+    }
+
+    .mob-motors-text {
+        height: 41px;
+        line-height: 41px;
+    }
+
+    .mob-motors-input {
+        height: 31px;
+    }
+
+    .mob-motors-btnsearch {
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    .mob-motors-last > li > a {
+        padding: 7px 0 7px 7px;
+    }
+
+    .mob-ulLi span a {
+        font-size: 12px;
+    }
+
+    .mob-productLi span {
+        font-size: 12px;
+    }
+
+    .mob-hotProduct .bd ul {
+        float: left;
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    /*.mob-hotProduct .bd ul li:nth-child(2n){ margin-left: 15px;}*/
+    .mob-hotProduct .bd ul li {
+        float: left;
+        width: 40%;
+        margin: 10px 14px;
+    }
+
+    .motors-Timg {
+        height: 75px;
+    }
+
+    .motors-Timg a img {
+        height: 75px;
+    }
+
+    .mob-text {
+        width: 70%;
+    }
+
+    .motors-tabBusiness article h3 {
+        height: 55px;
+    }
+
+    .mob-RelatedSearches ul li {
+        width: 45%;
+    }
+
+    .mob-share {
+        margin-left: 40px;
+    }
+
+    .mob-button {
+        font-size: 12px;
+        height: 50px;
+        line-height: 50px;
+    }
+
+    .mob-btn-left {
+        width: 50px;
+        height: 45px;
+        line-height: 45px;
+        float: left;
+        text-align: center;
+        cursor: default;
+    }
+
+    .mob-btn-right {
+        width: 50px;
+        height: 45px;
+        line-height: 45px;
+        float: right;
+        cursor: default;
+        text-align: center;
+    }
+
+    .mob-proName {
+        width: auto;
+        text-align: center;
+        margin: 0 50px;
+        height: 45px;
+        line-height: 45px;
+        cursor: default;
+        font-size: 18px;
+        color: #fff;
+        font-weight: 400
+    }
+
+    .mob-Location {
+        top: 40px;
+    }
+    /*onb style*/
+    .pro-clear table{overflow:hidden;}
+    .pro-clear table td{ font-size: 10px;}
+    .shop_list * {
+        width: 50%;
+        height: auto;
+    }
+
+
+    .shop_list span {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    /*--------------send-Inquiry-page---------------*/
+    .text_box0 input {
+        width: 74%;
+    }
+
+    .text_box0 .tebie0 {
+        width: 74%;
+    }
+
+    .sent_0 {
+        margin-left: 25.5%;
+    }
+
+    .huise {
+        margin-left: 25%;
+    }
+
+    /*--------------company-Info---------------*/
+}
+
+/*onb start*/
+table {
+    background-color: #ddd;
+}
+
+td {
+    background-color: #fff;
+}
+
+/*-------------pro-detail-page-------------------*/
+/*Profile-Contact*/
+.nav {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    margin-top: 10px;
+    position: relative;
+}
+
+.nav span {
+    width: 50%;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    box-sizing: border-box;
+    color: #333;
+}
+
+.nav a {
+    display: block;
+    width: 132px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    text-align: center;
+    line-height: 32px;
+}
+
+.nav img {
+    display: block;
+    float: left;
+}
+
+.Profilebox {
+    float: left;
+    border-right: 1px solid #ddd;
+}
+
+.contactbox {
+    float: left;
+}
+
+.Profilebox img {
+    margin-top: 8px;
+}
+
+.contactbox img {
+    margin-top: 7px;
+}
+
+.nav .contact {
+    width: 114px;
+}
+
+/*pro_information*/
+.pro_infbox, .pro_desc {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.pro_infbox img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.pro_infbox h2, .pro_infbox h3, .pro_desc h2, .description {
+    color: #5f87a6;
+    font-size: 14px;
+    margin-left: 15px;
+    line-height: 20px;
+}
+
+.pro_infbox h3 {
+    color: #ff2626;
+}
+
+.pro_inf {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pro_inf li {
+    color: #666;
+    font-size: 12px;
+    width: 45%;
+    float: left;
+    line-height: 20px;
+    margin-left: 15px;
+}
+
+.pro_inf span {
+    color: #333;
+}
+
+.pro_inf .clear_0 {
+    width: 100%;
+}
+
+/*Product Description*/
+.pro_desc {
+    overflow: hidden;
+    border-top: 4px solid #0871c2;
+    margin-top: 20px;
+}
+
+.duiqi {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #ddd;
+}
+
+.duiqi span {
+    font-size: 14px;
+    color: #333;
+    line-height: 40px;
+    margin-left: 15px;
+}
+
+.pro_desc h2 {
+    color: #0871c2;
+    line-height: 24px;
+}
+
+.description {
+    margin-top: 20px;
+    color: #0871c2;
+}
+
+.description-box li, .com_inf li {
+    margin-left: 15px;
+    font-size: 12px;
+    color: #333;
+    line-height: 20px;
+}
+
+.com_inf, .who_shop {
+    width: 100%;
+    height: auto;
+    border-top: solid 2px #ddd;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.com_inf h2, .who_shop li {
+    font-size: 14px;
+    margin-left: 15px;
+    line-height: 40px;
+    color: #333;
+}
+
+/*who shoped*/
+.shop_box{
+    position: relative;
+    width:100%;
+    height:auto;
+
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.who_shop{
+    border-top:4px solid #0871c2;
+    border-bottom:2px solid #ddd;
+}
+.shop_list{
+    margin-top:10px;
+    width:98%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.shop_list td{
+    text-align:center;
+    font-size:12px;
+    margin:0 auto;
+}
+.shop_list span{
+    margin-left:5px;
+    margin-right:5px;
+    text-align:left;
+}
+.shop_list img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:4px;
+}
+#wrapper{ position: relative;}
+#wrap{ position: relative;}
+/*--------------send-Inquiry-page---------------*/
+/*head*/
+.head_snav {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    background-color: #0871c2;
+}
+
+.head_snav img {
+    float: left;
+    margin-left: 15px;
+    margin-top: 19px;
+}
+
+.head_snav span {
+    font-size: 18px;
+    color: #fff;
+    line-height: 54px;
+    margin-left: -21px;
+}
+
+/*nei-rong*/
+.sen_box {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.text_box0 {
+    overflow: hidden;
+    margin-bottom: 10px;
+    width: 96%;
+    height: auto;
+}
+
+.text_box0 span, .duiqi_0 span {
+    color: #333;
+}
+
+.text_box0 h5 {
+    color: #ff2626;
+    font-size: 14px;
+    margin-left: 15px;
+    float: left;
+    margin-right: 10px;
+    line-height: 32px;
+}
+
+.text_box0 input {
+    color: #333;
+    line-height: normal;
+    height: 32px;
+    width: 84%;
+    border: solid 1px #ddd;
+    box-sizing: border-box;
+    float: right;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+.text_box0 .tebie0 {
+    color: #333;
+    height: 60px;
+    width: 84%;
+    border: solid 1px #ddd;
+    box-sizing: border-box;
+    float: right;
+}
+
+.zidongduiqi {
+    width: 100%;
+    heihgt: auto;
+}
+
+.huise {
+    color: #999;
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+.sent_0 {
+    color: #fff;
+    background-color: #0871c2;
+    border: none;
+    line-height: 40px;
+    font-size: 14px;
+    text-align: center;
+    width: 20%;
+    min-width: 100px;
+    margin-left: 15.5%;
+    margin-top: 10px;
+}
+
+.sen_box .duiqi_0 {
+    margin-left: 15px;
+    line-height: 20px;
+}
+
+.duiqi_0 h5 {
+    line-height: 20px;
+    margin-right: 15px;
+    font-size: 14px;
+    color: #ff2626;
+}
+
+.sen_box .duiqi_f {
+    margin-top: 10px;
+}
+
+.duiqi_0 h4 {
+    color: #999;
+    font-size: 14px;
+    float: left;
+    line-height: 18px;
+    margin-right: 15px;
+}
+
+.mob_footer, .mob_followUs {
+    width: 100%;
+    height: auto;
+    font-size: 12px;
+    color: #999;
+    text-align: center;
+}
+
+.mob_share {
+    width: 228px;;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.mob_share label {
+    font-size: 14px;
+    color: #999;
+    line-height: 28px;
+    display: inline-block;
+    float: left;
+}
+
+.motors_share {
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+.motors_share img {
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+/*--------------company-Info---------------*/
+/*Profile-Contact*/
+.nav {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    margin-top: 10px;
+    position: relative;
+}
+
+.nav span {
+    width: 50%;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    box-sizing: border-box;
+    color: #333;
+}
+
+.nav a {
+    display: block;
+    width: 132px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    text-align: center;
+    line-height: 32px;
+}
+
+.nav img {
+    display: block;
+    float: left;
+}
+
+.Profilebox {
+    float: left;
+    border-right: 1px solid #ddd;
+}
+
+.contactbox {
+    float: left;
+}
+
+.Profilebox img {
+    margin-top: 8px;
+}
+
+.contactbox img {
+    margin-top: 7px;
+}
+
+.nav .contact {
+    width: 114px;
+}
+
+/*about*/
+.about_box {
+    width: 100%;
+    height: auto;
+}
+
+.about_box ul, .about_box h3 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.about_box h3 {
+    color: #0871c2;
+    font-size: 14px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+.about_box li {
+    color: #333;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.about_box span {
+    color: #666;
+}
+
+/*footer*/
+.mob_footer, .mob_followUs {
+    width: 100%;
+    height: auto;
+    font-size: 12px;
+    color: #999;
+    text-align: center;
+}
+
+.mob_share {
+    width: 228px;;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mob_share label {
+    font-size: 14px;
+    color: #999;
+    line-height: 28px;
+    display: inline-block;
+    float: left;
+}
+
+.motors_share {
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+.motors_share img {
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+}
+.pro-clear ul{ padding-right: 15px; word-wrap: break-word}
+.pro-clear p{word-wrap: break-word}
+.pro-clear span{word-wrap: break-word}

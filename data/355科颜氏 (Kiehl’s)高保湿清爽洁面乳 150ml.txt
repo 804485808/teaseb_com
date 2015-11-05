@@ -1,0 +1,63 @@
+title:科颜氏 (Kiehl’s)高保湿清爽洁面乳 150ml
+price:165
+thumb:src='http://p0.jmstatic.com/product/000/200/200930_std/200930_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/200/200930_std/200930_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                温和清洁不泛油光！科颜氏 (Kiehl’s)高保湿清爽洁面乳 150ml，能够清除面部杂质和多余的油脂，让面部肌肤更加均衡。其蕴含的白茅根提取物让肌肤清洁、清新，亦不过分干燥。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>科颜氏 (Kiehl’s)高保湿清爽洁面乳 150ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/200/200930_std/200930_200_200.jpg" alt="科颜氏 (Kiehl’s)高保湿清爽洁面乳 150ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">科颜氏 (Kiehl’s)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有需要清洁肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>美国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，具体包装以收到实物为准。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p align="LEFT" style="margin-bottom:0cm;line-height:26px;white-space:normal;">
+	<img src="http://p0.jmstatic.com/deal_content/201509/16/1442384735284.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415317423112.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415317436828.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/16/14423846855807.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p align="LEFT" style="margin-bottom:0cm;">
+	<span style="font-size:12px;">轻柔按摩于润湿的面部皮肤，避开眼周，然后用水冲洗。</span> 
+</p>
+<p align="LEFT" style="margin-bottom:0cm;">
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，请在耳后或手臂内侧测试后再使用噢！</span> 
+</p>        </textarea>
+    

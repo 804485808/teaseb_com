@@ -1,0 +1,6 @@
+Actuators Motors,,,,,,,,,,
+voltage,24v,12v,36v,48v,,,,,,
+power,50w,60w,30w,100w,200w,120w,41w,45w,40w,25w
+speed,5rpm,40rpm,4.5rpm,45rpm,2800rpm,3rpm,4rpm,60rpm,,
+phase,single-phase,,,,,,,,,
+usage,water,industry,home appliance,car,actuator,motorized lcd lift,door open,boat,electric bicycle,fan

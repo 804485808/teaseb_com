@@ -1,0 +1,64 @@
+title:珀莱雅(PROYA)靓白肌密泡沫洁面乳120ml
+price:73
+thumb:src='http://p0.jmstatic.com/product/000/230/230830_std/230830_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/230/230830_std/230830_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                珀莱雅(PROYA)靓白肌密泡沫洁面乳120ml，质地幼滑，泡沫细腻。蕴含大西洋红藻美白精萃、海洋深层水等珍贵海洋护肤成分，温和洁净肌肤，洗后柔滑不紧绷。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>珀莱雅(PROYA)靓白肌密泡沫洁面乳120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/230/230830_std/230830_200_200.jpg" alt="珀莱雅(PROYA)靓白肌密泡沫洁面乳120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">珀莱雅(PROYA)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质适用，特别是想美白补水，温和清洁，扫除肌肤暗沉的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年 (具体日期以收到实物为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒。新老包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201506/16/1434423903.2912.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/24/1435129319.9143.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434423904.3219.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434423905.6302.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424191.4169.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/16/1434424198.7799.jpg" alt="" /><br />        </textarea>
+    
+fangfa:
+        <p>
+	取适量于掌心，加水揉出泡沫后，均匀涂于面部，轻轻打圈按摩，再用清水洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的<span>人士</span>进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13814775292582.jpg" width="660" height="362" alt="" /> 
+</p>        </textarea>
+    

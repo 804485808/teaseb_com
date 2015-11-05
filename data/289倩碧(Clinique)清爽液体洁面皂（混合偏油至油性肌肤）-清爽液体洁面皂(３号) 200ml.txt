@@ -1,0 +1,85 @@
+title:倩碧(Clinique)清爽液体洁面皂（混合偏油至油性肌肤）/清爽液体洁面皂(３号) 200ml
+price:155
+thumb:src='http://p0.jmstatic.com/product/000/003/3044_std/3044_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/003/3044_std/3044_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                令肌肤洗后倍感水嫩，柔滑！倩碧(Clinique)清爽液体洁面皂（混合偏油至油性肌肤）/清爽液体洁面皂(３号) 200ml，清新自然，温和洁净肌肤，不会夺去肌肤水分，清理尘垢、杂质和多余油脂，能够清洁表皮老化角质，令肌肤倍感洁净清爽。给你能洗“净”的温和！真正的温和清洁！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>倩碧(Clinique)清爽液体洁面皂（混合偏油至油性肌肤）/清爽液体洁面皂(３号) 200ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/003/3044_std/3044_200_200.jpg" alt="倩碧(Clinique)清爽液体洁面皂（混合偏油至油性肌肤）/清爽液体洁面皂(３号) 200ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">倩碧 (Clinique)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>紧致,清洁,保湿,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>混合偏油至油性肌肤的MM</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>200ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>英国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无盒无塑封。产品名称更新中，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201511/03/14465400992838.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201310/16/13819112613109.jpg" alt=" 倩碧 (Clinique)液体洁面皂（清爽型） 200ml" height="394" width="660" /> 
+</p>
+<p>
+	<strong><span style="color:#333333;"><span style="font-size:medium;">深层洁净，软化角质</span></span></strong> 
+</p>
+<p class="cjk" align="JUSTIFY">
+	<span style="color:#666666;"><span>洁面是倩碧完美肌肤的第一步，倩碧的皮肤医学专家特别配置了安全有效的洁面皂，它是三步骤的第一步，不仅深层清洁肌肤，更能适度软化角质，为下一步皮层清理作准备。</span></span> 
+</p>
+<p class="cjk" align="JUSTIFY">
+	<img src="http://p0.jmstatic.com/deal_content/201310/16/13819113224747.jpg" alt=" 倩碧 (Clinique)液体洁面皂（清爽型） 200ml" height="466" width="660" /> <img src="http://p0.jmstatic.com/deal_content/201509/08/14417113251088.jpg" alt="" /> 
+</p>
+<p class="cjk" align="JUSTIFY">
+	<strong> <span style="color:#333333;"> <span style="font-size:medium;">泡沫细致，温和无刺激</span> </span> </strong> 
+</p>
+<p class="cjk" align="JUSTIFY">
+	<span style="color:#666666;"><span>含丰富植物橄榄油，清洁的同时适度滋润；低泡配方，不含蜡质，容易清洗，更不会在皮肤表面留下让肌肤干燥的残留物。</span></span> 
+</p>
+<p class="cjk" align="JUSTIFY">
+	<br />
+</p>
+<img src="http://p0.jmstatic.com/deal_content/201310/16/13819113738170.jpg" alt=" 倩碧 (Clinique)液体洁面皂（清爽型） 200ml" height="530" width="660" />        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;line-height:1.5;">每日早晚使用两次！用温水将双手浸湿，挤压适量于手掌并揉搓出泡沫，在面部及颈部按摩。之后用清水清洗3-5次。轻轻将肌肤拍干。</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<img src="http://images.jumei.com/deal_content/201209/20/13481357443033.jpg" alt="倩碧 (Clinique)液体洁面皂（清爽型） 200ml" height="362" width="660" /> 
+</p>        </textarea>
+    

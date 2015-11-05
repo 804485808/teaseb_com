@@ -1,0 +1,7 @@
+Window motors,,,,,,,,,,
+voltage,24v  ,6v ,12 V,36v ,,,3v  ,,1.5v,13v
+outpower,9kw,50w,200w,140w,0w,1.5kw,3kw,2.0w,5w,30w
+speed,Constant Speed,Low Speed,25mm/s,High Speed,Variable Speed,,2600rpm,30rpm,5mm/s,30mm/s
+phase,Single-phase,Three-phase,,,,,,,,
+frequency,50hz,60hz,433.92mhz,3.5hz,868mhz,908.42MHz,868. 42MHZ ,,,
+usage,Home Appliance,Universal,"Car, ",Car Window,window,shutter ,Roller Shutter,roller ,"door,",Boat

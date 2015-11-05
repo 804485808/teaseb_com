@@ -1,0 +1,66 @@
+title:高夫经典保湿磨砂洁面乳 80g
+price:46.9
+thumb:src='http://p0.jmstatic.com/product/000/016/16378_std/16378_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/016/16378_std/16378_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                高夫经典保湿磨砂洁面乳80g，干燥性皮肤的福音，植物性清洁成分清除毛孔内多余油脂和污垢, 去除老化角质，让肌肤保持清爽舒适一整天，产品中淡然的味道适合每一位有魅力的男性。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>高夫经典保湿磨砂洁面乳 80g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/016/16378_std/16378_200_200.jpg" alt="高夫经典保湿磨砂洁面乳 80g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">高夫</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润,男士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>油性皮肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>高夫经典保湿磨砂洁面乳80g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期已收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>新老包装随机发放，请以收到实物为准</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://mall.jumei.com/gf/" target="_blank" style="float:left;display:inline;"></a><br />
+fangfa:
+        <p>
+	湿润面部，取适量产品于掌心起泡，用画圈的方式在面部轻轻按摩，再以清水彻底洗净。早晚使用。如出现敏感不适，请停止使用并咨询医生。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的请先在耳后进行测试后再使用哦！<img src="http://images.jumei.com/product/000/000/0_mall/13450109039108.jpg" alt="" /> 
+</p>
+<br />
+<br />        </textarea>
+    

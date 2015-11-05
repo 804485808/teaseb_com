@@ -1,0 +1,7 @@
+Fan Motors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+voltage,240v,230v,208v,12v,380v,24v,220v,120v,115v,110v,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+power,2w,30w,230w,25w,10w,50w,5w,1000w,500w,0.06kw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+speed,2900rpm,1400rpm,2300rpm,1450rpm,constant speed,960rpm,2960rpm,1480rpm,variable speed,,,,,,,,,,,,,,,,,,,,,,,,,2900rpm 1400rpm,,3643rpm,1812rpm,,,,3300rpm,2200rpm,,2800rpm
+phase,single phase,three phase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+frequency,50hz,60hz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+usage,fan,tools,motor,lamps,home appliance,universal ,industrial,fan coil ,condenser,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,64 @@
+title:丹姿水密码洁肤晶露 125g
+price:39.4
+thumb:src='http://p0.jmstatic.com/product/000/004/4279_std/4279_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/004/4279_std/4279_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                天然洁净成分，能彻底清洁肌肤表层污垢和毛孔杂质，同时补充角质层水分，调节肌肤水油平衡，洗去导致肌肤黯哑无光的过氧化物，使肌肤更滋润光滑。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>丹姿水密码洁肤晶露 125g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/004/4279_std/4279_200_200.jpg" alt="丹姿水密码洁肤晶露 125g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">丹姿水密码</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,清爽</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>新老包装随机发货，具体以收到实物为准，介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <table id="__01" width="660" height="1474" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"><img src="http://p0.jmstatic.com/banner/201509/01/1441089349.1468.jpg" alt="" width="660" height="85" border="0" usemap="#Map7" /></td>  </tr><tr><td colspan="3"><img src="http://p0.jmstatic.com/banner/201509/01/1441089380.4502.jpg" alt="" width="660" height="347" border="0" usemap="#Map" /></td>  </tr><tr><td colspan="3"><img src="http://p0.jmstatic.com/banner/201509/01/1441089409.278.jpg" alt="" width="660" height="320" border="0" usemap="#Map2" /></td>  </tr><tr><td colspan="3"><img src="http://p0.jmstatic.com/banner/201509/01/1441089435.0148.jpg" alt="" width="660" height="323" border="0" usemap="#Map3" /></td>  </tr><tr><td><img src="http://p0.jmstatic.com/banner/201509/01/1441089461.1172.jpg" alt="" width="220" height="399" border="0" usemap="#Map4" /></td>  <td><img src="http://p0.jmstatic.com/banner/201509/01/1441089488.5433.jpg" alt="" width="220" height="399" border="0" usemap="#Map5" /></td>  <td><img src="http://p0.jmstatic.com/banner/201509/01/1441089515.9386.jpg" alt="" width="220" height="399" border="0" usemap="#Map6" /></td>  </tr></tbody></table><map name="Map"><area shape="rect" coords="16,12,645,328" href="http://item.jumei.com/667247.html" target="_blank" /></map><map name="Map2"><area shape="rect" coords="10,8,644,313" href="http://item.jumei.com/667248.html" target="_blank" /></map><map name="Map3"><area shape="rect" coords="15,9,652,313" href="http://item.jumei.com/314132.html" target="_blank" /></map><map name="Map4"><area shape="rect" coords="7,10,212,393" href="http://item.jumei.com/29244.html" target="_blank" /></map><map name="Map5"><area shape="rect" coords="7,12,207,387" href="http://item.jumei.com/1446.html" target="_blank" /></map><map name="Map6"><area shape="rect" coords="9,12,203,379" href="http://item.jumei.com/1442.html" target="_blank" /></map><map name="Map7"><area shape="rect" coords="11,7,655,75" href="http://danzi.jumei.com/?from=search&amp;site=gz" target="_blank" /></map><img src="http://p0.jmstatic.com/banner/201510/29/1446112556.8815.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112516.731.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112517.273.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112572.7608.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112591.6484.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112603.4814.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112614.1824.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112522.2743.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112522.9407.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112523.5835.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112524.3416.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112525.0835.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446112526.1334.jpg" alt="" /><br />        </textarea>
+    
+fangfa:
+        <p>
+	挤出适量洁肤晶露于掌心，加少量清水揉搓出泡沫，涂抹于面部，轻轻按摩后清水清洗干净。建议每天早晚使用。
+</p>
+<p>
+	<strong>温馨提示：</strong>避免接触眼睛，如有不慎入眼，请立刻用水冲洗。敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://images.jumei.com/product/000/000/0_mall/13393842615299.jpg" alt="" /> 
+</p>        </textarea>
+    

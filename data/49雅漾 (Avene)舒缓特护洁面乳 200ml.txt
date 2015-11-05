@@ -1,0 +1,66 @@
+title:雅漾 (Avene)舒缓特护洁面乳 200ml
+price:269
+thumb:src='http://p0.jmstatic.com/product/000/418/418027_std/418027_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/418/418027_std/418027_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                雅漾 (Avene)舒缓特护洁面乳 200ml，全新免洗型洁面乳，降低肌肤敏感度，洁肤同时保护皮肤。滋养，保湿护理。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>雅漾 (Avene)舒缓特护洁面乳 200ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/418/418027_std/418027_200_200.jpg" alt="雅漾 (Avene)舒缓特护洁面乳 200ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">雅漾 (Avene)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有需要温和洁面的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>200ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年 （具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>法国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，具体包装以收到实物为准。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201509/01/14411010147065.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/01/14411010148899.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/01/1441101015901.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/01/14411010152971.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/01/14411010155450.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/10/14418910697593.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;">挤出适量洁面乳，用指尖轻轻在面部打圈抹匀；用化妆棉轻柔擦拭，无须反复摩擦；最后，可以配合少量雅漾喷雾做二次清洁。</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示</span></strong><strong><span style="font-size:12px;">：</span></strong><span style="font-size:12px;">护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201404/08/13969497278661.jpg" alt="" /> 
+</p>        </textarea>
+    

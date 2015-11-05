@@ -1,0 +1,61 @@
+title:韩后（Hanhoo）乳清蛋白洁颜乳 120g
+price:58
+thumb:src='http://p0.jmstatic.com/product/000/484/484193_std/484193_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/484/484193_std/484193_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                韩后(Hanhoo)乳清蛋白洁颜乳120g，幼滑质地，加水乳化揉搓后形成细腻泡沫，可轻柔洗净面部残妆、污垢、多余油脂和老化角质。添加黄瓜、芦荟等提取成分，洁面同时赋予肌肤充足水分，令洁后肌肤无干涩紧绷的感觉，肌肤柔滑细腻，倍感舒适。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>韩后（Hanhoo）乳清蛋白洁颜乳 120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/484/484193_std/484193_200_200.jpg" alt="韩后（Hanhoo）乳清蛋白洁颜乳 120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">韩后（Hanhoo）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有肤质适用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>新老包装随机发，介意的人士慎买。新包装规格为120g，旧包装为120ml，不影响产品品质，可放心购买！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <table border="0" cellpadding="0" cellspacing="0" width="660"><tbody><tr>    <td colspan="4"><a href="http://hanhoo.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.0713.jpg" alt="" /></a></td>    </tr><tr>    <td colspan="4"><a href="http://mall.jumei.com/hanhoo/product_1429314.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.3354.jpg" alt="" /></a></td>  </tr><tr>    <td colspan="2" width="330"><a href="http://mall.jumei.com/hanhoo/product_1429309.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632543.8998.jpg" alt="" /></a></td>    <td colspan="2" width="330"><a href="http://mall.jumei.com/hanhoo/product_1003384.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.831.jpg" alt="" /></a></td>  </tr><tr>    <td width="219"><a href="http://mall.jumei.com/hanhoo/product_484193.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.99.jpg" alt="" /></a></td>        <td colspan="2" width="218"><a href="http://mall.jumei.com/hanhoo/product_484192.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632290.156.jpg" alt="" /></a></td>        <td width="223"><a href="http://mall.jumei.com/hanhoo/product_484208.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632290.3012.jpg" alt="" /></a></td>  </tr></tbody></table><img src="http://p0.jmstatic.com/banner/201509/18/1442557555.818.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523809.8035.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523810.0783.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523810.3539.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523810.6742.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523810.9824.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523811.1761.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523811.4134.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523811.7183.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441523812.0543.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	卸妆后，取适量本品于掌心，加水揉出丰富泡沫后轻轻按摩清洁面部，清水洗净即可。
+</p>
+<p>
+	<strong>温馨提示:</strong>避免幼儿误食，请置于幼儿无法取拿之处；使用后如有不适，请暂停使用并咨询；若产品不慎入眼，请用清水彻底洗净。
+</p>        </textarea>
+    

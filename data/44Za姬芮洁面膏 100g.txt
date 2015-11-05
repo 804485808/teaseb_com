@@ -1,0 +1,65 @@
+title:Za姬芮洁面膏 100g
+price:39
+thumb:src='http://p0.jmstatic.com/product/000/001/1320_std/1320_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/001/1320_std/1320_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                可提升些肌肤光彩、活力肌肤！Za姬芮洁面膏100g，清洁污垢，去除肌肤表面老化角质和彩妆残留，令肌肤自然润泽。特别含有维他命E按摩颗粒，洁面同时按摩肌肤，用后清爽不油腻。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>Za姬芮洁面膏 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/001/1320_std/1320_200_200.jpg" alt="Za姬芮洁面膏 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">姬芮(Za)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无盒有塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海（具体地区以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>需要清洁的人群</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://za.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953278335.jpg" width="660" height="204" alt="" /></a><br /><a href="http://item.jumei.com/1468.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953302695.jpg" width="195" height="303" alt="" /></a><a href="http://item.jumei.com/6125.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953305540.jpg" width="251" height="303" alt="" /></a><a href="http://item.jumei.com/61575.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14454953308184.jpg" width="214" height="303" alt="" /></a><br /><p>
+	<img src="http://p0.jmstatic.com/banner/201509/01/1441100333.7575.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441100417.8868.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441100436.6513.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441100686.5242.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441177604.1364.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441177614.6511.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/06/1425623553.3637.jpg" alt="" />&nbsp;&nbsp;
+</p>        </textarea>
+    
+fangfa:
+        挤出约1cm左右于掌心，加少量水揉搓起泡，将泡沫涂抹于整个脸部，以螺旋状轻轻按摩，再用清水洗净。
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<img src="http://p0.jmstatic.com/deal_content/201405/28/14012673349972.jpg" alt="" /> 
+</p>        </textarea>
+    

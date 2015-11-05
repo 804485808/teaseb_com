@@ -1,0 +1,74 @@
+title:欧莱雅 (L'Oreal)复颜洁面乳125ml 
+price:115
+thumb:src='http://p0.jmstatic.com/product/000/021/21836_std/21836_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/021/21836_std/21836_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧莱雅复颜洁面乳，富含LHA温和辛酰水杨酸，快速卸除彩妆，深层清洁，呈现洁净清爽肌肤。GLYCERIN保湿成分，温和带走粗糙，令肌肤更加光滑细腻。柔软丰盈乳液质地，加水轻柔即可产生丰富泡沫，温和柔软感觉，易于冲洗，肌肤舒适清洗体验。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧莱雅 (L'Oreal)复颜洁面乳125ml </span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/021/21836_std/21836_200_200.jpg" alt="欧莱雅 (L'Oreal)复颜洁面乳125ml " border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧莱雅 (L'Oreal)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,抗皱</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>125ml </span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>江苏</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合任何肌肤，尤其是想要保湿的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>由于产品外包装可能更新，请以收到实物为准。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>&nbsp;<img src="http://p0.jmstatic.com/brand_authorization//14087001352217.jpg" width="658" height="415" alt="" /></p><p>
+	<strong><span style="font-size:medium;color:#333333;"><img src="http://p0.jmstatic.com/banner/201509/06/1441533863.9842.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441533872.0151.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441533879.231.jpg" alt="" /><br />
+</span> </strong> 
+</p>
+<p>
+	<br />
+</p>        </textarea>
+    
+fangfa:
+        <div>
+	<p>
+		挤少许于掌心，加水打成泡沫状，用指腹于面部以由内往外的方向轻轻打圈，稍后用清水冲洗干净即可。
+	</p>
+	<p>
+		<strong>温馨提示</strong>：护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+	</p>
+	<p>
+		<img src="http://images.jumei.com/product/000/000/0_mall/13518516479756.jpg" alt="欧莱雅 (L'Oreal)复颜洁面乳125ml" width="660" height="362" /> 
+	</p>

@@ -1,0 +1,70 @@
+title:欧莱雅 (L'Oreal)致透净颜洁面乳125ml
+price:105
+thumb:src='http://p0.jmstatic.com/product/000/021/21827_std/21827_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/021/21827_std/21827_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧莱雅 (L'Oreal)致透净颜洁面乳125ml，淡淡的清香加上细腻而丰富的泡沫，蕴含丰富维生素CG，帮助滋养焕活肌肤，肌肤倍感舒适净透，为后续肌肤护理做更佳准备。柔润乳状质地，融于水后产生丰富泡沫，轻松清洗，肌肤感觉清新净澈，肤质柔软。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧莱雅 (L'Oreal)致透净颜洁面乳125ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/021/21827_std/21827_200_200.jpg" alt="欧莱雅 (L'Oreal)致透净颜洁面乳125ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧莱雅 (L'Oreal)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,美白,去角质,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>江苏</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有人群，特别适合有干枯、暗沉、细纹等肌肤问题的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>125ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>避免使用于眼部肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒，瓶口有塑封欧莱雅雪颜美白洁面膏，新包装欧莱雅致透净颜洁面乳，新旧包装随机发货，包装改变，效果不变，请放心购买。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>&nbsp;<img src="http://p0.jmstatic.com/brand_authorization//14087001352217.jpg" width="658" height="415" alt="" /></p><p style="font-family:Tahoma, Geneva, sans-serif;font-size:14px;">
+	<img src="http://p0.jmstatic.com/banner/201509/14/1442216548.5159.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/14/1442216555.248.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/14/1442216562.0988.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/14/1442216571.7504.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/14/1442216581.0191.jpg" alt="" />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	挤出少许于掌心，加水打成泡沫状，用指腹于面部以由内向外的方向轻轻打圈，稍后用清水冲洗干净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13584770377547.jpg" alt="欧莱雅 (L'Oreal)雪颜美白洁面膏 新包装125ml，" width="660" height="362" /> 
+</p>        </textarea>
+    

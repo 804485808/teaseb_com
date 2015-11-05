@@ -1,0 +1,7 @@
+Induction Motors,,,,,,,,,,
+voltage,240v,380v,660v,100v,208v,230v,110v,220v,460v,480v
+power,315kw,0.75kw,1.1kw,0.55kw,200kw,0.18kw,1100kw,0.12kw,120w,250w
+speed,2900rpm ,1400rpm,960rpm,660rpm,10rpm,680rpm,constant speed,variable speed,high speed,3000rpm
+phase,three phase,single phase,,,,,,,,
+frequency,50hz,60hz,,,,,,,,
+usage,industrial,universal ,industry plastic,water,mill machine,lift machine,electric tool,fan,household appliance,

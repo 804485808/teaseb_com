@@ -1,0 +1,64 @@
+title:高丝 (Kose)兰皙欧美白/柔滑洗颜霜120g
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/023/23067_std/23067_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/023/23067_std/23067_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                高丝兰皙欧美白柔滑洗颜霜120g，即便你内心装满了小女人情愫，可是外表的灰头土脸也让你足够爷们儿！告别“黄脸婆”，挥别“风尘仆仆”，高丝兰皙欧美白柔滑洗颜霜让你尽显清新美肌。丰富细腻的泡沫能细致的清洁老污物等，使肌肤清洁，并给予肌肤温和柔嫩的关怀。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>高丝 (Kose)兰皙欧美白/柔滑洗颜霜120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/023/23067_std/23067_200_200.jpg" alt="高丝 (Kose)兰皙欧美白/柔滑洗颜霜120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">高丝 (Kose)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江杭州</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>需要呵护肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒无塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	将手部及脸部沾湿，按压1~2次的量于手掌，加水或温水轻轻搓揉起泡后洗脸，之后请充分将泡沫冲净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://images.jumei.com/product/000/000/0_mall/13534927205434.jpg" alt="" /> 
+</p>
+<br />        </textarea>
+    

@@ -1,0 +1,61 @@
+title:韩后（Hanhoo）优肌金盏花净爽洁颜乳 100g
+price:58
+thumb:src='http://p0.jmstatic.com/product/000/507/507660_std/507660_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/507/507660_std/507660_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                韩后(Hanhoo)金盏花净爽洁颜乳100g，有效清洁多余油脂和引起肌肤晦暗的老化角质。不仅是清洁，控油补水，镇定舒缓，收缩毛孔，抑痘抗敏多重功效同时达到！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>韩后（Hanhoo）优肌金盏花净爽洁颜乳 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/507/507660_std/507660_200_200.jpg" alt="韩后（Hanhoo）优肌金盏花净爽洁颜乳 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">韩后（Hanhoo）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,控油,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>油性和混合型肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <table border="0" cellpadding="0" cellspacing="0" width="660"><tbody><tr>    <td colspan="4"><a href="http://hanhoo.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.0713.jpg" alt="" /></a></td>    </tr><tr>    <td colspan="4"><a href="http://mall.jumei.com/hanhoo/product_1429314.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.3354.jpg" alt="" /></a></td>  </tr><tr>    <td colspan="2" width="330"><a href="http://mall.jumei.com/hanhoo/product_1429309.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632543.8998.jpg" alt="" /></a></td>    <td colspan="2" width="330"><a href="http://mall.jumei.com/hanhoo/product_1003384.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.831.jpg" alt="" /></a></td>  </tr><tr>    <td width="219"><a href="http://mall.jumei.com/hanhoo/product_484193.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.99.jpg" alt="" /></a></td>        <td colspan="2" width="218"><a href="http://mall.jumei.com/hanhoo/product_484192.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632290.156.jpg" alt="" /></a></td>        <td width="223"><a href="http://mall.jumei.com/hanhoo/product_484208.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632290.3012.jpg" alt="" /></a></td>  </tr></tbody></table><img src="http://p0.jmstatic.com/banner/201509/02/1441200106.4061.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200107.4349.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200109.9848.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200112.3028.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200114.2177.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200116.2999.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200118.3077.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200120.3557.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200122.3283.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200123.3197.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/02/1441200124.3634.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441114707.9552.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;font-family:SimSun;color:#000000;">韩后(Hanhoo)金盏花净爽洁颜乳 100g，使用方法：卸妆后，取适量本品于掌心，加水揉出丰富泡沫后在面部轻轻按摩清洁，清水洗净即可。</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;font-family:SimSun;color:#000000;">温馨提示：</span></strong><span style="font-size:12px;font-family:SimSun;color:#000000;">避免幼儿误食，请置于幼儿无法取拿之处；使用后如有不适，请暂停使用并咨询。</span> 
+</p>        </textarea>
+    

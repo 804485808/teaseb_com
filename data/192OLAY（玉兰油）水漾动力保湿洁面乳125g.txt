@@ -1,0 +1,61 @@
+title:OLAY（玉兰油）水漾动力保湿洁面乳125g
+price:79
+thumb:src='http://p0.jmstatic.com/product/000/035/35825_std/35825_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/035/35825_std/35825_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                洗完脸后的紧绷感总会勾起内心的小小抱怨和不满，OLAY(玉兰油)水漾动力保湿洁面乳125g，无皂基配方，有效清洁肌肤，温和不干燥。清洁同时给肌肤带来格外的补水。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>OLAY（玉兰油）水漾动力保湿洁面乳125g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/035/35825_std/35825_200_200.jpg" alt="OLAY（玉兰油）水漾动力保湿洁面乳125g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">玉兰油 (OLAY)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>125g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有人群，尤其是想要温和水润洁面的人群。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>由于产品批次问题，新旧包装随机发！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201507/24/1437722634.9609.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437711345.4919.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437711345.7556.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437722668.8087.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437711346.0894.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437711346.2139.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437711346.3962.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/24/1437711346.6993.jpg" alt="" />&nbsp;        </textarea>
+    
+fangfa:
+        <p>
+	用温水滋润面部，直接取珍珠粒大小于掌心，将产品点于面部五点；将产品由内向外打圈进行清洁，清洁完成后以清水冲洗干净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！<img src="http://p0.jmstatic.com/product/000/000/0_mall/13615158717713.jpg" alt="" /> 
+</p>        </textarea>
+    

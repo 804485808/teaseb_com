@@ -1,0 +1,66 @@
+title:韩束 (KanS)雪白肌保湿洁面乳
+price:85
+thumb:src='http://p0.jmstatic.com/product/000/446/446491_std/446491_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/446/446491_std/446491_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                “净”、“白”如初，打造净透美肌第一步，绵密泡泡将给你一片清澈透亮的纯净世界！韩束雪白肌保湿洁面乳，深入毛孔，去除皮肤表层的多余油脂、化妆残余和污垢的同事呵护肌肤天然保护层，使肌肤清爽不油腻！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>韩束 (KanS)雪白肌保湿洁面乳</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/446/446491_std/446491_200_200.jpg" alt="韩束 (KanS)雪白肌保湿洁面乳" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">韩束 (KanS)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>紧致,清洁,美白,补水,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>产品为全新，由于产品外包装可能更新，请以收到的实物为准。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>苏州</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质适用，特别是黯哑，暗沉肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3-5年（以实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201509/06/1441536846.5124.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441536864.753.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441536875.622.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441536886.4463.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/06/1441536893.265.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	<span style="line-height:1.5;">1.使用前先用清水湿润脸部，取适量洁面乳，在手中打出丰富泡沫，均匀涂抹脸部。</span> 
+</p>
+<p>
+	2.从脸颊处开始均匀涂抹，用从下往上画圈的方式轻轻按摩脸部肌肤。<br />
+3.确认洗颜完毕，清水彻底冲洗面部，用干净毛巾以按压的方式擦干脸部。<br />
+<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<br />
+</p>        </textarea>
+    

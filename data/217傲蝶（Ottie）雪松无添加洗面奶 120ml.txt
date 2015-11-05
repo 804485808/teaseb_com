@@ -1,0 +1,63 @@
+title:傲蝶（Ottie）雪松无添加洗面奶 120ml
+price:69
+thumb:src='http://p0.jmstatic.com/product/000/021/21818_std/21818_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/021/21818_std/21818_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                傲蝶(Ottie)雪松洗面奶 120ml，采用韩国萃取工艺，保留了赤松成分，起到抑制黑色素、清除有害自由基、保护真皮层、改善血液循环的效果。含欧洲赤松叶芽提取物、西伯利亚冷杉油及多种珍贵植物精萃。清新的松汁芬芳，丰富细腻的泡沫，温柔清洁每一寸肌肤，舒缓身心，充满活力。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>傲蝶（Ottie）雪松无添加洗面奶 120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/021/21818_std/21818_200_200.jpg" alt="傲蝶（Ottie）雪松无添加洗面奶 120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">傲蝶（Ottie）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>均匀肤色,清洁,保湿,补水,滋润,收敛毛孔,舒缓,清爽,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质适用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年 (具体日期以收到产品为准) </span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>韩国</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://ottie.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//1441097232105.jpg" width="660" height="150" alt="" /></a><a href="http://mall.jumei.com/ottie/product_212254.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971662435.jpg" width="329" height="305" alt="" /></a><a href="http://mall.jumei.com/ottie/product_1483075.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971663643.jpg" width="331" height="305" alt="" /></a><a href="http://mall.jumei.com/ottie/product_21941.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971665726.jpg" width="329" height="311" alt="" /></a><a href="http://mall.jumei.com/ottie/product_21942.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14410971667726.jpg" width="331" height="311" alt="" /></a><br />
+fangfa:
+        <p>
+	取适量于掌心，加水打出细腻泡沫，温柔的在脸上打圈按摩后用清水洗净。
+</p>
+<p>
+	<strong>温馨提示</strong>：护肤品中成分各有不同，敏感性肌肤的<span style="font-family:Times New Roman;">人士</span><span style="font-family:宋体;">进行测试后再使用哦！</span> 
+</p>
+<p>
+	<span style="font-family:宋体;"><img src="http://images.jumei.com/product/000/000/0_mall/13527718612919.jpg" alt="" /></span> 
+</p>        </textarea>
+    

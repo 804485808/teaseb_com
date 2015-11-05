@@ -1,0 +1,7 @@
+Brake Motors,,,,,,,,,,,,,
+voltage,380v,220v,36v,24v,170v,99v,12v,660v,,,,,
+power,0.75kw,45kw,0.37kw,7.5kw,300w,0.55kw,201w,5hp,1.1kw,0.18kw,,,
+speed,constant speed ,3000rpm,1500rpm,1000rpm,600rpm,variable speed ,2900rpm,1400rpm,960rpm,660rpm,,,
+phase,three-phase ,single-phase,,,,,,,,,,,
+frequency,50hz,60hz,,,,,,,,,,,
+usage,industrial,lift anchor ,anchor chains,universal,construction hoist,home appliance,imapct testing machine,balancing machine,for bending steel bars/rebars,truck,,,

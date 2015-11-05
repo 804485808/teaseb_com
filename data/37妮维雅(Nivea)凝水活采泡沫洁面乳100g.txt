@@ -1,0 +1,64 @@
+title:妮维雅(Nivea)凝水活采泡沫洁面乳100g
+price:20
+thumb:src='http://p0.jmstatic.com/product/000/017/17312_std/17312_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/017/17312_std/17312_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                妮维雅(Nivea)凝水活采泡沫洁面乳，水蛋白保湿科技。黄瓜萃取精华。维生素原B5，促进蛋白质形成，改善肤色。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>妮维雅(Nivea)凝水活采泡沫洁面乳100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/017/17312_std/17312_200_200.jpg" alt="妮维雅(Nivea)凝水活采泡沫洁面乳100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">妮维雅(Nivea)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>均匀肤色,清洁,保湿,补水</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无外盒。多款包装随机发货。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>中国上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>由于产品外包装可能更新，请以收到实物为准。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>如有不适，请停止使用。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p>
+	取适量本品挤于掌心，加水轻柔起泡，在脸部轻轻按摩，用温水洗净后轻轻拍干即可。为获得更佳紧致肌肤的效果，令肌肤保持光滑。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！<img src="http://images.jumei.com/product/000/000/0_mall/13463176315208.jpg" alt="" />&nbsp;
+</p>        </textarea>
+    

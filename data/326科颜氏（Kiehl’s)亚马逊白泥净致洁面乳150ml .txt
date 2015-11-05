@@ -1,0 +1,63 @@
+title:科颜氏（Kiehl’s)亚马逊白泥净致洁面乳150ml 
+price:209
+thumb:src='http://p0.jmstatic.com/product/000/060/60026_std/60026_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/060/60026_std/60026_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                毛孔清透不堵塞，通透美肌洗出来。科颜氏（Kiehl’s)亚马逊白泥净致洁面乳150ml，柔细泡沫洁面，你的洁肤专属！蕴含亚马逊白泥及细微颗粒硅藻土，能温和轻柔地去除肌肤表层的污垢和油脂，改善面部毛孔粗大问题，令肌肤回复细致健康。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>科颜氏（Kiehl’s)亚马逊白泥净致洁面乳150ml </span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/060/60026_std/60026_200_200.jpg" alt="科颜氏（Kiehl’s)亚马逊白泥净致洁面乳150ml " border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">科颜氏 (Kiehl’s)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,去角质,改善肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有想要改善毛孔粗大问题的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>150ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>美国（具体产地以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，无外盒无塑封。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201510/16/14449904147172.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904151461.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904159915.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904167868.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904186043.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904194808.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/1444990421513.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904925273.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904234238.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904248481.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904259203.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/16/14449904281175.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p class="cjk">
+	<span style="font-size:12px;">取足量产品于湿润的肌肤，用指腹，以向上、向外打圈的方式按摩于脸部和颈部，请避开眼睛四周。之后用微温的清水洗净即可。早晚使用。</span> 
+</p>
+<p class="cjk">
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>        </textarea>
+    

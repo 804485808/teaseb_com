@@ -1,0 +1,63 @@
+title:御泥坊玫瑰滋养矿物洁面乳100ml
+price:29.9
+thumb:src='http://p0.jmstatic.com/product/000/647/647303_std/647303_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/647/647303_std/647303_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                御泥坊玫瑰滋养矿物洁面乳，接近皮肤的弱酸性，温和无刺激，肌肤不干燥不紧绷。温和清洁肌肤的同时补充肌肤水分，升华肌肤净透至美华韵。添加沙漠玫瑰精粹，具有卓越锁水能力，锁水能力媲美仙人掌。沙漠玫瑰精华深入肌肤持久锁水保湿，帮助皮肤保持光泽和水润。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>御泥坊玫瑰滋养矿物洁面乳100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/647/647303_std/647303_200_200.jpg" alt="御泥坊玫瑰滋养矿物洁面乳100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">御泥坊</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>中国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>矿物过敏者慎用</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://hd.jumei.com/act/34-1-16411-20151111cosmetic_245.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937472235.jpg" width="660" height="175" alt="" /></a><br /><a href="http://item.jumei.com/1095430.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937473459.jpg" width="333" height="244" alt="" /></a><a href="http://item.jumei.com/1623951.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937474897.jpg" width="327" height="244" alt="" /></a><br /><a href="http://item.jumei.com/1095430.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937476190.jpg" width="333" height="212" alt="" /></a><a href="http://item.jumei.com/1747485.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937629054.jpg" width="327" height="212" alt="" /></a><br /><a href="http://item.jumei.com/656894.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937686217.jpg" width="218" height="349" alt="" /></a><a href="http://item.jumei.com/1339077.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937687752.jpg" width="212" height="349" alt="" /></a><a href="http://item.jumei.com/1129340.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466937689964.jpg" width="230" height="349" alt="" /></a><p>
+	<img src="http://p0.jmstatic.com/banner/201410/15/1413384987.9704.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384988.1789.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441039788.7794.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384988.5704.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384988.7766.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384989.01.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441039898.3482.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384989.3485.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384989.4753.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384989.6124.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384989.7423.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384989.9058.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384990.1004.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384990.2744.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201410/15/1413384990.4194.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201504/24/1429862655.9663.jpg" alt="" />&nbsp;
+</p>        </textarea>
+    
+fangfa:
+        <span style="font-family:SimSun;">每天早晚使用。润湿脸部，取适量于掌心，用水搓出泡沫，在面部轻轻打圈，再以清水洗净。&nbsp;</span><br />
+<strong><span style="font-family:SimSun;">温馨提示：</span></strong><span style="font-family:SimSun;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span><br />        </textarea>
+    

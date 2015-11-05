@@ -1,0 +1,60 @@
+title:洗颜专科卸妆洁面组合 (洁面乳120g*2+卸妆乳150ml)(资生堂授权特供)
+price:144
+thumb:src='http://p0.jmstatic.com/product/000/531/531965_std/531965_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/531/531965_std/531965_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                新升级洗颜专科洁面乳，增添了具有保湿效果的丝胶蛋白成分和美容液成分，有效实现了彻底清洁和洁面后滋润感的完美结合。能够深入毛孔及皮肤纹理深处清除细微污垢，且柔和不伤肌肤。卸妆乳能温柔卸除淡妆，洗后肌肤水嫩有弹性，温和呵护肌肤。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>洗颜专科卸妆洁面组合 (洁面乳120g*2+卸妆乳150ml)(资生堂授权特供)</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/531/531965_std/531965_200_200.jpg" alt="洗颜专科卸妆洁面组合 (洁面乳120g*2+卸妆乳150ml)(资生堂授权特供)" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">资生堂菲婷</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,易卸妆</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合各种肤质的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>洁面乳120g*2+卸妆乳150ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年(具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>由于产品外包装可能更新，请以收到实物为准。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><a href="http://mall.jumei.com/tsubaki/" target="_blank" style="float:left;display:inline;"><img src="http://images.jumei.com/cooperation/xiyan/130528_01.jpg" alt="" /></a><br />
+fangfa:
+        <p>
+	手部充分沾湿后，取适量于掌心。用清水或温水轻揉起泡，洗脸后用水彻底洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>        </textarea>
+    

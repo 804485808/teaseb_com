@@ -1,0 +1,69 @@
+title:百雀羚草本水润保湿洁面乳95g
+price:25
+thumb:src='http://p0.jmstatic.com/product/000/022/22532_std/22532_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/022/22532_std/22532_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                百雀羚草本水润保湿洁面乳95g，蕴含丰富的芦荟和海藻精华。水润细腻，深层去污，清爽不紧绷，还你水感透亮肌肤，整天清爽不紧绷！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>百雀羚草本水润保湿洁面乳95g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/022/22532_std/22532_200_200.jpg" alt="百雀羚草本水润保湿洁面乳95g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">百雀羚</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润,缩小毛孔</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海/江苏</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于所有肌肤，特别适合干燥，需要滋养的肌肤。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>95g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年半（具体日期以收到产品为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://baiqueling.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582082661.jpg" width="660" height="130" alt="" /></a><br /><a href="http://item.jumei.com/1763848.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582085144.jpg" width="331" height="176" alt="" /></a><a href="http://item.jumei.com/1052093.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582086684.jpg" width="329" height="176" alt="" /></a><br /><a href="http://item.jumei.com/22545.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582087670.jpg" width="221" height="183" alt="" /></a><a href="http://item.jumei.com/1248824.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582157443.jpg" width="220" height="183" alt="" /></a><a href="http://item.jumei.com/1660.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582159380.jpg" width="219" height="183" alt="" /></a><br /><a href="http://item.jumei.com/22546.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582161441.jpg" width="221" height="211" alt="" /></a><a href="http://item.jumei.com/1693402.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582164195.jpg" width="220" height="211" alt="" /></a><a href="http://item.jumei.com/1263441.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14444582229639.jpg" width="219" height="211" alt="" /></a><p>
+	<img src="http://p0.jmstatic.com/deal_content/201405/08/13995399137168.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201405/08/13995399138091.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201506/01/1433128398.012.jpg" alt="" /> 
+</p>
+<p style="white-space:normal;">
+	<strong><span style="font-size:16px;color:#333333;font-family:SimSun;">蕴含丰富的保湿精华</span></strong> 
+</p>
+<p style="white-space:normal;">
+	<span style="font-size:small;color:#666666;"><span style="font-size:12px;">补充肌肤水份，同时形成锁水保护膜，令肌肤滋润不干燥。海藻可增加肌肤的保水性及紧缩性，可改善干性及油性肌肤的分泌状态，促使毛孔收缩细致。</span>&nbsp;</span>
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	每天早晚护肤前，取适量于掌心搓揉至起泡，涂抹至面部再配合按摩，最后用清水洗净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<img src="http://p0.jmstatic.com/product/000/000/0_mall/13560728348059.jpg" alt="" /> 
+</p>        </textarea>
+    

@@ -1,0 +1,66 @@
+title:比度克 (BeDook)抗痘控油洁面膏 80g
+price:29
+thumb:src='http://p0.jmstatic.com/product/000/005/5843_std/5843_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/005/5843_std/5843_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                比度克(BeDOOK)抗痘控油洁面膏，四步满足你的洁面需求，深层清洁毛孔中的油脂污垢，防止死皮堵塞，深层补水、清凉镇静，有效地调节水油平衡，舒缓疲惫肌肤，令肌肤畅快呼吸清凉，展现肌肤清爽、光洁。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>比度克 (BeDook)抗痘控油洁面膏 80g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/005/5843_std/5843_200_200.jpg" alt="比度克 (BeDook)抗痘控油洁面膏 80g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">比度克 (BeDook)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,修护肌肤,控油,修护,舒缓,净肤,清爽,净化,温和,男士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广州</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>中油、混合型皮肤的人士使用</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>80g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年(具体日期以收到实物为准)</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>产品全新，有外盒有塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p><a href="http://bedook.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/14466891885215.jpg" width="660" height="270" alt="" /></a><br /><a href="http://www.jumei.com/bedook/product_1339481.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization/1446689193139.jpg" width="660" height="289" alt="" /></a>&nbsp;<br /><br /><br /><br /></p><p><img src="http://p0.jmstatic.com/brand_authorization//14277859608292.jpg" width="660" height="702" alt="" /></p><p>
+	<img src="http://p0.jmstatic.com/banner/201509/27/1443367312.1341.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/08/1444302633.0347.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367314.7846.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367316.8762.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367319.2481.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367321.383.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367323.0898.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367324.5107.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367325.3414.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367327.224.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367328.6868.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367331.2731.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367333.1994.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367335.2663.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367336.5487.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367337.8542.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367341.2052.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367342.1621.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/27/1443367343.1716.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-family:SimSun;">可每天使用。取适量加水搓揉出泡沫，轻柔、全面地按摩面部，然后彻底冲洗干净。</span> 
+</p>
+<p>
+	<strong><span style="font-family:SimSun;">温馨提示：</span></strong><span style="font-family:SimSun;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201406/16/14029047375807.jpg" alt="" /> 
+</p>        </textarea>
+    

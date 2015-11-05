@@ -1,0 +1,70 @@
+title:雪肌精美白/柔净洗颜乳 140ml
+price:280
+thumb:src='http://p0.jmstatic.com/product/000/017/17435_std/17435_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/017/17435_std/17435_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                高丝雪肌精系列，王牌产品，十余年来深受着亚洲女性的爱戴。清爽舒适的使用感，创造充满饱满的弹力感与白净的肌肤。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>雪肌精美白/柔净洗颜乳 140ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/017/17435_std/17435_200_200.jpg" alt="雪肌精美白/柔净洗颜乳 140ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">雪肌精</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>本产品为全新正品，有外盒包装</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>任何肤质，尤其是想要肌肤健康润泽的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>140ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>产品有美白洗颜乳和柔净洗颜乳两个名称，实为同一款。具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/deal_content/201508/31/14410258696779.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201509/02/14411629904582.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201508/31/14410259876644.jpg" alt="" /> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;">1.轻拍将手和脸弄湿后，按压喷嘴1—2次于面扑或者手心里。</span> 
+</p>
+<p>
+	<span style="font-size:12px;">2.加水打泡后进行，在脸部按照面部纹理，由下至上画圈，之后用水充分洗净。</span> 
+</p>
+<p align="left">
+	<strong><span style="font-size:12px;">温馨提示</span></strong><span style="font-size:12px;">：护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！</span> 
+</p>        </textarea>
+    

@@ -1,0 +1,60 @@
+title:花印(HANAJIRUSHI)清酒洁面乳(细肤)120g
+price:59
+thumb:src='http://p0.jmstatic.com/product/000/387/387759_std/387759_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/387/387759_std/387759_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                花印(HANAJIRUSHI)清酒洁面乳(细肤)120g，深层滋润，控油锁水，细腻毛孔，等问题，淡淡酒香缓解疲劳。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>花印(HANAJIRUSHI)清酒洁面乳(细肤)120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/387/387759_std/387759_200_200.jpg" alt="花印(HANAJIRUSHI)清酒洁面乳(细肤)120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">花印（HANAJIRUSHI）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,控油,嫩肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有有清洁需求的MM</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>日本</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒无塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <p align="LEFT">
+	湿面后，取适量本品均匀涂于脸，轻轻按摩片刻，再以清水洗净。
+</p>
+<p align="LEFT">
+	<strong>温馨提示</strong>：护肤品成分各有不同，敏感性肌的人士请先在耳后进行测试后再使用哦！
+</p>        </textarea>
+    

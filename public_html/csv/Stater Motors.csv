@@ -1,0 +1,7 @@
+Starter Motors,,,,,,,,,
+voltage,24v,12v,380v,690v,550v,,,,
+power,1.1kw,2kw,2.2kw,3kw,5.5kw,7.5kw,2.7kw,5kw,9kw
+speed,1500rpm,1800rpm,3600rpm,,,,,,
+phase,three-phase,single-phase,,,,,,,
+frequency,50hz,60hz,3.5hz,,,,,,
+usage,truck,universal,auto,small engine,go kart,engine,pump,,

@@ -1,0 +1,7 @@
+Asynchronous Motors,,,,,,,,,,
+Voltage,208v,380v,230v,240v,115v,110V,120V,220V,3.3KV,6.6KV
+Power,0.4kw,0.75kw,220kw,550kw,315kw,1.50kw,0.12kw,0.18KW,0.18KW,2.2KW
+Speed,1410rpm,2500rpm,3000rpm,,,,,,,
+Phase,three phase,single phase,,,,,,,,
+Frequency,60hz,50hz,,,,,,,,
+Usage,industrial,universal,household appliance,fan ,"mill machine,lift machine",universal,sewing machine,electric tool,pump,

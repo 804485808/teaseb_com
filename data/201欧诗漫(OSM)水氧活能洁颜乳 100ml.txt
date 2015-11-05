@@ -1,0 +1,64 @@
+title:欧诗漫(OSM)水氧活能洁颜乳 100ml
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/821/821449_std/821449_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/821/821449_std/821449_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧诗漫水氧活能洁颜乳100ml，深层清洁面部污垢，开启无限水润之源，特别添加淡蓝色可揉碎粒子、珍珠活性成分和多种补水保湿成分。温和调理肌肤PH值到正常健康状态，用后肌肤光滑润泽、清爽不紧绷，令毛孔畅快呼吸。立体补水网络从水氧输送、活力循环、补水保湿三层纬度，让肌肤从底层畅享水润滋养。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧诗漫(OSM)水氧活能洁颜乳 100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/821/821449_std/821449_200_200.jpg" alt="欧诗漫(OSM)水氧活能洁颜乳 100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧诗漫(OSM)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水,控油,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒无塑封。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201508/27/1440665926.6565.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/27/1440665926.9096.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/27/1440665927.1736.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/27/1440665927.611.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/27/1440665928.1051.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/27/1440665928.5692.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201508/27/1440665928.7999.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p>
+	取适量加水轻揉，均匀涂于面部，轻轻打圈按摩后，用清水洗净。
+</p>
+<p>
+	<strong>温馨提示</strong>：护肤品中成分各有不同，敏感性肌肤的人士进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201407/01/1404208819.3459.jpg" alt="" /> 
+</p>        </textarea>
+    

@@ -1,0 +1,77 @@
+title:玻儿（popular）清新能量洁面乳 80g
+price:32
+thumb:src='http://p0.jmstatic.com/product/000/008/8509_std/8509_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/008/8509_std/8509_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                洁面不彻底，可能会引起污垢、油脂堵塞毛孔、炎症、青春痘、粗糙、暗淡等皮肤问题，尤其是影响皮肤的正常代谢。因而，永葆青春的第一步是清洁彻底。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>玻儿（popular）清新能量洁面乳 80g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/008/8509_std/8509_200_200.jpg" alt="玻儿（popular）清新能量洁面乳 80g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">玻儿（popular）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,柔肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>福建</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>80g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒有塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://popular.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361600074399.jpg" width="660" height="241" alt="" /><br /></a><a href="http://item.jumei.com/15228.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361773993878.jpg" width="216" height="309" alt="" /></a><a href="http://item.jumei.com/7494.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361773995718.jpg" width="227" height="309" alt="" /></a><a href="http://item.jumei.com/5874.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361773997589.jpg" width="217" height="309" alt="" /><br /></a><a href="http://item.jumei.com/8508.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361773998932.jpg" width="216" height="309" alt="" /></a><a href="http://item.jumei.com/15237.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361774104080.jpg" width="227" height="309" alt="" /></a><a href="http://item.jumei.com/15234.html" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14361774105590.jpg" width="217" height="309" alt="" /></a><br /><img src="http://p0.jmstatic.com/banner/201511/02/1446465487.6516.jpg" alt="" /> 
+<p>
+	<span style="font-size:16px;color:#333333;"><strong>无刺激，更舒适</strong></span> 
+</p>
+<p>
+	<span style="color:#666666;">温和的特性，</span><span style="color:#666666;">无刺激，更舒适。</span><span style="color:#666666;">洗去表皮污垢和多余的油脂，增加肌肤的</span><span style="color:#666666;">保湿效果和通透感。</span><span style="color:#666666;">柔和的质地，让使用后的肌肤</span><span style="color:#666666;">细腻、干净、柔软，</span><span style="color:#666666;">为肌肤表皮的吸收打下良好的基础。</span> 
+</p>
+<p>
+	<span style="font-size:16px;color:#333333;"><strong>清洁无死角，洁面新体验</strong></span> 
+</p>
+<p>
+	<span style="color:#666666;">富含维生素E等成分，具有</span><span style="color:#666666;">持久保湿、抗氧化效果。</span><span style="color:#666666;">丰富的弹力泡泡使肌肤充满细致饱水感，</span><span style="color:#666666;">温和洁净，洗出光泽美肌。</span><span style="color:#666666;">迷人的玫瑰香气，有助于放松心情、</span><span style="color:#666666;">缓解紧张与压力。</span> 
+</p>
+<p>
+	<img alt="" src="http://images.jumei.com/deal_content/201202/29/1330507888439.jpg" /> 
+</p>        </textarea>
+    
+fangfa:
+        取适量于手心，加少许清水充分起泡后，轻柔地清洗全脸，再以清水充分洗净；不慎误入眼内时，请勿柔擦，立即用清水或温水冲洗。
+<p>
+	<strong>温馨提示：</strong>护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201405/29/14013495326371.jpg" alt="" /> 
+</p>        </textarea>
+    

@@ -1,0 +1,56 @@
+title:泊美（PURE&MILD）植物倍水润系列保湿洁面膏Ⅰ（水润型）120g
+price:55
+thumb:src='http://p0.jmstatic.com/product/000/018/18026_std/18026_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/018/18026_std/18026_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                花的纯净，花的美丽，在泊美植物倍水润系列保湿洁面膏I(水润型)120g的温柔清洁下，与保湿水润因子一起，保湿你的肌肤，肌肤水润Q弹，丰富细腻的泡沫在保持肌肤滋润的同时，轻松去除多余皮脂及污垢，洗后肌肤不紧绷            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>泊美（PURE&MILD）植物倍水润系列保湿洁面膏Ⅰ（水润型）120g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/018/18026_std/18026_200_200.jpg" alt="泊美（PURE&MILD）植物倍水润系列保湿洁面膏Ⅰ（水润型）120g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">泊美（PURE&MILD）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,滋润,净肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>5年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无外盒有塑封</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start-->    <div style="width:660px;overflow:hidden;_zoom:1;"><br />   
+fangfa:
+        <p>
+	<span style="line-height:1.5;font-family:SimSun;">取适量（约</span><span style="line-height:1.5;font-family:SimSun;">1.5cm</span><span style="line-height:1.5;font-family:SimSun;">）置于掌心，加少量清水或温水揉出丰富泡沫后按摩脸部，然后充分清洗</span><span style="line-height:1.5;font-family:SimSun;">。</span> 
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<img src="http://p0.jmstatic.com/banner/201407/09/1404871752.8925.jpg" alt="" style="line-height:1.5;" /> 
+</p>        </textarea>
+    

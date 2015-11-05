@@ -1,0 +1,63 @@
+title:OLAY玉兰油多效修护洁面乳 100g
+price:42
+thumb:src='http://p0.jmstatic.com/product/000/011/11164_std/11164_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/011/11164_std/11164_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                OLAY玉兰油多效修护洁面乳100g，深入清洁，促进肌肤更新。减淡细纹，淡化毛孔，水润平衡，保持肌肤柔软，焕发健康光泽。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>OLAY玉兰油多效修护洁面乳 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/011/11164_std/11164_200_200.jpg" alt="OLAY玉兰油多效修护洁面乳 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">玉兰油 (OLAY)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,滋润,修护</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，无外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适用于想要对抗皱纹、细嫩肌肤、长效水润肌肤的MM</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>新老包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<img src="http://p0.jmstatic.com/banner/201510/29/1446098329.5738.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446098329.7004.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446098329.8261.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446098330.0074.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446098330.1745.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446098330.3579.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201510/29/1446098330.4617.jpg" alt="" />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	早晚使用。用清水润湿面部，按出适量产品。轻柔地按摩面部，然后用清水充分冲洗。每日使用，效果更好。
+</p>
+<p>
+	<strong>温馨提示</strong>：护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！<img alt="" src="http://images.jumei.com/product/000/011/11164_mall/13353419637087.jpg" /> 
+</p>        </textarea>
+    

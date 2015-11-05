@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /items/*/*_oid_*
+Disallow: /products_*/*_oid_*
+Disallow: /company/*
+Disallow: /register.html
+Disallow: /login.html
+Disallow: /user/*
+
+
+User-agent:sogou spider
+Disallow: /
+
+User-agent:Sosospider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent:sosospider
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /

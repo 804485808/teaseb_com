@@ -1,0 +1,7 @@
+Geared Motors,,,,,,,,,,
+voltage,380v,400v,415v,230v,240v,208v,110v,6v,24v,220v
+power,90kw,75kw,0.1w,37kw,110kw,132kw,160kw,10w,40w,1w
+speed,1rpm,1000rpm,1600rpm,300rpm,20rpm,800rpm,15rpm,9000rpm,6000rpm,5rpm
+phase,single phase,three phase,,,,,,,,
+frequency,50hz,60hz,,,,,,,,
+usage,Home Appliance,industrial,universal,Construction Hoist,Electric Tool,fan,car,water,,

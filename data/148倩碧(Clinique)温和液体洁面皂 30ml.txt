@@ -1,0 +1,76 @@
+title:倩碧(Clinique)温和液体洁面皂 30ml
+price:39.9
+thumb:src='http://p0.jmstatic.com/product/000/000/71_std/71_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/000/71_std/71_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                倩碧(Clinique)温和液体洁面皂 30ml，肌肤的自然更新周期为28天。其间，一部分死皮细胞会自动脱落，但剩余的就会依附在肌肤表层，阻碍健康细胞的营养吸收，加速肌肤老化，安全有效的洁面皂，是倩碧护肤三步骤的第一步，不仅有效清洁肌肤，更能适度软化角质，为下一步皮层清理作准备。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>倩碧(Clinique)温和液体洁面皂 30ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/000/71_std/71_200_200.jpg" alt="倩碧(Clinique)温和液体洁面皂 30ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">倩碧 (Clinique)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>美国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合任何肌肤，特别是想要拥有无暇肤质的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>30ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到的实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>温馨提示</b></td>
+                    <td><span>具体产品请以收到实物为准。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，无盒无塑封，产品为全新中样，有不单独出售字样，介意的mm慎选，多款包装随机发货哦！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <h4>
+</h4>
+<h4>
+	<img src="http://p0.jmstatic.com/deal_content/201510/13/14447320049180.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320068537.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320081681.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320093175.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320127410.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320178880.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320203981.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320226307.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320257103.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320281346.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320298715.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/1444732032373.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320341917.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/13/14447320393792.jpg" alt="" /><br />
+</h4>
+<p>
+	<span style="font-size:16px;color:#333333;"><strong>不含化学清洁剂，不伤害肌肤</strong></span><br />
+<span style="color:#666666;">不让肌肤干燥，含丰富植物橄榄油，清洁的同时适度滋润；低泡配方，不含蜡质，容易清洗，更不会在皮肤表面留下让肌肤干燥的残留物，真空高压制成，不含空气，经久耐用亦不会变质。</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p style="margin:5px;padding:0px;overflow-y:auto;word-wrap:break-word;" align="left">
+	<span style="line-height:1.5;">每日早晚使用两次！用温水将双手浸湿，挤压适量于手掌并揉搓出泡沫，在面部及颈部按摩。之后用清水清洗3-5次，轻轻将肌肤拍干。</span> 
+</p>
+<p style="margin:5px;padding:0px;overflow-y:auto;word-wrap:break-word;" align="left">
+	<strong><span style="line-height:1.5;">温馨提示</span></strong><strong><span style="line-height:1.5;">：</span></strong><span style="line-height:1.5;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span><img src="http://p0.jmstatic.com/deal_content/201405/13/1399949736787.jpg" alt="" /><span style="font-size:x-small;background-color:#FFFFFF;font-family:Arial, Verdana, sans-serif;line-height:1.5;">&nbsp;</span> 
+</p>
+<p style="margin:5px;padding:0px;font-family:Arial, Verdana, sans-serif;font-size:12px;overflow-y:auto;word-wrap:break-word;background-color:#FFFFFF;">
+	<br />
+</p>        </textarea>
+    

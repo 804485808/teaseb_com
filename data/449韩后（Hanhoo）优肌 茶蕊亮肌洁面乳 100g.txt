@@ -1,0 +1,64 @@
+title:韩后（Hanhoo）优肌 茶蕊亮肌洁面乳 100g
+price:83
+thumb:src='http://p0.jmstatic.com/product/000/484/484176_std/484176_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/484/484176_std/484176_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                为肌肤展开美丽新生。韩后(Hanhoo)优肌茶蕊亮肌洁面乳100g，富含橄榄油和乳木果油，温和低敏，卸妆加清洁，双倍洁净力，有效祛除彩妆污垢和老化角质。以白茶为原料，萃取茶多酚提取液，保湿能力强，有效改善暗沉现象，令肌肤重现白皙光泽。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>韩后（Hanhoo）优肌 茶蕊亮肌洁面乳 100g</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/484/484176_std/484176_200_200.jpg" alt="韩后（Hanhoo）优肌 茶蕊亮肌洁面乳 100g" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">韩后（Hanhoo）</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>广东</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合中干性肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100g</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒无塑封。新老包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <table border="0" cellpadding="0" cellspacing="0" width="660"><tbody><tr>    <td colspan="4"><a href="http://hanhoo.jumei.com/" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.0713.jpg" alt="" /></a></td>    </tr><tr>    <td colspan="4"><a href="http://mall.jumei.com/hanhoo/product_1429314.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.3354.jpg" alt="" /></a></td>  </tr><tr>    <td colspan="2" width="330"><a href="http://mall.jumei.com/hanhoo/product_1429309.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632543.8998.jpg" alt="" /></a></td>    <td colspan="2" width="330"><a href="http://mall.jumei.com/hanhoo/product_1003384.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.831.jpg" alt="" /></a></td>  </tr><tr>    <td width="219"><a href="http://mall.jumei.com/hanhoo/product_484193.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632289.99.jpg" alt="" /></a></td>        <td colspan="2" width="218"><a href="http://mall.jumei.com/hanhoo/product_484192.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632290.156.jpg" alt="" /></a></td>        <td width="223"><a href="http://mall.jumei.com/hanhoo/product_484208.html" target="_blank"><img src="http://p0.jmstatic.com/banner/201504/10/1428632290.3012.jpg" alt="" /></a></td>  </tr></tbody></table><img src="http://p0.jmstatic.com/banner/201507/27/1437982484.3046.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982485.5968.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982486.9979.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982488.1155.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982489.2734.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982490.3166.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982491.1731.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982492.2904.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982493.1385.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982493.9154.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982494.7357.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982496.1128.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982499.2256.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982500.4761.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982501.8631.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982502.7616.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982503.2299.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201507/27/1437982345.3738.jpg" alt="" style="white-space:normal;" />        </textarea>
+    
+fangfa:
+        <p>
+	茶蕊嫩白洁面乳100g，卸妆后，取适量本品于掌心，加水揉出丰富泡沫后在面部轻轻按摩清洁，用清水洗净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>适合中干性肌肤人群使用。注意：避免幼儿误食，请置于幼儿无法取拿之处；使用后如有不适，请暂停使用并咨询。
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201405/22/14007460122848.jpg" alt="" /> 
+</p>        </textarea>
+    

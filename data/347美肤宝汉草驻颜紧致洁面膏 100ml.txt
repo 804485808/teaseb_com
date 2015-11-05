@@ -1,0 +1,52 @@
+title:美肤宝汉草驻颜紧致洁面膏 100ml
+price:50
+thumb:src='http://p0.jmstatic.com/product/001/042/1042660_std/1042660_350_350.jpg' jqimg='http://p0.jmstatic.com/product/001/042/1042660_std/1042660_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                美肤宝汉草驻颜紧致洁面膏100ml，轻松生成丰富泡沫，温和轻松的洗净肌肤污垢和化妆残留，带走暗黄之气，打造与肌肤相近的弱酸性配方，不损伤皮肤保护膜，补水保湿。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>美肤宝汉草驻颜紧致洁面膏 100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/001/042/1042660_std/1042660_200_200.jpg" alt="美肤宝汉草驻颜紧致洁面膏 100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">美肤宝</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,清爽,改善肤质</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>所有需要清洁肌肤的人群</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>中国</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><div style="width:660px;overflow:hidden;_zoom:1;"><br />
+fangfa:
+        <span style="font-family:SimSun;color:#000000;">取适量在湿润的脸部及颈部由下向上充分按摩，避开眼周，再以清水冲洗后擦拭干净。</span><br />
+<span style="font-family:SimSun;color:#000000;"><strong>温馨提示</strong>：护肤品中成分各有不同，敏感性肌肤人士请先在耳后进行测试后再使用哦！</span><br />        </textarea>
+    

@@ -1,0 +1,89 @@
+title:佰草集(HERBORIST)润颜滋养洁面乳 120ml
+price:88
+thumb:src='http://p0.jmstatic.com/product/000/065/65573_std/65573_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/065/65573_std/65573_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                佰草集(HERBORIST)润颜滋养洁面乳，泡沫丰盈绵密，赋予肌肤柔润呵护，温和洁净不紧绷，焕现脸部丝滑娇嫩之美。蕴含枸杞、百合、麦冬、土茯苓植物萃取精华，调理肌肤。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>佰草集(HERBORIST)润颜滋养洁面乳 120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/065/65573_std/65573_200_200.jpg" alt="佰草集(HERBORIST)润颜滋养洁面乳 120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">佰草集(HERBORIST)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>上海</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有肤质，特别是想要肌肤莹润洁净的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到产品为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品，有外盒</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <!--recommendation_manual_start--><br /><!--recommendation_manual_end--><p>
+	<img src="http://p0.jmstatic.com/banner/201509/06/1441535704.0012.jpg" alt="" /><span style="color:#666666;">&nbsp;</span> 
+</p>
+<p>
+	<span style="color:#333333;font-size:16px;"><strong>绵密泡沫，洁净脏污只留丝滑莹润</strong></span> 
+</p>
+<p>
+	<span style="color:#666666;">泡沫丰盈绵密，赋予肌肤柔润呵护，温和洁净不紧绷，焕现脸部丝滑娇嫩之美。</span> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201509/06/1441535841.9304.jpg" alt="" /> 
+</p>
+<p>
+	<span style="color:#333333;font-size:16px;"><strong>萃取植物精华，温润活颜滋养肌肤</strong></span> 
+</p>
+<p>
+	<span style="color:#666666;">蕴含枸杞、百合、麦冬、土茯苓植物萃取精华，调理肌肤，达成滋养真阴，生津润燥，益气养血活颜之效，在特殊季节给予肌肤特别的优养温润活力。</span> 
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/banner/201509/06/1441536418.6378.jpg" alt="" /> 
+</p>
+<p>
+	<strong style="color:#333333;font-size:16px;line-height:1.5;">由内到外的呵护肌肤状态</strong> 
+</p>
+<p>
+	<span style="color:#666666;">配方和植物的组成部分，帮助肌肤由内到外的呵护肌肤状态。</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	先蘸湿面部，挤出适量（樱桃般大小，约2克）于掌心，加水揉出泡沫，在面部轻轻按摩，再以温水洗净。
+</p>
+<p>
+	<strong>温馨提示：</strong>敏感性肌肤的人士请先在耳后进行测试后再使用哦！
+</p>
+<div>
+	<img src="http://p0.jmstatic.com/product/000/000/0_mall/13667952486716.jpg" alt="" /><span style="font-size:small;"><span style="font-family:SimSun;"><br />
+</span></span> 

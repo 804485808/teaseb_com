@@ -1,0 +1,70 @@
+title:凡茜仙人掌无s洗面奶 246ml
+price:79
+thumb:src='http://p0.jmstatic.com/product/000/014/14827_std/14827_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/014/14827_std/14827_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                为了降低洁面产品对皮肤的伤害，凡茜不采用常用的高刺激性SLES/SLS，而是经过多次试验，发现一种温和清洁因子——谷氨酸清洁因子，它能清洁皮肤表面及毛孔内油脂污垢，又不刺激皮肤。因此而研制出仙人掌无s洗面奶！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>凡茜仙人掌无s洗面奶 246ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/014/14827_std/14827_200_200.jpg" alt="凡茜仙人掌无s洗面奶 246ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">凡茜</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,补水,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品包装</b></td>
+                    <td><span>全新正品，有外盒无塑封</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>北京</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>适合所有想要通过温和不刺激的方式清洁肌肤的人群，尤其是敏感肌肤</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>246ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>新老包装随机发货，具体以收到实物为准。介意的人士慎购！</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <a href="http://fanxishop.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14428036981650.jpg" width="223" height="328" alt="" /></a><a href="http://xuanqi.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14428036984957.jpg" width="219" height="328" alt="" /></a><a href="http://zuji.jumei.com" target="_blank"><img src="http://p0.jmstatic.com/brand_authorization//14428036987544.jpg" width="218" height="328" alt="" /></a><br /><p>
+	<img src="http://p0.jmstatic.com/banner/201509/07/1441603239.8964.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603240.087.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603240.2578.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603240.4257.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603240.6475.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603240.7528.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603240.9373.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603241.1848.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/07/1441603241.2985.jpg" alt="" />
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	湿润双手与面部，取适量本品于手心揉搓出泡沫，涂于面部打圈按摩，再以清水洗净即可。
+</p>
+<p>
+	<strong>温馨提示：</strong>护肤品中成分各有不同，敏感性肌肤的MM请先在耳后进行测试后再使用哦！
+</p>
+<p>
+	<img src="http://p0.jmstatic.com/deal_content/201408/13/14078998844498.jpg" alt="" /> 
+</p>        </textarea>
+    

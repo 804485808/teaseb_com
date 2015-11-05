@@ -1,0 +1,61 @@
+title:欧诗漫(OSM)滢润弹力净颜乳 100ml
+price:65
+thumb:src='http://p0.jmstatic.com/product/001/267/1267182_std/1267182_350_350.jpg' jqimg='http://p0.jmstatic.com/product/001/267/1267182_std/1267182_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧诗漫(OSM)滢润弹力净颜乳100ml，丰富细腻的泡沫，轻柔的祛除肌肤上的油脂、污垢，净化毛孔，增强肌肤弹性，紧致肌肤。蕴含珍珠粉中萃取的甘氨酸、甲硫氨酸等成分，提升肌肤弹力蛋白含量，回复肌肤活悦弹力！雾霾天也要自由呼吸！            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧诗漫(OSM)滢润弹力净颜乳 100ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/001/267/1267182_std/1267182_200_200.jpg" alt="欧诗漫(OSM)滢润弹力净颜乳 100ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧诗漫(OSM)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>紧致,清洁,保湿,温和</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>100ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>任何肤质，温和不刺激</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201503/18/1426659613.9307.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/18/1426659614.1232.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/18/1426659614.3696.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201503/18/1426659614.5842.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p style="white-space:normal;color:#333333;line-height:20px;padding:0px;font-family:Tahoma, Geneva, sans-serif;background-color:#FFFFFF;">
+	<span style="font-family:SimSun;line-height:1.5;">取适量加水轻揉，均匀涂于面部，轻轻打圈按摩后，用清水洗净。<img src="http://p0.jmstatic.com/banner/201503/18/1426659614.7941.jpg" alt="" style="white-space:normal;" /></span> 
+</p>
+<p style="white-space:normal;color:#333333;line-height:20px;padding:0px;font-family:Tahoma, Geneva, sans-serif;background-color:#FFFFFF;">
+	<strong><span style="font-family:SimSun;line-height:1.5;">温馨提示：</span></strong><span style="font-family:SimSun;line-height:1.5;">护肤品中成分各有不同，敏感性肌肤的人士进行测试后再使用哦！</span> 
+</p>        </textarea>
+    

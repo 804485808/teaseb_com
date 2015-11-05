@@ -1,0 +1,75 @@
+title:雅漾 (Avene)活泉修护/修护洁面乳 200ml
+price:199
+thumb:src='http://p0.jmstatic.com/product/000/000/876_std/876_350_350.jpg' jqimg='http://p0.jmstatic.com/product/000/000/876_std/876_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                肌肤总难免会出现各种各样的问题，但是肌肤敏感一直令好多MM头疼不已，敏感的肌肤连每天的基础护理都会受阻，更何况是相对刺激较大的彩妆类产品。雅漾一直是业内抗敏感的典范，这次聚美为您带来的是雅漾(Avene)活泉修护/修护洁面乳200ml，免洗设计，洁净的同时降低肌肤敏感度，形成保护皮肤的屏障。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>雅漾 (Avene)活泉修护/修护洁面乳 200ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/000/000/876_std/876_200_200.jpg" alt="雅漾 (Avene)活泉修护/修护洁面乳 200ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">雅漾 (Avene)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,保湿,滋润</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品容量</b></td>
+                    <td><span>200ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适用人群</b></td>
+                    <td><span>需要呵护肌肤的人士</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>3年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>原产国家</b></td>
+                    <td><span>法国（具体产地以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>本产品为全新正品，有外盒包装。产品名称更新中，具体以收到实物为准，请介意的人士慎重购买。</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <p>
+	<strong> <img src="http://images.jumei.com/deal_content/201211/15/13529619296052.jpg" alt="雅漾(Avene)修护洁面乳200ml，温和养肤。" height="428" width="660" /></strong> 
+</p>
+<p>
+	<span style="color:#666666;font-size:small;font-family:宋体;"><img src="http://p0.jmstatic.com/deal_content/201509/02/14411791839015.jpg" alt="" /><img src="http://images.jumei.com/deal_content/201211/15/13529670743228.jpg" alt="雅漾(Avene)修护洁面乳200ml，聚美实验室。" /><img src="http://p0.jmstatic.com/deal_content/201509/06/14415089047820.jpg" alt="" /> </span> 
+</p>
+<p>
+	<span style="color:#666666;font-size:small;font-family:宋体;"> </span> 
+</p>
+<p style="white-space:normal;">
+	<span style="font-family:'sans serif', tahoma, verdana, helvetica;font-size:16px;line-height:1.5;color:#333333;"><strong>极度敏感、受损肌肤卸妆乳</strong></span> 
+</p>
+<p style="white-space:normal;">
+	<span style="color:#666666;font-size:12px;">适用于先天和后天敏感皮肤，受损和耐受性差的肌肤，后天侵害（污染、气候、刺激、压力）导致的敏感皮肤表现为刺痒、有紧绷感。</span> 
+</p>        </textarea>
+    
+fangfa:
+        <p>
+	<span style="font-size:12px;">早晚使用，用化妝棉或指腹，以划小圆圈方式轻轻按摩脸部。再以面纸试净，不需水洗。如有需要，可再使用一次彻底清洁。最后可用喷雾再次清洁，擦拭干净使皮肤完美无缺。 &nbsp;&nbsp;</span> 
+</p>
+<p>
+	<strong><span style="font-size:12px;">温馨提示：</span></strong><span style="font-size:12px;">护肤品成分各有不同，敏感性肌肤的人士请先在耳后进行测试后再使用哦！</span><img src="http://p0.jmstatic.com/deal_content/201405/28/14012449793772.jpg" alt="" /> 
+</p>        </textarea>
+    

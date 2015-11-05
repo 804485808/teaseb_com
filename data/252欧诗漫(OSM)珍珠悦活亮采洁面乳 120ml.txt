@@ -1,0 +1,61 @@
+title:欧诗漫(OSM)珍珠悦活亮采洁面乳 120ml
+price:82
+thumb:src='http://p0.jmstatic.com/product/001/267/1267187_std/1267187_350_350.jpg' jqimg='http://p0.jmstatic.com/product/001/267/1267187_std/1267187_1000_1000.jpg' 
+canshu:
+    <h2 class="detail_title"></h2>
+    <div class="mall_detail_des">
+        <textarea class="deal_lazy_text">
+            <p class="mar_t15">
+                欧诗漫(OSM)珍珠悦活亮采洁面乳120ml，深澈洁净，舒悦清新，富含氨基酸，清洁力极佳，杜绝污垢与彩妆残留，洗后肌肤清新舒爽，活力倍增。            </p>
+            <table border="0" class="parameter_table" cellspacing="0" cellpadding="0" width="700">
+                <tbody>
+                <tr>
+                    <td width="85"><b>商品名称：</b></td>
+                    <td width="250">
+                        <span>欧诗漫(OSM)珍珠悦活亮采洁面乳 120ml</span>
+                    </td>
+                    <td rowspan="7" align="right" valign="bottom"><img src="http://p0.jmstatic.com/product/001/267/1267187_std/1267187_200_200.jpg" alt="欧诗漫(OSM)珍珠悦活亮采洁面乳 120ml" border="0"></td>
+                </tr>
+                <tr>
+                    <td><b>品&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;牌：</b></td>
+                    <td><span itemprop="brand">欧诗漫(OSM)</span></td>
+                </tr>
+                <tr>
+                    <td><b>功&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;效：</b></td>
+                    <td><span>清洁,补水,净肤,清爽</span></td>
+                </tr>
+                                <tr>
+                    <td><b>生产地区</b></td>
+                    <td><span>浙江</span></td>
+                </tr>
+                                <tr>
+                    <td><b>产品规格</b></td>
+                    <td><span>120ml</span></td>
+                </tr>
+                                <tr>
+                    <td><b>保质期限</b></td>
+                    <td><span>4年（具体日期以收到实物为准）</span></td>
+                </tr>
+                                <tr>
+                    <td><b>特别说明</b></td>
+                    <td><span>全新正品有塑封。</span></td>
+                </tr>
+                                <tr>
+                    <td><b>适合肤质</b></td>
+                    <td><span>任何肤质</span></td>
+                </tr>
+                                </tbody>
+            </table>
+        </textarea>
+    
+content:
+            <img src="http://p0.jmstatic.com/banner/201509/01/1441116915.2012.jpg" alt="" /><img src="http://p0.jmstatic.com/banner/201509/01/1441116915.5783.jpg" alt="" /><img src="http://p0.jmstatic.com/deal_content/201510/23/14455882473291.jpg" alt="" />        </textarea>
+    
+fangfa:
+        <p style="white-space:normal;color:#333333;line-height:20px;padding:0px;font-family:Tahoma, Geneva, sans-serif;background-color:#FFFFFF;">
+	<span style="font-family:SimSun;line-height:1.5;">取适量加水轻揉，均匀涂于面部，轻轻打圈按摩后，用清水洗净。</span> 
+</p>
+<p style="white-space:normal;color:#333333;line-height:20px;padding:0px;font-family:Tahoma, Geneva, sans-serif;background-color:#FFFFFF;">
+	<strong><span style="font-family:SimSun;line-height:1.5;">温馨提示：</span></strong><span style="font-family:SimSun;line-height:1.5;">护肤品中成分各有不同，敏感性肌肤的人士进行测试后再使用哦！</span> 
+</p>        </textarea>
+    
