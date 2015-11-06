@@ -4,16 +4,11 @@
  * @package sample
  * @subpackage classes
  */
-class Member_model extends MY_Model{
+class Member_model extends CI_Model{
     function __construct(){
         parent::__construct();
     }
 
-    public  $_link1 = array(
-
-    );
-
-    public  $_table = 'member';
     /**
      * 查询member公共方法
      * @param string $files  查询字段

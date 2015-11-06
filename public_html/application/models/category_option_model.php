@@ -5,147 +5,103 @@ class Category_option_model extends MY_Model
     function __construct()
     {
         parent::__construct();
+		$this->load->model("category_model","category");
     }
-
-
-    public $mainTable = 'wl_category_option';
-
-    /**
-     * 关联表
-     * @var array
+	
+	static $table = "category_option";
+	
+	/**
+     * 获取属性名称
+     * @param $oid int
+     * @return array 
      */
-    protected $_link = array(
-        'Value'=>array(
-            'table'=>'wl_category_value',
-            'selfKey'=>'oid',
-            'otherKey'=>'oid'
-        ),
-    );
-    public $_link1 = array(
-        'Category_value'=>array(
-            'selfKey'=>'oid',
-            'linkKey'=>'oid'
-        ),
-    );
-    public $_table='category_option';
-
-    /**
-     * 创建 主表匹配数组
-     * @return array|bool
-     */
-    public function creatData($data){
-        return $this->createDateCommon($data,$this->mainTable);
-    }
-
-    /**
-     * 查询sell公共方法
-     * @param string $files 查询字段
-     * @param string $where 条件
-     * @param string $limit limit
-     * @param string $order 排序
-     * @param int $type 1：返回一条一维数据 0:默认返回二维数组
-     * @return array 查询结果
-     */
-    public function getOptionCommon($files = '*', $where = '', $order = '', $limit = '', $type = 0)
-    {
-        $sql = "SELECT " . $files;
-        $sql .= " FROM ".$this->mainTable;
-        if ($where) {
-            $sql .= " WHERE " . $where;
-        }
-
-        if ($order) {
-            $sql .= " ORDER BY " . $order;
-        }
-
-        if ($limit) {
-            $sql .= " LIMIT " . $limit;
-        }
-
-        $query = $this->db->query($sql);
-
-        if ($query->num_rows > 0) {
-            if (!$type) {
-                return $query->result_array();
-            } else {
-                return $query->row_array();
-            }
-        } else {
-            return array();
-        }
-
-    }
-
-
-    /**
-     * 连表查询 公共方法
-     * @param string $files 查询字段
-     * @param array $manTable 主表 array('表名'=>'别名')
-     * @param array $link 关联表 array('$_link'=>'别名')
-     * @param string $where 查询条件
-     * @param string $order 排序
-     * @param string $limit limit
-     * @param int $type 1：返回一条一维数据 0:默认返回二维数组
-     * @return array
-     */
-    public function getOptionCommonLink($files = '*', $manTable, $link, $where = '', $order = '', $limit = '', $type = 0)
-    {
-        $manTableName = key($manTable);
-        $manTableAlse = $manTable[$manTableName];
-        $sql = "SELECT " . $files;
-        $sql .= " FROM " . $manTableName . " AS " . $manTableAlse;
-
-        if ($link) {
-            while ($key = key($link)) {
-                $sql .= " LEFT JOIN " . $this->_link[$key]['table'] . " AS " . $link[$key] . " ON " . $link[$key] . "." . $this->_link[$key]['otherKey'] . " = " . $manTableAlse . "." . $this->_link[$key]['selfKey'];
-                next($link);
-            }
-        }
-
-        if ($where) {
-            $sql .= " WHERE " . $where;
-        }
-
-        if ($order) {
-            $sql .= " ORDER BY " . $order;
-        }
-
-        if ($limit) {
-            $sql .= " LIMIT " . $limit;
-        }
-
-        $query = $this->db->query($sql);
-
-        if ($query->num_rows > 0) {
-            if (!$type) {
-                return $query->result_array();
-            } else {
-                return $query->row_array();
-            }
-        } else {
-            return array();
-        }
-
-    }
-
+	
+	public function getOption($oid){
+		$oid = intval($oid);
+		if(!is_int($oid) or empty($oid)){
+			throw new Exception("param oid is not Int");
+		}
+		return $this->find(self::$table,array("oid"=>$oid));
+	}
+	
+	
     /**
      * 获取商品属性
-     * @param $pptword
      * @param $itemid
-     * @return array
+     * @return array  array([属性名称]=>array("name"=>"power","value"=>"1500W"),[属性名称1].....)
      */
-    public function getSellOption($pptword,$itemid){
-        $temp = $this->SelectCommon('t1.name,t2.value',
-            array('Category_value'=>'left'),'',array('t1.oid in'=>$pptword,'t2.itemid'=>$itemid),array('t1.item'=>'desc'));
-        return $temp;
+    public function getSellOption($itemid){
+		$rs = $this->findAll("category_value",array("itemid"=>$itemid));
+		if(!$rs){
+			return false;
+		}
+		$op_value = array();
+		foreach($rs as $k => $r){
+			$option = $this->getOption($r['oid']);
+			$op_value[$option['name']]['name'] = $option['name'];
+			$op_value[$option['name']]['value'] = $r['value'];
+		}
+        return $op_value;
     }
-
-    public function getAlloption($pptword){
-        $sql = "select oid,name from wl_category_option  WHERE oid in ({$pptword})   GROUP by name ";
-        $query = $this->db->query($sql);
-        return $query->result_array();
-    }
-
+	
+	 /**
+     * 获取分类下默认属性和值  
+     * return array("属性名"=>array(category_option_value全字段))
+     */
+	public function getCategoryDefaultOption($catid){
+		$notOption = array(3511,3512,3513,3514,3515,3516,3517,3518,3519,3520,3521);
+		if(in_array($catid,$notOption)){
+			return false;
+		}
+		$doption = $this->findAll(self::$table,array("catid"=>$catid,"required"=>1),"listorder asc");
+		if(!$doption){
+			$topCategory = $this->category->getTopParentCategory($catid);
+			$doption = $this->findAll(self::$table,array("catid"=>$topCategory['catid'],"required"=>1),"listorder asc");
+			if(!$doption){
+				return false;
+			}
+		}
+		
+		foreach($doption as $k => $v){
+			$op_value[$v['name']] = $this->comm->findAll("category_option_value",array("oid"=>$v['oid']),"id asc");
+		}
+		return $op_value;
+	}
+	
+	/**
+	 * 返回唯一化地址 分类下的属性
+	 * $arrayAttrids array("oid的值"=>"option_value表的id值",.....)
+	 * 
+	 */
+	public function getCategoryOptionCanonical($arrayAttrids,$catid){
+		if(!is_array($arrayAttrids) || empty($arrayAttrids)){
+			throw new Exception("arrayAttrids Param is not Array Or Empty");
+		}
+		$notOption = array(3511,3512,3513,3514,3515,3516,3517,3518,3519,3520,3521);
+		if(in_array($catid,$notOption)){
+			return false;
+		}
+		$tmpsql = '';
+		$num = count($arrayAttrids);
+		foreach($arrayAttrids as $oid => $iid){
+			$tmpsql.= " and FIND_IN_SET('".$oid."|".$iid."',attrs)";
+		}
+		$OptionCanonical = $this->comm->find("attrtag","catid = {$catid} and num = {$num} {$tmpsql}");
+		
+		if(!$OptionCanonical){
+			$topCategory = $this->category->getTopParentCategory($catid);
+			$OptionCanonical = $this->comm->find("attrtag","catid = {$topCategory['catid']} and num = {$num} {$tmpsql}");
+			if(!$OptionCanonical){
+				return false;
+			}
+			$thisCategory = $this->category->getCategory($catid);
+			$OptionCanonical['catname'] = $thisCategory['catname'];
+		}
+		
+		$OptionCanonical['title'] = $OptionCanonical['tag']." ".$OptionCanonical['catname'];
+		$OptionCanonical['titlelinkurl']  = preg_replace("/[^0-9a-z]+/i","-",$OptionCanonical['title']);
+		return $OptionCanonical;
+	}
 
 
 

@@ -22,9 +22,12 @@ class Inquiry_model extends MY_Model
 
     public $_link1 = array(
         'Inquiry_data' => array(
-            'table' => 'wl_inquiry_data',
             'selfKey' => 'id',
             'linkKey' => 'id'
+        ),
+        'Sell' => array(
+            'selfKey' => 'sid',
+            'linkKey' => 'itemid'
         )
     );
 
@@ -131,13 +134,29 @@ class Inquiry_model extends MY_Model
     }
 
     /**
-     * 获取最新询单
-     * @param $limit
+     * 获取分类下最新询单
+     * @param $catid int 分类id 0：全部分类
+     * @param $limit  string limit
      * @return array
      */
-    public function getNewInquiry($limit){
-//        return $this->getInquiryCommon('id,title','','postdate desc',$limit);
-        return $this->SelectCommon('id,title','','','',array('postdate'=>'desc'),$limit);
+    public function getNewInquiry($catid=0,$limit){
+        $this->load->model('sell_model','sell');
+        $this->load->model('category_model','category');
+
+        if($catid){
+            $arrchildid = $this->comm->find('category',array('catid' => $catid));
+            if ($arrchildid) {
+                $arrchildid = $arrchildid['arrchildid'];
+            } else {
+                $arrchildid = $catid;
+            }
+
+            $where['t3.catid in']=$arrchildid;
+        }
+        $where['t3.status']=3;
+
+        return $this->SelectCommon('t1.*,t2.message,t3.catid',array('Inquiry_data'=>'left','Sell'=>'left'),'',$where,array('t1.postdate'=>'desc'),$limit);
+
     }
 
 
@@ -147,31 +166,31 @@ class Inquiry_model extends MY_Model
      */
     public function saveInquiry(){
 
-            $sear_arr=$this->input->post();
-            $data = $sear_arr['post'];
-            if($data){
-                $data['ip'] = $this->input->ip_address();
-                $data['postdate'] = time();
+        $sear_arr=$this->input->post();
+        $data = $sear_arr['post'];
+        if($data){
+            $data['ip'] = $this->input->ip_address();
+            $data['postdate'] = time();
 
-                $mainData = $this->creatData($data);
+            $mainData = $this->creatData($data);
 
-                if($this->db->insert('inquiry',$mainData)){
+            if($this->db->insert('inquiry',$mainData)){
 
-                    $dataDetail['id'] = mysql_insert_id();
-                    $dataDetail['message'] = $sear_arr['content'];
-                    if($this->db->insert('inquiry_data',$dataDetail)){
-                        return true;
-                    }else{
-                        return false;
-                    }
+                $dataDetail['id'] = mysql_insert_id();
+                $dataDetail['message'] = $sear_arr['content'];
+                if($this->db->insert('inquiry_data',$dataDetail)){
+                    return true;
                 }else{
                     return false;
                 }
-
             }else{
                 return false;
             }
+
+        }else{
+            return false;
         }
+    }
 
 
 }

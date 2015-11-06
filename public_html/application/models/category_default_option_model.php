@@ -22,14 +22,6 @@ class Category_default_option_model extends MY_Model
         ),
     );
 
-    public $_link1 = array(
-        'Category_option'=>array(
-            'selfKey'=>'oid',
-            'linkKey'=>'oid'
-        ),
-    );
-    public $_table='category_default_option';
-
     /**
      * 创建 主表匹配数组
      * @return array|bool
